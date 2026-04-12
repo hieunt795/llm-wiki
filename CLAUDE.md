@@ -16,18 +16,54 @@ signal when available — prioritize highlighted regions for concept extraction.
 3. Read `00_Schema/index.md` — understand existing knowledge state
 
 ## Operations
-- **ingest**: Run Phase A (declare candidates, wait for confirm) then Phase B (generate)
-- **query**: Read index → select relevant nodes → synthesize → optionally save as new wiki page
-- **lint**: Find orphans, broken links, uncited claims, duplicates → output lint report
+
+### ingest (fully automated, two-phase)
+**Phase A — Concept Declaration:**
+- Read the PDF chapter directly
+- List all concept candidates: `| Tên concept | Type | Trang | Alias trùng? |`
+- Check alias_registry.md for each candidate
+
+**Phase B — Generate (auto-proceed, no confirm needed):**
+- Create files per schema.md templates
+- Write directly to `03_Wiki/[type]/` — NO inbox staging
+- Update `00_Schema/alias_registry.md` with new entries
+- Log to `00_Schema/log.md`
+- Run lint immediately after generation
+- Output lint report to `04_Outputs/lint_[date].md`
+
+**Hard limits:**
+- ≤ 15 nodes per chapter
+- Every claim must have `[extracted]`, `[inferred]`, or `[ambiguous]` tag
+- Every `[extracted]` claim must have `[[source.pdf#page=X]]` citation
+
+### query
+Read index → select relevant nodes → synthesize → optionally save as new wiki page in `04_Outputs/`
+
+### lint (auto-run after every ingest batch)
+1. Orphan check: nodes with no incoming or outgoing wikilinks
+2. Duplicate scan: compare alias_registry vs actual nodes
+3. Missing citation: claims without `[extracted]` tag + page ref
+4. Broken links: `[[wikilinks]]` pointing to non-existent files
+5. Wrong type: nodes classified incorrectly per schema
+→ Auto-fix orphans and broken links when possible
+→ Flag wrong-type nodes for review (do not delete)
+→ Output: `04_Outputs/lint_[date].md`
+
+### index rebuild (after every lint pass)
+- Scan all `03_Wiki/` frontmatter
+- Rebuild `00_Schema/index.md` by type + tag
+- Mark God Nodes (≥ 5 incoming wikilinks)
 
 ## Output rules
-- All AI-generated files go to `02_Inbox/` first. Never write directly to `03_Wiki/`
-- Filename format: `YYYY-MM-DD_[Source]_[ConceptName].md`
-- Every file must have valid YAML frontmatter (see schema.md for templates)
-- Every claim body must have a citation: `[[filename.pdf#page=X]]`
-- Update `00_Schema/log.md` and `00_Schema/alias_registry.md` after every ingest run
+- All wiki nodes go directly to `03_Wiki/[type]/`
+- Filename format: `ConceptName.md` (PascalCase with underscores)
+- Every file must have valid YAML frontmatter (see schema.md)
+- Every claim must have a citation: `[[filename.pdf#page=X]]`
+- Update `00_Schema/log.md` and `00_Schema/alias_registry.md` after every ingest
 
 ## Never
-- Write directly to `01_Raw_Sources/`
+- Write to or modify files in `01_Raw_Sources/`
 - Delete any node — mark as `deprecated: true` in frontmatter instead
 - Merge two nodes without logging in `log.md`
+- Invent node types not defined in `schema.md`
+- Flatten contradictions — always create Contradiction Nodes (TYPE 6)
