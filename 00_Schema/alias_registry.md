@@ -32,5 +32,15 @@
 | Promotional Lending | — | [[Promotional_Lending]] | mechanism |
 | Banking Separation Principle | — | [[Banking_Separation_Principle]] | mechanism |
 | Narrow Banking | Positive Money | [[Narrow_Banking]] | definition |
+| Bank Money Creation | — | [[Bank_Money_Creation]] | mechanism |
+| Interbank Netting | — | [[Interbank_Netting]] | mechanism |
+| Nostro Account | Tài khoản Nostro, Correspondent Banking | [[Nostro_Account]] | definition |
+| Main RTGS Systems | — | [[Main_RTGS_Systems]] | evidence |
+| Intraday Overdraft | — | [[Intraday_Overdraft]] | mechanism |
+| Trade Credit | — | [[Trade_Credit]] | mechanism |
+| Bills Of Exchange | Hối phiếu, Banker's Acceptance | [[Bills_Of_Exchange]] | definition |
+| Discounting | — | [[Discounting]] | mechanism |
+| Cryptocurrencies | Tiền điện tử mã hóa, Blockchain-based money | [[Cryptocurrencies]] | definition |
+| Money Multiplier Formula | — | [[Money_Multiplier_Formula]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
