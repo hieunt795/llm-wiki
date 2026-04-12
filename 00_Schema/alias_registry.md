@@ -77,5 +77,11 @@
 | VaR Shock Feedback Loop | — | [[VaR_Shock_Feedback_Loop]] | mechanism |
 | RTGS Money Velocity | — | [[RTGS_Money_Velocity]] | evidence |
 | Money Multiplier Collapse | — | [[Money_Multiplier_Collapse]] | evidence |
+| Bearer Vs Registered Securities | Chứng khoán vô danh và kỳ danh | [[Bearer_Vs_Registered_Securities]] | definition |
+| Schuldschein | Transferrable loan, Promissory note, Chứng thư nợ Đức | [[Schuldschein]] | definition |
+| Book Entry Securities System | Global note, CSD, LCSD, GCSD, Lưu ký chứng khoán | [[Book_Entry_Securities_System]] | mechanism |
+| Bond Tap Funging | Gộp mã ISIN, Funging | [[Bond_Tap_Funging]] | mechanism |
+| ISIN Code | ISIN | [[ISIN_Code]] | definition |
+| CUSIP Code | CUSIP | [[CUSIP_Code]] | definition |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.

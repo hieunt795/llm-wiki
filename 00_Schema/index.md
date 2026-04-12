@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 68
+- Tổng số node: 74
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–9)
+- Sources ingested: 1 (Fixed Income During — Ch.1–10)
 
 ## By type
 
-### Definitions (26)
+### Definitions (30)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -23,32 +23,28 @@
 
 **Ch.5 đến 9 — Ngân hàng Trung Ương, Chính sách & Khủng hoảng:**
 - [[Central_Bank]], [[Free_Banking]]
-- [[Monetary_Policy_Targeting]] — Mục tiêu Lạm phát, Mức giá, Nhiệm vụ kép
-- [[Lucas_Critique]] — Các tương quan lịch sử không đúng khi tự do chính sách
-- [[Goodharts_Law]] — Chỉ báo mất tính thông tin khi được dùng làm mục tiêu
-- [[Base_Money]] — (M0) Cấu dư nợ ngắn hạn NHTW
-- [[Fed_Put]] — Quyền chọn bệ đỡ giá cổ phiếu để giữ Wealth Effect (chi tiêu)
-- [[Fiscal_Dominance]] — Áp đảo tài khóa: Mất độc lập vì trung ương cầm quá nhiều nợ CP
+- [[Monetary_Policy_Targeting]], [[Lucas_Critique]], [[Goodharts_Law]]
+- [[Base_Money]], [[Fed_Put]], [[Fiscal_Dominance]]
 
-### Mechanisms (32)
+**Ch.10 — Cơ sở hạ tầng Giấy tờ (Instruments & Contracts):**
+- [[Bearer_Vs_Registered_Securities]] — Chứng khoán vô danh và kỳ danh
+- [[Schuldschein]] — Hợp đồng vay chuyển nhượng của Đức (chiêu trò né mark-to-market)
+- [[ISIN_Code]] — Mã định danh chứng khoán quốc tế 12 ký tự chuẩn ISO
+- [[CUSIP_Code]] — Mã định danh 9 ký tự nội địa Mỹ (có bộ lọc loại trừ Equity vs FI)
+
+### Mechanisms (34)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
 - [[Lender_Of_Last_Resort]], [[Monetary_Financing]] 
-- [[Quantity_Equation_Of_Money]] — Phương trình $MV = PY$
-- [[Operational_Framework_Principles]] — Parsimony, Stability, Moderation, Separation
+- [[Quantity_Equation_Of_Money]], [[Operational_Framework_Principles]]
 - [[Symmetric_Interest_Rate_Corridor]], [[Asymmetric_Lending_Corridor]]
 - [[Liquidity_Operations]], [[Rediscounting]], [[Open_Market_Operations]], [[Repo_Operations]]
-- [[FX_Sterilisation]] — Tiệt trùng thanh khoản tiền mặt dội ra từ FX
-- [[Forward_Guidance]] — Delphic và Odyssean model ghim kỳ vọng qua tuyên bố mồm
-- [[Collateral_Widening_As_Policy]] — Mở lưới nhận thế chấp hàng dạt để tiêm trực tiếp thanh khoản
-- [[Quantitative_Easing]] — Điều hành qua lượng thay vì giá (Lãi suất)
-- [[QE_Transmission_Channels]] — 8 đường cống dẫn vốn từ QE ra lạm phát/giá tài sản
-- [[QE_Asset_Choice]] — Ma trận lựa chọn hệ lụy của các tài sản mua đứt trong gói QE
-- [[Helicopter_Money]] — In tiền tài trợ và roll-over vốn gốc chính phủ vĩnh viễn
-- [[Negative_Interest_Rates_Policy]] — Lãi âm (NIRP) đâm thủng ZLB nhờ chênh lệch chi phí kho tiền vật lý
-- [[QE_Liquidity_Distortion]] — Mua hàng loạn xạ (Index Neutral) bóp nghẹt thanh khoản Trái phiếu xịn 
-- [[VaR_Shock_Feedback_Loop]] — Cái chết của phe Short và thảm sát đứt thanh khoản rơi tự do
+- [[FX_Sterilisation]], [[Forward_Guidance]], [[Collateral_Widening_As_Policy]]
+- [[Quantitative_Easing]], [[QE_Transmission_Channels]], [[QE_Asset_Choice]]
+- [[Helicopter_Money]], [[Negative_Interest_Rates_Policy]], [[QE_Liquidity_Distortion]], [[VaR_Shock_Feedback_Loop]]
+- [[Book_Entry_Securities_System]] — Lưu ký điện tử (CSD) cầm Global Note, bù trừ qua Euroclear/Clearstream
+- [[Bond_Tap_Funging]] — Nghiệp vụ gộp mã ISIN (Funging) khi phát hành thêm (Tap) khác ngày thanh toán
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)
