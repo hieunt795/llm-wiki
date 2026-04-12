@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 81
+- Tổng số node: 86
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–11)
+- Sources ingested: 1 (Fixed Income During — Ch.1–12)
 
 ## By type
 
-### Definitions (33)
+### Definitions (35)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -26,7 +26,7 @@
 - [[Monetary_Policy_Targeting]], [[Lucas_Critique]], [[Goodharts_Law]]
 - [[Base_Money]], [[Fed_Put]], [[Fiscal_Dominance]]
 
-**Ch.10, 11 — Mạch máu Lưu ký, Giấy phép & Cơ chế Giao dịch:**
+**Ch.10, 11, 12 — Hạ Tầng Giấy Phép, Bù Trừ & Giao Dịch:**
 - [[Bearer_Vs_Registered_Securities]] — Chứng khoán vô danh và kỳ danh
 - [[Schuldschein]] — Hợp đồng vay chuyển nhượng của Đức (chiêu trò né mark-to-market)
 - [[ISIN_Code]] — Mã định danh chứng khoán quốc tế 12 ký tự chuẩn ISO
@@ -34,8 +34,10 @@
 - [[OTC_Vs_Exchange_Trading]] — Vòng giao tiếp Sổ lệnh đại chúng vs Mua bán sòng phẳng song phương
 - [[Herstatt_Risk]] — Rủi ro sụp nguồn thanh toán đơn phương do lệch múi giờ giao nhận
 - [[Rolling_Vs_Fixed_Settlement]] — Trượt ngày thanh toán T+2 và cội nguồn Backwardation
+- [[Central_Counterparty]] — Rốn bù trừ tín dụng tập trung CCP (ngắt rủi ro n(n-1) thành n)
+- [[Agency_Vs_Principal_Clearing]] — 2 Thái cực thiết kế CCP thấu thị số liệu vs mù lòa
 
-### Mechanisms (37)
+### Mechanisms (40)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -51,6 +53,9 @@
 - [[Liquidity_Hierarchy_In_Pricing]] — Hiệu ứng sóng đổ định giá từ on-the-run lan xuống rác
 - [[Delivery_Versus_Payment]] — Nút thắt khóa giải thoát cho Herstatt risk, rổ lệnh bù trừ theo khung thời gian
 - [[Settlement_Fails_And_Cures]] — Rắc rối ngưng đọng giấy tờ, vòng lặp vay repo 0% và đứt thanh khoản
+- [[Variation_Margin_Vs_Initial_Margin]] — Cơ chế bơm rú tiền tươi (VM) và đệm niêm phong trái phiếu (IM) bảo vệ CCP
+- [[CCP_Default_Waterfall]] — Thác vỡ nợ CCP buộc các con mồi phải đấu giá ôm rác (Bidding Obligation)
+- [[XVA_Adjustments]] — Quả đấm trí mạng vào Kế toán IFRS 39 (CVA, FVA, DVA)
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)

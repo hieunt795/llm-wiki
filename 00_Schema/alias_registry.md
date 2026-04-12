@@ -90,5 +90,10 @@
 | Delivery Versus Payment | DvP, Giao tiền nhận phiếu | [[Delivery_Versus_Payment]] | mechanism |
 | Settlement Fails And Cures | Thất tín giao nhận, Buy-ins, Partial fail | [[Settlement_Fails_And_Cures]] | mechanism |
 | Rolling Vs Fixed Settlement | T+2, T+0, Nguồn gốc Backwardation | [[Rolling_Vs_Fixed_Settlement]] | definition |
+| Central Counterparty | CCP, Clearing House, Đối tác bù trừ tập trung | [[Central_Counterparty]] | definition |
+| Variation Margin Vs Initial Margin | VM, IM, Ký quỹ biến đổi, Ký quỹ ban đầu | [[Variation_Margin_Vs_Initial_Margin]] | mechanism |
+| CCP Default Waterfall | Thác vỡ nợ CCP, Default fund, Bidding obligation | [[CCP_Default_Waterfall]] | mechanism |
+| Agency Vs Principal Clearing | Indirect clearing, Clearing Agent | [[Agency_Vs_Principal_Clearing]] | definition |
+| XVA Adjustments | CVA, FVA, DVA, Điều chỉnh giá trị định giá phi tập trung | [[XVA_Adjustments]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
