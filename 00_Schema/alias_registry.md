@@ -131,5 +131,14 @@
 | Present Value Of A Basis Point | PVBP, DV01, BPV, Basis Point Value, Giá trị của một điểm cơ bản | [[Present_Value_Of_A_Basis_Point]] | mechanism |
 | Special Purpose Vehicle SPV | SPV, Special Purpose Vehicle, ABS, Asset-Backed Securities, Tách vỏ tài sản | [[Special_Purpose_Vehicle_SPV]] | definition |
 | Government Sponsored Entities | GSEs, Agencies, Fannie Mae, Freddie Mac, FHLMC, FRMC | [[Government_Sponsored_Entities]] | definition |
+| Floating Rate Notes FRN | FRN, Variable-rate note, Trái phiếu lãi suất thả nổi, Lãi suất FRN | [[Floating_Rate_Notes_FRN]] | definition |
+| FRN Coupon Reset Mechanics | Quoted margin, Độ trễ Reset, Reset lag, In-arrears FRN, Spread biên | [[FRN_Coupon_Reset_Mechanics]] | mechanism |
+| Inverse Floater | Trái phiếu FRN nghịch đảo, Nghịch đảo thả nổi, max(0, mu - R) | [[Inverse_Floater]] | mechanism |
+| FRN Implicit Coupon Floor | Sàn không âm, Coupon floor, Zero-floor, max(0, C) | [[FRN_Implicit_Coupon_Floor]] | mechanism |
+| FRN Par Value Mechanism | Cơ chế bình ổn giá FRN, Pull-to-par on reset, Hồi quang mệnh giá | [[FRN_Par_Value_Mechanism]] | mechanism |
+| Overnight Index Rates FRN Compounding | OIS FRN, SOFR compound FRN, Không ghép lãi margin, P(t) Intermediate Rate | [[Overnight_Index_Rates_FRN_Compounding]] | mechanism |
+| Discount Margin FRN | Discount Margin, Điểm chí mạng FRN, Lợi suất FRN Mặc định, Biên chiết khấu | [[Discount_Margin_FRN]] | mechanism |
+| CMT And CMS Floaters | CMT Floater, CMS Floater, Constant-maturity treasury, TEC10, ISDAfix, ICE Swap Rate | [[CMT_And_CMS_Floaters]] | definition |
+| CMT CMS Convexity And Hedging Risk | Lệch pha bù trừ CMT CMS, CMT Convexity, Swap-spread basis risk | [[CMT_CMS_Convexity_And_Hedging_Risk]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
