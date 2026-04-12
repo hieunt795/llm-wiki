@@ -66,5 +66,11 @@
 | Role Of Market Volatility | — | [[Role_Of_Market_Volatility]] | perspective |
 | Forward Guidance | Định hướng tương lai, Delphic Guidance, Odyssean Guidance | [[Forward_Guidance]] | mechanism |
 | Collateral Widening As Policy | TSLF, Nới lỏng tài sản thế chấp | [[Collateral_Widening_As_Policy]] | mechanism |
+| Quantitative Easing | QE, LSAP, Large-Scale Asset Purchases | [[Quantitative_Easing]] | mechanism |
+| QE Transmission Channels | — | [[QE_Transmission_Channels]] | mechanism |
+| Helicopter Money | Perpetual Debt Monetization, Rải tiền trực thăng | [[Helicopter_Money]] | mechanism |
+| Negative Interest Rates Policy | NIRP, ZLB, Zero Lower Bound | [[Negative_Interest_Rates_Policy]] | mechanism |
+| QE Liquidity Distortion | Free Float Squeeze, Index Neutral Buying Distortion | [[QE_Liquidity_Distortion]] | mechanism |
+| Output Legitimacy In Central Banking | ECB Mandate Conflict | [[Output_Legitimacy_In_Central_Banking]] | perspective |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
