@@ -17,5 +17,15 @@
 | Redistribution and Debt | — | [[Redistribution_And_Debt]] | relationship |
 | During on Lending Morality | — | [[During_On_Lending_Morality]] | perspective |
 | Scatter Plot Density Visualization | — | [[Scatter_Plot_Density_Visualization]] | mechanism |
+| Money | Tiền, Means of Exchange, Unit of Account, Store of Value | [[Money]] | definition |
+| Cash | Tiền mặt, Physical Money | [[Cash]] | definition |
+| Commodity Money | Tiền hàng hóa, Gold Standard, Specie | [[Commodity_Money]] | definition |
+| Fiat Money | Tiền pháp định, Token Money, Paper Money | [[Fiat_Money]] | definition |
+| Seigniorage | Thuế đúc tiền, Minting Tax | [[Seigniorage]] | definition |
+| Lex Monetae | Quyền tiền tệ quốc gia, Chartalism, MMT | [[Lex_Monetae]] | definition |
+| Inside Money vs Outside Money | Outside Money, Inside Money, Bank Money, Deposit Money | [[Inside_Money_Vs_Outside_Money]] | definition |
+| Reserve Ratio | Tỷ lệ dự trữ, Reserve Requirement | [[Reserve_Ratio]] | definition |
+| Money Credit Link | — | [[Money_Credit_Link]] | mechanism |
+| Coin Value Corridor | — | [[Coin_Value_Corridor]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
