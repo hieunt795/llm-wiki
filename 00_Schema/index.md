@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 86
+- Tổng số node: 93
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–12)
+- Sources ingested: 1 (Fixed Income During — Ch.1–13)
 
 ## By type
 
-### Definitions (35)
+### Definitions (37)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -26,7 +26,7 @@
 - [[Monetary_Policy_Targeting]], [[Lucas_Critique]], [[Goodharts_Law]]
 - [[Base_Money]], [[Fed_Put]], [[Fiscal_Dominance]]
 
-**Ch.10, 11, 12 — Hạ Tầng Giấy Phép, Bù Trừ & Giao Dịch:**
+**Ch.10 đến 13 — Hạ Tầng Giấy Phép, Bù Trừ & Money Market:**
 - [[Bearer_Vs_Registered_Securities]] — Chứng khoán vô danh và kỳ danh
 - [[Schuldschein]] — Hợp đồng vay chuyển nhượng của Đức (chiêu trò né mark-to-market)
 - [[ISIN_Code]] — Mã định danh chứng khoán quốc tế 12 ký tự chuẩn ISO
@@ -36,8 +36,10 @@
 - [[Rolling_Vs_Fixed_Settlement]] — Trượt ngày thanh toán T+2 và cội nguồn Backwardation
 - [[Central_Counterparty]] — Rốn bù trừ tín dụng tập trung CCP (ngắt rủi ro n(n-1) thành n)
 - [[Agency_Vs_Principal_Clearing]] — 2 Thái cực thiết kế CCP thấu thị số liệu vs mù lòa
+- [[Daycount_Conventions]] — Di bút thước đo mượn từ kỉ nguyên Loga act/360
+- [[Money_Market_Futures]] — Định dạng Hợp đồng tỷ giá 100-Rate sàn điện tử
 
-### Mechanisms (40)
+### Mechanisms (45)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -56,6 +58,11 @@
 - [[Variation_Margin_Vs_Initial_Margin]] — Cơ chế bơm rú tiền tươi (VM) và đệm niêm phong trái phiếu (IM) bảo vệ CCP
 - [[CCP_Default_Waterfall]] — Thác vỡ nợ CCP buộc các con mồi phải đấu giá ôm rác (Bidding Obligation)
 - [[XVA_Adjustments]] — Quả đấm trí mạng vào Kế toán IFRS 39 (CVA, FVA, DVA)
+- [[Discount_Factors_Theory]] — Bản chất linh hồn định giá Df(t) và rào cản thanh khoản
+- [[LIBOR_Benchmark_Mechanism]] — Kỷ nguyên đen tối thao túng tỷ giá đóng họ (Trimmed mean rate)
+- [[Forward_Rate_Agreement]] — Phái sinh sơ khai FRA ôm tiền ngay vạch đích 
+- [[OIS_And_Benchmark_Reform]] — Cách trừng phạt dọn sạch Libor, đổ bộ qua mô hình SOFR
+- [[Convexity_Bias_In_Futures]] — Hiện tượng nộp Margin ép Futures sai biệt (cước lồi)
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)
@@ -77,6 +84,8 @@
 - [[Monetarist_Vs_Keynesian_Monetary_Views]] — Tranh cãi $dM$ hay $dY$, ECB Two-pillars
 
 ## Orphan Nodes 
+- [[Daycount_Conventions]]
+- [[Discount_Factors_Theory]]
 - [[Intraday_Overdraft]]
 - [[Liquidity_Hierarchy_In_Pricing]]
 - [[OTC_Vs_Exchange_Trading]]
