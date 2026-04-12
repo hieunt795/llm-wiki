@@ -2,74 +2,90 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 37
+- Tổng số node: 47
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–5)
+- Sources ingested: 1 (Fixed Income During — Ch.1–6)
 
 ## By type
 
-### Definitions (20)
+### Definitions (23)
 **Ch.1 — Introduction:**
-- [[Fixed_Income_Instrument]] — Hợp đồng thanh toán không phụ thuộc tình hình kinh tế
-- [[Bilateral_Contract_Vs_Security]] — Hình thức pháp lý: non-transferable vs transferable
-- [[Usury_And_Interest_Prohibition]] — Lịch sử cấm cho vay lãi
-- [[Islamic_Finance]] — Hệ thống tài chính tuân thủ Shar'iah
+- [[Interest_Rate_Risk]]
+- [[Modified_Duration]]
+- [[Macaulay_Duration]]
+- [[Convexity]]
+- [[Negative_Convexity]]
+- [[Convexity_Adjustment]]
+- [[Fixed_Income_Instrument]] 
+- [[Bilateral_Contract_Vs_Security]] 
+- [[Usury_And_Interest_Prohibition]] 
+- [[Islamic_Finance]] 
 
 **Ch.2 — Money, Credit and Banking:**
-- [[Money]] — Phương tiện trao đổi, đơn vị tính toán, kho lưu trữ giá trị
-- [[Cash]] — Tiền mặt: finality, anonymity, decentralisation
-- [[Commodity_Money]] — Tiền hàng hóa (có giá trị nội tại)
-- [[Fiat_Money]] — Tiền pháp định
-- [[Seigniorage]] — Thuế từ độc quyền đúc tiền
-- [[Lex_Monetae]] — Quyền lập pháp về tiền tệ
-- [[Inside_Money_Vs_Outside_Money]] — Inside (bank notes) vs Outside (specie)
-- [[Reserve_Ratio]] — Tỷ lệ dự trữ bắt buộc
+- [[Money]] 
+- [[Cash]]
+- [[Commodity_Money]]
+- [[Fiat_Money]] 
+- [[Seigniorage]] 
+- [[Lex_Monetae]] 
+- [[Inside_Money_Vs_Outside_Money]]
+- [[Reserve_Ratio]] 
 
 **Ch.3 & 4 — Banks & Bank Money Creation:**
-- [[Bank]] — Tổ chức trả tiền mặt theo yêu cầu
-- [[Bank_Deposit_Types]] — Demand, Sight, Checking, Time deposits
-- [[Narrow_Banking]] — Positive money (ngân hàng tư nhân không tạo tiền)
-- [[Nostro_Account]] — Tài khoản thanh toán liên ngân hàng
-- [[Bills_Of_Exchange]] — Hối phiếu thương mại
-- [[Cryptocurrencies]] — Tiền điện tử mã hóa (hệ sinh thái phi tập trung)
+- [[Bank]] 
+- [[Bank_Deposit_Types]] 
+- [[Narrow_Banking]] 
+- [[Nostro_Account]] 
+- [[Bills_Of_Exchange]] 
+- [[Cryptocurrencies]] 
 
-**Ch.5 — Central Banks:**
-- [[Central_Bank]] — NHTW xác định qua Nợ (liability side, ultimate quality money), không nhất thiết gắn với quốc gia tài trợ
-- [[Free_Banking]] — Hệ thống ngân hàng tư nhân phát hành giấy bạc, không/ít có NHTW (đối nghịch với Narrow Banking)
+**Ch.5 & Ch.6 — Central Banks & Monetary Policy:**
+- [[Central_Bank]] 
+- [[Free_Banking]]
+- [[Monetary_Policy_Targeting]] — Mục tiêu Lạm phát, Mức giá, Nhiệm vụ kép
+- [[Lucas_Critique]] — Các tương quan lịch sử không đúng khi chính sách chủ động
+- [[Goodharts_Law]] — Chỉ báo mất tính thông tin khi được dùng làm mục tiêu
 
-### Mechanisms (14)
-- [[Annuity_Formula]] — Tính PV dòng thu nhập cố định
-- [[Scatter_Plot_Density_Visualization]] — Phương pháp visualize data
-- [[Money_Credit_Link]] — Bản chất tín dụng ngầm của tiền
-- [[Coin_Value_Corridor]] — Dải giá trị của coin (Equation 2.1)
-- [[Promotional_Lending]] — Lợi thế chi phí vốn của development banks
-- [[Banking_Separation_Principle]] — Ngăn cách nghiệp vụ ngân hàng
-- [[Bank_Money_Creation]] — Tạo tiền bằng Double-entry bookkeeping qua cấp khoản vay
-- [[Interbank_Netting]] — Bù trừ song phương & đa phương
-- [[Intraday_Overdraft]] — Thấu chi trong ngày để tránh gridlock thanh toán
-- [[Trade_Credit]] — Nguồn cho vay ẩn danh qua xuất hóa đơn chậm
-- [[Discounting]] — Chiết khấu hóa đơn (bán quyền đòi nợ lấy tiền mặt)
-- [[Money_Multiplier_Formula]] — Hệ số nhân tiền tệ ($M = 1/r$)
-- [[Lender_Of_Last_Resort]] — Cơ chế cứu trợ thanh khoản (LOLR) của Trung ương trong khủng hoảng
-- [[Monetary_Financing]] — Tạo tiền để tài trợ chính phủ (gây xói mòn tiền tệ, bị luật cấm)
+### Mechanisms (18)
+- [[Annuity_Formula]] 
+- [[Scatter_Plot_Density_Visualization]] 
+- [[Money_Credit_Link]] 
+- [[Coin_Value_Corridor]] 
+- [[Promotional_Lending]]
+- [[Banking_Separation_Principle]] 
+- [[Bank_Money_Creation]] 
+- [[Interbank_Netting]] 
+- [[Intraday_Overdraft]] 
+- [[Trade_Credit]] 
+- [[Discounting]]
+- [[Money_Multiplier_Formula]] 
+- [[Lender_Of_Last_Resort]] 
+- [[Monetary_Financing]] 
+- [[Quantity_Equation_Of_Money]] — Phương trình $MV = PY$ và vi phân đạo hàm
+- [[Operational_Framework_Principles]] — 4 quy tắc: Parsimony, Stability, Moderation, Separation
+- [[Symmetric_Interest_Rate_Corridor]] — Hành lang truyền thống, biến động ở giữa
+- [[Asymmetric_Lending_Corridor]] — Tình trạng hậu QE, lãi suất ghim chết vào sàn
 
 ### Evidence (1)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)
 
-### Perspectives (2)
+### Perspectives (3)
 - [[During_On_Lending_Morality]] — Góc nhìn đạo đức cho vay hiện đại
-- [[Cyclical_Banking_Ideology]] — Tư tưởng tiền tệ dao động từ Free Banking (bùng nổ) sang Positive Money (suy thoái)
+- [[Cyclical_Banking_Ideology]] — Chu kỳ ý thức hệ giữa Free Banking / Positive Money
+- [[Monetary_Resilience_Tradeoff]] — Ẩn dụ Tường Nhật Bản: đổi resilience lấu năng suất tối đa liên tục. (Minsky cycle)
 
 ### Relationships (1)
 - [[Redistribution_And_Debt]] — Phúc lợi xã hội ≈ Fixed income claims
 
-### Contradictions (0)
-*(Trống)*
+### Contradictions (1)
+- [[Monetarist_Vs_Keynesian_Monetary_Views]] — Sự mâu thuẫn về việc dùng $dM$ hay $dY$ để lái nền kinh tế, dẫn đến ECB Two-pillars
 
-## Orphan Nodes (Chưa có link trỏ đến / từ)
+## Orphan Nodes 
 - [[Main_RTGS_Systems]]
 - [[Intraday_Overdraft]]
 - [[Money_Multiplier_Formula]]
+- [[Operational_Framework_Principles]]
 - [[Promotional_Lending]]
 - [[Scatter_Plot_Density_Visualization]]
 - [[Trade_Credit]]
+- [[Monetary_Resilience_Tradeoff]]
