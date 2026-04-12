@@ -102,5 +102,11 @@
 | OIS And Benchmark Reform | SOFR, TONA, ESTR, OIS, Cải cách tỷ giá tham chiếu | [[OIS_And_Benchmark_Reform]] | mechanism |
 | Money Market Futures | 100 - Libor, Hợp đồng tương lai lãi suất ngắn hạn, Eurodollar Future | [[Money_Market_Futures]] | definition |
 | Convexity Bias In Futures | Bất cân xứng Ký quỹ, Convexity chênh lệch futures | [[Convexity_Bias_In_Futures]] | mechanism |
+| Repurchase Agreement | Repo, Hợp đồng mua lại, Bán trước mua sau | [[Repurchase_Agreement]] | definition |
+| General Collateral Vs Special | GC, Special Repo, Đặc biệt, Specific Market | [[General_Collateral_Vs_Special]] | mechanism |
+| Collateral Haircut | Chiết khấu tài sản thế chấp, Wrong-way risk, Repo Margin | [[Collateral_Haircut]] | mechanism |
+| Collateral Transformation | Collateral Swap, Securities lending, Hoán đổi thế chấp | [[Collateral_Transformation]] | mechanism |
+| Tri Party Repo | Repo ba bên | [[Tri_Party_Repo]] | definition |
+| Rehypothecation | Tái thế chấp, Vòng lặp tài sản collateral chain | [[Rehypothecation]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.

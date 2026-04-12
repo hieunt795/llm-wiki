@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 93
+- Tổng số node: 99
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–13)
+- Sources ingested: 1 (Fixed Income During — Ch.1–14)
 
 ## By type
 
-### Definitions (37)
+### Definitions (39)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -26,7 +26,7 @@
 - [[Monetary_Policy_Targeting]], [[Lucas_Critique]], [[Goodharts_Law]]
 - [[Base_Money]], [[Fed_Put]], [[Fiscal_Dominance]]
 
-**Ch.10 đến 13 — Hạ Tầng Giấy Phép, Bù Trừ & Money Market:**
+**Ch.10 đến 14 — Hạ Tầng Giấy Phép, Money Market & Repo:**
 - [[Bearer_Vs_Registered_Securities]] — Chứng khoán vô danh và kỳ danh
 - [[Schuldschein]] — Hợp đồng vay chuyển nhượng của Đức (chiêu trò né mark-to-market)
 - [[ISIN_Code]] — Mã định danh chứng khoán quốc tế 12 ký tự chuẩn ISO
@@ -38,8 +38,10 @@
 - [[Agency_Vs_Principal_Clearing]] — 2 Thái cực thiết kế CCP thấu thị số liệu vs mù lòa
 - [[Daycount_Conventions]] — Di bút thước đo mượn từ kỉ nguyên Loga act/360
 - [[Money_Market_Futures]] — Định dạng Hợp đồng tỷ giá 100-Rate sàn điện tử
+- [[Repurchase_Agreement]] — Repo: Khoản tiền gửi cầm cố và động lực của Sọc Khống
+- [[Tri_Party_Repo]] — Repo ủy thác Két sắt khóa chéo ba bên
 
-### Mechanisms (45)
+### Mechanisms (49)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -63,6 +65,10 @@
 - [[Forward_Rate_Agreement]] — Phái sinh sơ khai FRA ôm tiền ngay vạch đích 
 - [[OIS_And_Benchmark_Reform]] — Cách trừng phạt dọn sạch Libor, đổ bộ qua mô hình SOFR
 - [[Convexity_Bias_In_Futures]] — Hiện tượng nộp Margin ép Futures sai biệt (cước lồi)
+- [[General_Collateral_Vs_Special]] — Luật rừng 2 giá trị Repo: Rác cầm an toàn (GC) và Hàng hiếm cực đoan (Specials)
+- [[Collateral_Haircut]] — Đệm thịt trừ cấn giá và Hội chứng Ngược Đời Wrong-way Risk
+- [[Collateral_Transformation]] — Thuật toán tẩy rác mượn vàng Collateral Swap
+- [[Rehypothecation]] — Dây chuyền Tái thế chấp ma quỷ xé toạc thanh khoản
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)
@@ -92,8 +98,8 @@
 - [[Operational_Framework_Principles]]
 - [[Output_Legitimacy_In_Central_Banking]]
 - [[Promotional_Lending]]
+- [[Rehypothecation]]
 - [[Rolling_Vs_Fixed_Settlement]]
 - [[Scatter_Plot_Density_Visualization]]
-- [[Settlement_Fails_And_Cures]]
 - [[Trade_Credit]]
 - [[Winner_S_Curse_In_Trading]]
