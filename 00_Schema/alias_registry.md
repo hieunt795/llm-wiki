@@ -66,7 +66,7 @@
 | Role Of Market Volatility | — | [[Role_Of_Market_Volatility]] | perspective |
 | Forward Guidance | Định hướng tương lai, Delphic Guidance, Odyssean Guidance | [[Forward_Guidance]] | mechanism |
 | Collateral Widening As Policy | TSLF, Nới lỏng tài sản thế chấp | [[Collateral_Widening_As_Policy]] | mechanism |
-| Quantitative Easing | QE, LSAP, Large-Scale Asset Purchases | [[Quantitative_Easing]] | mechanism |
+| Quantitative Easing | QE, LSAP, Large-Scale Asset Purchases, Operation Twist | [[Quantitative_Easing]] | mechanism |
 | QE Transmission Channels | — | [[QE_Transmission_Channels]] | mechanism |
 | Helicopter Money | Perpetual Debt Monetization, Rải tiền trực thăng | [[Helicopter_Money]] | mechanism |
 | Negative Interest Rates Policy | NIRP, ZLB, Zero Lower Bound | [[Negative_Interest_Rates_Policy]] | mechanism |
@@ -97,7 +97,7 @@
 | XVA Adjustments | CVA, FVA, DVA, Điều chỉnh giá trị định giá phi tập trung | [[XVA_Adjustments]] | mechanism |
 | Discount Factors Theory | Df(t), Chiết khấu, Dòng tiền chiết khấu | [[Discount_Factors_Theory]] | mechanism |
 | Daycount Conventions | act/360, 30/360, act/act, Số ngày tích lũy lãi | [[Daycount_Conventions]] | definition |
-| LIBOR Benchmark Mechanism | Euribor, Đóng họ lãi suất, Trimmed mean interbank rate | [[LIBOR_Benchmark_Mechanism]] | mechanism |
+| LIBOR Benchmark Mechanism | Euribor, LIBID, Đóng họ lãi suất, Trimmed mean interbank rate | [[LIBOR_Benchmark_Mechanism]] | mechanism |
 | Forward Rate Agreement | FRA, Hợp đồng kỳ hạn lãi suất, Forward-rate agreement | [[Forward_Rate_Agreement]] | mechanism |
 | OIS And Benchmark Reform | SOFR, TONA, ESTR, OIS, Cải cách tỷ giá tham chiếu | [[OIS_And_Benchmark_Reform]] | mechanism |
 | Money Market Futures | 100 - Libor, Hợp đồng tương lai lãi suất ngắn hạn, Eurodollar Future | [[Money_Market_Futures]] | definition |
@@ -108,8 +108,11 @@
 | Collateral Transformation | Collateral Swap, Securities lending, Hoán đổi thế chấp | [[Collateral_Transformation]] | mechanism |
 | Tri Party Repo | Repo ba bên | [[Tri_Party_Repo]] | definition |
 | Rehypothecation | Tái thế chấp, Vòng lặp tài sản collateral chain | [[Rehypothecation]] | mechanism |
-| OTC Trade Lifecycle | Quy trình vòng đời giao dịch, Allocation, DK, Don't Know | [[OTC_Trade_Lifecycle]] | mechanism |
+| OTC Trade Lifecycle | Quy trình vòng đời giao dịch, Allocation, DK, Consolidated Tape, Block Trades | [[OTC_Trade_Lifecycle]] | mechanism |
 | Firm Vs Indicative Quotes | Báo giá cứng, Báo giá mềm, Two-way quote, Choice price | [[Firm_Vs_Indicative_Quotes]] | definition |
 | Mistrade And Fat Finger | Giao dịch nhầm, Fat Finger Error, Hủy giao dịch | [[Mistrade_And_Fat_Finger]] | mechanism |
+| Compounding And Continuous | Lãi gộp, Lãi kép, Continuous compounding, Simple interest | [[Compounding_And_Continuous]] | mechanism |
+| Federal Funds Rate | Fed Funds, EFFR, Effective Federal Funds Rate, Tỷ giá quỹ liên bang | [[Federal_Funds_Rate]] | definition |
+| IMM Dates And Tick | IMM Days, IMM Dates, Tick, Tick size, Ngày đáo hạn chuẩn | [[IMM_Dates_And_Tick]] | definition |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.

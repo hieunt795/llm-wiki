@@ -30,6 +30,10 @@ Giao dịch trên Sàn (Exchange) thì máy móc làm rẹt. Nhưng giao dịch 
 - **Settlement Instructions:** Bắn trát lệnh cho bọn Custodians (Ngân hàng Cất trữ) đi nhặt và chuyển hàng (xem [[Delivery_Versus_Payment]]).
 - **Reconciliation:** Đối chiếu lại với Custodian xem tiền chạy về rương chuẩn số chưa, hay thằng nào cuỗm mất. Lỗi ở bước này là thảm họa vì lỡ tay cho Custodian duyệt sai từ đầu. [extracted] [[Fixed Income - Alexander During-12.pdf#page=12]]
 
+### 4. Reporting & Consolidated Tape
+- **Reporting:** Nhiều khu vực pháp lý bắt buộc báo cáo giao dịch cho cơ quan quản lý và các nền tảng phổ biến giá công cộng.
+- **Consolidated Tape:** Một hệ thống tập trung phát sóng giá giao dịch đã chốt (post-trade transparency) cho công chúng. Dealer OTC thường chống đối kịch liệt vì sợ bị lộ vị thế, nên các giao dịch lớn (**Block Trades**) thường được phép trì hoãn công bố. Thời gian trì hoãn và ngưỡng khối lượng là cuộc chiến chính trị tào lao bất tận giữa nhà quản lý và phố Wall. [extracted] [[Fixed Income - Alexander During-12.pdf#page=9]]
+
 ## Nguồn
 
-- [[Fixed Income - Alexander During-12.pdf#page=4-12]] — Mô tả đồ sộ về chuỗi cung ứng Back-office, sự rắc rối của cơ chế Allocation làm nát vé giao dịch ban đầu, và khái niệm DK (Don't know).
+- [[Fixed Income - Alexander During-12.pdf#page=4-12]] — Mô tả đồ sộ về chuỗi cung ứng Back-office, sự rắc rối của cơ chế Allocation làm nát vé giao dịch ban đầu, khái niệm DK (Don't know), và Consolidated Tape.

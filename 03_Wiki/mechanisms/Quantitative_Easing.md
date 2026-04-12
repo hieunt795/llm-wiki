@@ -27,6 +27,9 @@ Sự khác biệt trong việc đánh giá QE phụ thuộc vào trường phái
 
 *Sự mở rộng tự nhiên của bảng cân đối không đồng nghĩa với QE nới lỏng.* Việc Fed mua kho bạc ngắn hạn (T-bills) mùa thu năm 2019 không phải là QE mà đơn giản là do lực cầu tiền gửi trên thị trường Repo của Mỹ tăng vọt, Fed thụ động đáp ứng mảng tiền đọng. [extracted] [[Fixed Income - Alexander During-10.pdf#page=2]]
 
+## Biến thể lịch sử: Operation Twist
+Không phải mọi chiến dịch LSAP đều giống nhau. **Operation Twist** (1961, tái hiện 2011) là trường hợp Fed **không bơm thêm tiền mới**, mà xoay vòng danh mục: Bán kho bạc ngắn hạn → Mua kho bạc dài hạn, nhằm đè bẹp lãi suất dài hạn mà không mở rộng bảng cân đối. Đây là bằng chứng cho thấy "QE" không nhất thiết phải chiêu thức thô bạo bơm M0 — mà có thể tinh vi như một ván cờ tái cấu trúc kỳ hạn. [extracted] [[Fixed Income - Alexander During-10.pdf#page=4]]
+
 ## Nguồn
 
-- [[Fixed Income - Alexander During-10.pdf#page=1-3]] — Định nghĩa, triết lý 2 trường phái, LSAP và T-bill 2019
+- [[Fixed Income - Alexander During-10.pdf#page=1-4]] — Định nghĩa, triết lý 2 trường phái, LSAP, T-bill 2019, và Operation Twist.
