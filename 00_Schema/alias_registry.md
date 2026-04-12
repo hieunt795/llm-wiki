@@ -27,5 +27,10 @@
 | Reserve Ratio | Tỷ lệ dự trữ, Reserve Requirement | [[Reserve_Ratio]] | definition |
 | Money Credit Link | — | [[Money_Credit_Link]] | mechanism |
 | Coin Value Corridor | — | [[Coin_Value_Corridor]] | mechanism |
+| Bank | Ngân hàng, Depositary Institution | [[Bank]] | definition |
+| Bank Deposit Types | Demand Deposit, Time Deposit, Sight Deposit, Checking Deposit | [[Bank_Deposit_Types]] | definition |
+| Promotional Lending | — | [[Promotional_Lending]] | mechanism |
+| Banking Separation Principle | — | [[Banking_Separation_Principle]] | mechanism |
+| Narrow Banking | Positive Money | [[Narrow_Banking]] | definition |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
