@@ -114,5 +114,8 @@
 | Compounding And Continuous | Lãi gộp, Lãi kép, Continuous compounding, Simple interest | [[Compounding_And_Continuous]] | mechanism |
 | Federal Funds Rate | Fed Funds, EFFR, Effective Federal Funds Rate, Tỷ giá quỹ liên bang | [[Federal_Funds_Rate]] | definition |
 | IMM Dates And Tick | IMM Days, IMM Dates, Tick, Tick size, Ngày đáo hạn chuẩn | [[IMM_Dates_And_Tick]] | definition |
+| Forward Rates Derivation | Forward Rate, Forward Discount Factor, Lãi suất kỳ hạn | [[Forward_Rates_Derivation]] | mechanism |
+| Turn Premium | Turn, Phần bù qua năm, Cú nảy quy chế | [[Turn_Premium]] | mechanism |
+| Policy Rate Expectations | Dự phóng chính sách, Term Risk Premium, O/N Rolling Account | [[Policy_Rate_Expectations]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
