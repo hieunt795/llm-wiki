@@ -108,5 +108,8 @@
 | Collateral Transformation | Collateral Swap, Securities lending, Hoán đổi thế chấp | [[Collateral_Transformation]] | mechanism |
 | Tri Party Repo | Repo ba bên | [[Tri_Party_Repo]] | definition |
 | Rehypothecation | Tái thế chấp, Vòng lặp tài sản collateral chain | [[Rehypothecation]] | mechanism |
+| OTC Trade Lifecycle | Quy trình vòng đời giao dịch, Allocation, DK, Don't Know | [[OTC_Trade_Lifecycle]] | mechanism |
+| Firm Vs Indicative Quotes | Báo giá cứng, Báo giá mềm, Two-way quote, Choice price | [[Firm_Vs_Indicative_Quotes]] | definition |
+| Mistrade And Fat Finger | Giao dịch nhầm, Fat Finger Error, Hủy giao dịch | [[Mistrade_And_Fat_Finger]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.

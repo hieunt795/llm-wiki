@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 99
+- Tổng số node: 102
 - Cập nhật lần cuối: 2026-04-13
 - Sources ingested: 1 (Fixed Income During — Ch.1–14)
 
 ## By type
 
-### Definitions (39)
+### Definitions (40)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -36,12 +36,13 @@
 - [[Rolling_Vs_Fixed_Settlement]] — Trượt ngày thanh toán T+2 và cội nguồn Backwardation
 - [[Central_Counterparty]] — Rốn bù trừ tín dụng tập trung CCP (ngắt rủi ro n(n-1) thành n)
 - [[Agency_Vs_Principal_Clearing]] — 2 Thái cực thiết kế CCP thấu thị số liệu vs mù lòa
+- [[Firm_Vs_Indicative_Quotes]] — Thuật ngữ báo giá hai chiều của Trader
 - [[Daycount_Conventions]] — Di bút thước đo mượn từ kỉ nguyên Loga act/360
 - [[Money_Market_Futures]] — Định dạng Hợp đồng tỷ giá 100-Rate sàn điện tử
 - [[Repurchase_Agreement]] — Repo: Khoản tiền gửi cầm cố và động lực của Sọc Khống
 - [[Tri_Party_Repo]] — Repo ủy thác Két sắt khóa chéo ba bên
 
-### Mechanisms (49)
+### Mechanisms (51)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -55,6 +56,8 @@
 - [[Book_Entry_Securities_System]] — Lưu ký điện tử (CSD) cầm Global Note, bù trừ qua Euroclear/Clearstream
 - [[Bond_Tap_Funging]] — Nghiệp vụ gộp mã ISIN (Funging) khi phát hành thêm (Tap) khác ngày thanh toán
 - [[Liquidity_Hierarchy_In_Pricing]] — Hiệu ứng sóng đổ định giá từ on-the-run lan xuống rác
+- [[OTC_Trade_Lifecycle]] — Quy trình vòng đời giao dịch và gỡ rắc rối Allocation
+- [[Mistrade_And_Fat_Finger]] — Giao dịch nhầm lẫn Fat Finger và quy tắc gỡ tay OTC
 - [[Delivery_Versus_Payment]] — Nút thắt khóa giải thoát cho Herstatt risk, rổ lệnh bù trừ theo khung thời gian
 - [[Settlement_Fails_And_Cures]] — Rắc rối ngưng đọng giấy tờ, vòng lặp vay repo 0% và đứt thanh khoản
 - [[Variation_Margin_Vs_Initial_Margin]] — Cơ chế bơm rú tiền tươi (VM) và đệm niêm phong trái phiếu (IM) bảo vệ CCP
