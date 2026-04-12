@@ -72,5 +72,10 @@
 | Negative Interest Rates Policy | NIRP, ZLB, Zero Lower Bound | [[Negative_Interest_Rates_Policy]] | mechanism |
 | QE Liquidity Distortion | Free Float Squeeze, Index Neutral Buying Distortion | [[QE_Liquidity_Distortion]] | mechanism |
 | Output Legitimacy In Central Banking | ECB Mandate Conflict | [[Output_Legitimacy_In_Central_Banking]] | perspective |
+| Fiscal Dominance | Áp đảo tài khóa | [[Fiscal_Dominance]] | definition |
+| QE Asset Choice | — | [[QE_Asset_Choice]] | mechanism |
+| VaR Shock Feedback Loop | — | [[VaR_Shock_Feedback_Loop]] | mechanism |
+| RTGS Money Velocity | — | [[RTGS_Money_Velocity]] | evidence |
+| Money Multiplier Collapse | — | [[Money_Multiplier_Collapse]] | evidence |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
