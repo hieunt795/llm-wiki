@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 47
+- Tổng số node: 53
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–6)
+- Sources ingested: 1 (Fixed Income During — Ch.1–7)
 
 ## By type
 
-### Definitions (23)
+### Definitions (24)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]]
 - [[Modified_Duration]]
@@ -39,14 +39,15 @@
 - [[Bills_Of_Exchange]] 
 - [[Cryptocurrencies]] 
 
-**Ch.5 & Ch.6 — Central Banks & Monetary Policy:**
+**Ch.5, Ch.6 & 7 — Central Banks & Monetary Policy/Frameworks:**
 - [[Central_Bank]] 
 - [[Free_Banking]]
 - [[Monetary_Policy_Targeting]] — Mục tiêu Lạm phát, Mức giá, Nhiệm vụ kép
 - [[Lucas_Critique]] — Các tương quan lịch sử không đúng khi chính sách chủ động
 - [[Goodharts_Law]] — Chỉ báo mất tính thông tin khi được dùng làm mục tiêu
+- [[Base_Money]] — (M0) Cấu dư nợ ngắn hạn của NHTW (Tiền giấy + Tiền gửi dự trữ)
 
-### Mechanisms (18)
+### Mechanisms (23)
 - [[Annuity_Formula]] 
 - [[Scatter_Plot_Density_Visualization]] 
 - [[Money_Credit_Link]] 
@@ -65,6 +66,11 @@
 - [[Operational_Framework_Principles]] — 4 quy tắc: Parsimony, Stability, Moderation, Separation
 - [[Symmetric_Interest_Rate_Corridor]] — Hành lang truyền thống, biến động ở giữa
 - [[Asymmetric_Lending_Corridor]] — Tình trạng hậu QE, lãi suất ghim chết vào sàn
+- [[Liquidity_Operations]] — Bơm/hút thanh khoản điều hành cung Base money
+- [[Rediscounting]] — Tái chiết khấu hối phiếu (Discount Window)
+- [[Open_Market_Operations]] — Mua đứt bán đoạn trái phiếu chủ động (Mô thức của Fed)
+- [[Repo_Operations]] — Bơm vốn có kỳ trả, không rủi ro giá (Mô thức của ECB)
+- [[FX_Sterilisation]] — Tiệt trùng thanh khoản tiền mặt dội ra từ nghiệp vụ mua ngoại tệ
 
 ### Evidence (1)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)

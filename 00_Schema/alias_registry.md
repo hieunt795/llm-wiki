@@ -56,5 +56,11 @@
 | Operational Framework Principles | — | [[Operational_Framework_Principles]] | mechanism |
 | Symmetric Interest Rate Corridor | — | [[Symmetric_Interest_Rate_Corridor]] | mechanism |
 | Asymmetric Lending Corridor | — | [[Asymmetric_Lending_Corridor]] | mechanism |
+| Base Money | M0, Tiền cơ sở, Central Bank Liabilities | [[Base_Money]] | definition |
+| Liquidity Operations | — | [[Liquidity_Operations]] | mechanism |
+| Rediscounting | — | [[Rediscounting]] | mechanism |
+| Open Market Operations | OMO, Outright Operations | [[Open_Market_Operations]] | mechanism |
+| Repo Operations | Lombard Lending, Repurchase Agreements | [[Repo_Operations]] | mechanism |
+| FX Sterilisation | — | [[FX_Sterilisation]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
