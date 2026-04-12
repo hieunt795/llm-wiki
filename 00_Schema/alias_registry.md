@@ -42,5 +42,10 @@
 | Discounting | — | [[Discounting]] | mechanism |
 | Cryptocurrencies | Tiền điện tử mã hóa, Blockchain-based money | [[Cryptocurrencies]] | definition |
 | Money Multiplier Formula | — | [[Money_Multiplier_Formula]] | mechanism |
+| Central Bank | Ngân hàng Trung ương, Bank of Issue | [[Central_Bank]] | definition |
+| Lender Of Last Resort | LOLR | [[Lender_Of_Last_Resort]] | mechanism |
+| Free Banking | Ngân hàng tự do | [[Free_Banking]] | definition |
+| Cyclical Banking Ideology | — | [[Cyclical_Banking_Ideology]] | perspective |
+| Monetary Financing | — | [[Monetary_Financing]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
