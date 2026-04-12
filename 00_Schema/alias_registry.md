@@ -62,5 +62,9 @@
 | Open Market Operations | OMO, Outright Operations | [[Open_Market_Operations]] | mechanism |
 | Repo Operations | Lombard Lending, Repurchase Agreements | [[Repo_Operations]] | mechanism |
 | FX Sterilisation | — | [[FX_Sterilisation]] | mechanism |
+| Fed Put | Wealth Effect, Quyền chọn Fed, Bình ổn tài sản | [[Fed_Put]] | definition |
+| Role Of Market Volatility | — | [[Role_Of_Market_Volatility]] | perspective |
+| Forward Guidance | Định hướng tương lai, Delphic Guidance, Odyssean Guidance | [[Forward_Guidance]] | mechanism |
+| Collateral Widening As Policy | TSLF, Nới lỏng tài sản thế chấp | [[Collateral_Widening_As_Policy]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
