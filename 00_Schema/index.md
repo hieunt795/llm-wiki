@@ -2,7 +2,7 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 108
+- Tổng số node: 109
 - Cập nhật lần cuối: 2026-04-13
 - Sources ingested: 1 (Fixed Income During — Ch.1–15)
 
@@ -44,7 +44,7 @@
 - [[Federal_Funds_Rate]] — Fed Funds: Tỷ giá nhịp tim chi phối hệ thống tài chính Mỹ
 - [[IMM_Dates_And_Tick]] — Ngày mốc đáo hạn toàn cầu thứ Tư và Đơn vị nhảy giá tối thiểu
 
-### Mechanisms (55)
+### Mechanisms (56)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -78,6 +78,7 @@
 - [[Forward_Rates_Derivation]] — Công thức kéo giãn thời gian bằng Discount Factor
 - [[Turn_Premium]] — Cuộc tháo chạy thanh khoản vắt ngang qua mốc Giao Thừa / Kỳ báo cáo
 - [[Policy_Rate_Expectations]] — Nghệ thuật trần thuật xác suất FED và Ảo giác Term Risk Premium
+- [[Cash_Stub_Rate]] — Mảnh cụt tiền gửi thả nổi vá lỗi ngày t0 của Futures Strip
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]], [[RTGS_Money_Velocity]], [[Money_Multiplier_Collapse]]

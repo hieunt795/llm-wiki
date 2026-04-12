@@ -117,5 +117,6 @@
 | Forward Rates Derivation | Forward Rate, Forward Discount Factor, Lãi suất kỳ hạn | [[Forward_Rates_Derivation]] | mechanism |
 | Turn Premium | Turn, Phần bù qua năm, Cú nảy quy chế | [[Turn_Premium]] | mechanism |
 | Policy Rate Expectations | Dự phóng chính sách, Term Risk Premium, O/N Rolling Account | [[Policy_Rate_Expectations]] | mechanism |
+| Cash Stub Rate | Cash stub, Stub rate, Mảnh cụt tiền mặt, Lãi suất neo t0 | [[Cash_Stub_Rate]] | mechanism |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
