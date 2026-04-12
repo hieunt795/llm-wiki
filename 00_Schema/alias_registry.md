@@ -84,7 +84,7 @@
 | ISIN Code | ISIN | [[ISIN_Code]] | definition |
 | CUSIP Code | CUSIP | [[CUSIP_Code]] | definition |
 | OTC Vs Exchange Trading | CLOB, Thị trường phi tập trung | [[OTC_Vs_Exchange_Trading]] | definition |
-| Liquidity Hierarchy In Pricing | Phân cấp thanh khoản định giá | [[Liquidity_Hierarchy_In_Pricing]] | mechanism |
+| Liquidity Hierarchy In Pricing | Phân cấp thanh khoản định giá, On-the-run, Off-the-run | [[Liquidity_Hierarchy_In_Pricing]] | mechanism |
 | Winner's Curse In Trading | Lời nguyền kẻ thắng thầu, Trade in comp | [[Winner_S_Curse_In_Trading]] | perspective |
 | Herstatt Risk | Rủi ro thanh toán, Settlement risk, Đứt gãy giao nhận | [[Herstatt_Risk]] | definition |
 | Delivery Versus Payment | DvP, Giao tiền nhận phiếu | [[Delivery_Versus_Payment]] | mechanism |
@@ -118,5 +118,18 @@
 | Turn Premium | Turn, Phần bù qua năm, Cú nảy quy chế | [[Turn_Premium]] | mechanism |
 | Policy Rate Expectations | Dự phóng chính sách, Term Risk Premium, O/N Rolling Account | [[Policy_Rate_Expectations]] | mechanism |
 | Cash Stub Rate | Cash stub, Stub rate, Mảnh cụt tiền mặt, Lãi suất neo t0 | [[Cash_Stub_Rate]] | mechanism |
+| Bond Clauses And Covenants | Khế ước trái phiếu, Negative pledge, Cross-default, CAC, Collective Action Clause, Soft bullet, Gross-up, Prospectus, Preliminary prospectus, Reds | [[Bond_Clauses_And_Covenants]] | mechanism |
+| Joint Liability In Sovereign Bonds | Trách nhiệm liên đới, Joint and several liability, Eurobonds, Stability Bonds, Article 125 TFEU | [[Joint_Liability_In_Sovereign_Bonds]] | contradiction |
+| Supranational Capital Structure | Vốn gọi, Callable Capital, Paid-up Capital, SSA, Supras | [[Supranational_Capital_Structure]] | mechanism |
+| Eurobond And Foreign Bonds | Trái phiếu Âu, Offshore Bonds, Samurai bond, Yankee bond, Uridashi, IET | [[Eurobond_And_Foreign_Bonds]] | definition |
+| Bond Syndication Mechanics | Dựng sổ, Book-building, Bought deal, Pot deal, Fixed-price reoffer, Firm underwriting | [[Bond_Syndication_Mechanics]] | mechanism |
+| Bond Auction Mechanics | Đấu thầu trái phiếu, American auction, Dutch auction, Tail, Khúc đuôi, Bid-cover ratio, Primary dealer | [[Bond_Auction_Mechanics]] | mechanism |
+| US Thirty Seconds Quotation | Dấu '+' trái phiếu Mỹ, 1/32, Tick, 32nds fractions, 99-24+ | [[US_Thirty_Seconds_Quotation]] | definition |
+| Yield Calculations Variants | Compound yield, Moosmuller yield, Simple yield, C/P, Yield-to-maturity, Bond-equivalent yield, BEY, IRR của bond | [[Yield_Calculations_Variants]] | mechanism |
+| Bond Value Decomposition | Chia tách cấu trúc kỳ hạn, Block Coupon PV, Principal Present Value, Convexity Distribution | [[Bond_Value_Decomposition]] | mechanism |
+| Bond Carry Calculation | Tính toán độ bù Carry, Carry trade trong Bond, Spread Roll-down, Lãi ròng đòn bẩy Repo | [[Bond_Carry_Calculation]] | mechanism |
+| Present Value Of A Basis Point | PVBP, DV01, BPV, Basis Point Value, Giá trị của một điểm cơ bản | [[Present_Value_Of_A_Basis_Point]] | mechanism |
+| Special Purpose Vehicle SPV | SPV, Special Purpose Vehicle, ABS, Asset-Backed Securities, Tách vỏ tài sản | [[Special_Purpose_Vehicle_SPV]] | definition |
+| Government Sponsored Entities | GSEs, Agencies, Fannie Mae, Freddie Mac, FHLMC, FRMC | [[Government_Sponsored_Entities]] | definition |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.

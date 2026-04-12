@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 109
+- Tổng số node: 122
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–15)
+- Sources ingested: 1 (Fixed Income During — Ch.1–16)
 
 ## By type
 
-### Definitions (42)
+### Definitions (46)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -44,7 +44,13 @@
 - [[Federal_Funds_Rate]] — Fed Funds: Tỷ giá nhịp tim chi phối hệ thống tài chính Mỹ
 - [[IMM_Dates_And_Tick]] — Ngày mốc đáo hạn toàn cầu thứ Tư và Đơn vị nhảy giá tối thiểu
 
-### Mechanisms (56)
+**Ch.16 — The Bond Market:**
+- [[Eurobond_And_Foreign_Bonds]] — Trái phiếu quái thai trốn thuế IET 1963 (Yankee/Samurai/Euro-dollar)
+- [[US_Thirty_Seconds_Quotation]] — Lực lượng bảo thủ giữ mã 99-24+ (Hệ thập lục phân 1/32)
+- [[Government_Sponsored_Entities]] — Ảo giác bảo lãnh công của Fannie Mae / Freddie Mac (GSEs)
+- [[Special_Purpose_Vehicle_SPV]] — Cái vỏ rỗng luân chuyển rủi ro ABS miễn nhiễm phá sản
+
+### Mechanisms (64)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -55,6 +61,8 @@
 - [[FX_Sterilisation]], [[Forward_Guidance]], [[Collateral_Widening_As_Policy]]
 - [[Quantitative_Easing]], [[QE_Transmission_Channels]], [[QE_Asset_Choice]]
 - [[Helicopter_Money]], [[Negative_Interest_Rates_Policy]], [[QE_Liquidity_Distortion]], [[VaR_Shock_Feedback_Loop]]
+
+**Ch.10 đến 14 — Hạ Tầng Giấy Phép, Money Market & Repo:**
 - [[Book_Entry_Securities_System]] — Lưu ký điện tử (CSD) cầm Global Note, bù trừ qua Euroclear/Clearstream
 - [[Bond_Tap_Funging]] — Nghiệp vụ gộp mã ISIN (Funging) khi phát hành thêm (Tap) khác ngày thanh toán
 - [[Liquidity_Hierarchy_In_Pricing]] — Hiệu ứng sóng đổ định giá từ on-the-run lan xuống rác
@@ -74,11 +82,21 @@
 - [[Collateral_Haircut]] — Đệm thịt trừ cấn giá và Hội chứng Ngược Đời Wrong-way Risk
 - [[Collateral_Transformation]] — Thuật toán tẩy rác mượn vàng Collateral Swap
 - [[Rehypothecation]] — Dây chuyền Tái thế chấp ma quỷ xé toạc thanh khoản
+
+**Ch.15, 16 — Forward Curve & The Bond Market:**
 - [[Compounding_And_Continuous]] — Phân biệt lãi ghép rời rạc vs Hàm mũ liên tục Euler e^(rt)
 - [[Forward_Rates_Derivation]] — Công thức kéo giãn thời gian bằng Discount Factor
 - [[Turn_Premium]] — Cuộc tháo chạy thanh khoản vắt ngang qua mốc Giao Thừa / Kỳ báo cáo
 - [[Policy_Rate_Expectations]] — Nghệ thuật trần thuật xác suất FED và Ảo giác Term Risk Premium
 - [[Cash_Stub_Rate]] — Mảnh cụt tiền gửi thả nổi vá lỗi ngày t0 của Futures Strip
+- [[Bond_Clauses_And_Covenants]] — Khế ước trói nợ: Negative pledge, Cross-default, CAC, Soft bullet...
+- [[Supranational_Capital_Structure]] — Đòn bẩy Callable Capital không cần chính phủ bảo lãnh
+- [[Bond_Syndication_Mechanics]] — Cơ chế phân phối trái phiếu Dựng sổ, Caught Deal vs Pot Deal
+- [[Bond_Auction_Mechanics]] — Cơ chế Cắt máu Giá thấp nhất đấu thầu: Dutch vs American, Khúc đuôi Tail
+- [[Yield_Calculations_Variants]] — 4 Ảo giác Lợi suất: Running, Simple, Compound (IRR) và BEY
+- [[Present_Value_Of_A_Basis_Point]] — Khẩu súng PVBP / DV01 đo tiền tươi rớt hạt của Trader
+- [[Bond_Value_Decomposition]] — Sự sụp đổ của Convexity và Giá trị Cục Gốc (Principal) ở kỳ hạn xa
+- [[Bond_Carry_Calculation]] — Cỗ máy đếm tiền gác túi chênh lệch Lãi Repo vs Cắt Coupon
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]], [[RTGS_Money_Velocity]], [[Money_Multiplier_Collapse]]
@@ -94,19 +112,31 @@
 ### Relationships (1)
 - [[Redistribution_And_Debt]] — Phúc lợi xã hội ≈ Fixed income claims
 
-### Contradictions (1)
+### Contradictions (2)
 - [[Monetarist_Vs_Keynesian_Monetary_Views]] — Tranh cãi $dM$ hay $dY$, ECB Two-pillars
+- [[Joint_Liability_In_Sovereign_Bonds]] — Cuộc hải chiến Hiến pháp Châu Âu (TFEU) cấm bảo lãnh nợ công liên đới
 
 ## Orphan Nodes 
+- [[Bond_Carry_Calculation]]
+- [[Bond_Clauses_And_Covenants]]
+- [[Bond_Value_Decomposition]]
+- [[Eurobond_And_Foreign_Bonds]]
+- [[Government_Sponsored_Entities]]
 - [[Intraday_Overdraft]]
+- [[Joint_Liability_In_Sovereign_Bonds]]
 - [[Liquidity_Hierarchy_In_Pricing]]
 - [[OTC_Vs_Exchange_Trading]]
 - [[Operational_Framework_Principles]]
 - [[Output_Legitimacy_In_Central_Banking]]
+- [[Present_Value_Of_A_Basis_Point]]
 - [[Promotional_Lending]]
 - [[Rehypothecation]]
 - [[Rolling_Vs_Fixed_Settlement]]
 - [[Scatter_Plot_Density_Visualization]]
+- [[Special_Purpose_Vehicle_SPV]]
+- [[Supranational_Capital_Structure]]
 - [[Trade_Credit]]
 - [[Turn_Premium]]
+- [[US_Thirty_Seconds_Quotation]]
 - [[Winner_S_Curse_In_Trading]]
+- [[Yield_Calculations_Variants]]
