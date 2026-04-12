@@ -2,13 +2,13 @@
 *Auto-maintained. Do not edit manually. Rebuilt sau mỗi vòng lint.*
 
 ## Stats
-- Tổng số node: 74
+- Tổng số node: 81
 - Cập nhật lần cuối: 2026-04-13
-- Sources ingested: 1 (Fixed Income During — Ch.1–10)
+- Sources ingested: 1 (Fixed Income During — Ch.1–11)
 
 ## By type
 
-### Definitions (30)
+### Definitions (33)
 **Ch.1 — Introduction:**
 - [[Interest_Rate_Risk]], [[Modified_Duration]], [[Macaulay_Duration]], [[Convexity]], [[Negative_Convexity]], [[Convexity_Adjustment]]
 - [[Fixed_Income_Instrument]], [[Bilateral_Contract_Vs_Security]] 
@@ -26,13 +26,16 @@
 - [[Monetary_Policy_Targeting]], [[Lucas_Critique]], [[Goodharts_Law]]
 - [[Base_Money]], [[Fed_Put]], [[Fiscal_Dominance]]
 
-**Ch.10 — Cơ sở hạ tầng Giấy tờ (Instruments & Contracts):**
+**Ch.10, 11 — Mạch máu Lưu ký, Giấy phép & Cơ chế Giao dịch:**
 - [[Bearer_Vs_Registered_Securities]] — Chứng khoán vô danh và kỳ danh
 - [[Schuldschein]] — Hợp đồng vay chuyển nhượng của Đức (chiêu trò né mark-to-market)
 - [[ISIN_Code]] — Mã định danh chứng khoán quốc tế 12 ký tự chuẩn ISO
-- [[CUSIP_Code]] — Mã định danh 9 ký tự nội địa Mỹ (có bộ lọc loại trừ Equity vs FI)
+- [[CUSIP_Code]] — Mã định danh 9 ký tự nội địa Mỹ
+- [[OTC_Vs_Exchange_Trading]] — Vòng giao tiếp Sổ lệnh đại chúng vs Mua bán sòng phẳng song phương
+- [[Herstatt_Risk]] — Rủi ro sụp nguồn thanh toán đơn phương do lệch múi giờ giao nhận
+- [[Rolling_Vs_Fixed_Settlement]] — Trượt ngày thanh toán T+2 và cội nguồn Backwardation
 
-### Mechanisms (34)
+### Mechanisms (37)
 - [[Annuity_Formula]], [[Scatter_Plot_Density_Visualization]], [[Money_Credit_Link]], [[Coin_Value_Corridor]], [[Promotional_Lending]]
 - [[Banking_Separation_Principle]], [[Bank_Money_Creation]], [[Interbank_Netting]], [[Intraday_Overdraft]], [[Trade_Credit]] 
 - [[Discounting]], [[Money_Multiplier_Formula]] 
@@ -45,18 +48,22 @@
 - [[Helicopter_Money]], [[Negative_Interest_Rates_Policy]], [[QE_Liquidity_Distortion]], [[VaR_Shock_Feedback_Loop]]
 - [[Book_Entry_Securities_System]] — Lưu ký điện tử (CSD) cầm Global Note, bù trừ qua Euroclear/Clearstream
 - [[Bond_Tap_Funging]] — Nghiệp vụ gộp mã ISIN (Funging) khi phát hành thêm (Tap) khác ngày thanh toán
+- [[Liquidity_Hierarchy_In_Pricing]] — Hiệu ứng sóng đổ định giá từ on-the-run lan xuống rác
+- [[Delivery_Versus_Payment]] — Nút thắt khóa giải thoát cho Herstatt risk, rổ lệnh bù trừ theo khung thời gian
+- [[Settlement_Fails_And_Cures]] — Rắc rối ngưng đọng giấy tờ, vòng lặp vay repo 0% và đứt thanh khoản
 
 ### Evidence (3)
 - [[Main_RTGS_Systems]] — Bảng 4.1: Các hệ thống RTGS trung ương (FedWire, TARGET2...)
 - [[RTGS_Money_Velocity]] — Quét thanh toán ở Fedwire/Zengin để xem độ lưu thông tiền QE
 - [[Money_Multiplier_Collapse]] — Sụp đổ biểu đồ Hệ số Cung tiền M2/M0 khi bơm QE
 
-### Perspectives (5)
+### Perspectives (6)
 - [[During_On_Lending_Morality]] — Góc nhìn đạo đức cho vay hiện đại
 - [[Cyclical_Banking_Ideology]] — Chu kỳ ý thức hệ giữa Free Banking / Positive Money
 - [[Monetary_Resilience_Tradeoff]] — Ẩn dụ Tường Nhật Bản: đổi resilience lấu năng suất tối đa liên tục. (Minsky cycle)
 - [[Role_Of_Market_Volatility]] — Biến động thị trường là chân phanh hạn chế rủi ro
 - [[Output_Legitimacy_In_Central_Banking]] — Mâu thuẫn giữa hành động "cứu thế giới" của ECB và giới hạn quyền lực hiến định
+- [[Winner_S_Curse_In_Trading]] — Lời nguyền Dealer phòng ngự phí ẩn đè bẹp khách hàng xạo sự hỏi giá chùm
 
 ### Relationships (1)
 - [[Redistribution_And_Debt]] — Phúc lợi xã hội ≈ Fixed income claims
@@ -66,8 +73,13 @@
 
 ## Orphan Nodes 
 - [[Intraday_Overdraft]]
+- [[Liquidity_Hierarchy_In_Pricing]]
+- [[OTC_Vs_Exchange_Trading]]
 - [[Operational_Framework_Principles]]
-- [[Promotional_Lending]]
-- [[Scatter_Plot_Density_Visualization]]
-- [[Trade_Credit]]
 - [[Output_Legitimacy_In_Central_Banking]]
+- [[Promotional_Lending]]
+- [[Rolling_Vs_Fixed_Settlement]]
+- [[Scatter_Plot_Density_Visualization]]
+- [[Settlement_Fails_And_Cures]]
+- [[Trade_Credit]]
+- [[Winner_S_Curse_In_Trading]]

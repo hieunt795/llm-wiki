@@ -83,5 +83,12 @@
 | Bond Tap Funging | Gộp mã ISIN, Funging | [[Bond_Tap_Funging]] | mechanism |
 | ISIN Code | ISIN | [[ISIN_Code]] | definition |
 | CUSIP Code | CUSIP | [[CUSIP_Code]] | definition |
+| OTC Vs Exchange Trading | CLOB, Thị trường phi tập trung | [[OTC_Vs_Exchange_Trading]] | definition |
+| Liquidity Hierarchy In Pricing | Phân cấp thanh khoản định giá | [[Liquidity_Hierarchy_In_Pricing]] | mechanism |
+| Winner's Curse In Trading | Lời nguyền kẻ thắng thầu, Trade in comp | [[Winner_S_Curse_In_Trading]] | perspective |
+| Herstatt Risk | Rủi ro thanh toán, Settlement risk, Đứt gãy giao nhận | [[Herstatt_Risk]] | definition |
+| Delivery Versus Payment | DvP, Giao tiền nhận phiếu | [[Delivery_Versus_Payment]] | mechanism |
+| Settlement Fails And Cures | Thất tín giao nhận, Buy-ins, Partial fail | [[Settlement_Fails_And_Cures]] | mechanism |
+| Rolling Vs Fixed Settlement | T+2, T+0, Nguồn gốc Backwardation | [[Rolling_Vs_Fixed_Settlement]] | definition |
 
 > **Lưu ý quan trọng:** Modified Duration ≠ Macaulay Duration ≠ Convexity Adjustment — ba nodes khác nhau dù lexically gần. Registry phải phân biệt rõ.
