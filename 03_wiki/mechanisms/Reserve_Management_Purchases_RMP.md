@@ -89,7 +89,7 @@ Khe hở giữa hai nhịp này — đặc biệt khi **ON RRP đã cạn (~$2.3
 ## 5. Ranh giới rủi ro (Boundary)
 
 - **Lag risk:** Nếu nhịp phát hành Treasury (vay ~$683B trong 2 quý 1–6/2026) vượt nhịp RMP, reserves có thể thủng floor giữa hai kỳ bơm → SOFR spike trước khi Fed bù.
-- **Calibration risk:** RMP định cỡ theo *dự báo* trend reserve demand. Nếu central clearing mandate (deadline 30/06/2026) làm tăng cấu trúc nhu cầu HQLA/reserves, ước lượng "ample floor" cũ ($3,000B) có thể bị dịch lên — RMP undersized.
+- **Calibration risk:** RMP định cỡ theo *dự báo* trend reserve demand. Nếu việc chuyển sang **central clearing** repo làm tăng cấu trúc nhu cầu HQLA/reserves (margin tại CCP), ước lượng "ample floor" cũ ($3,000B) có thể bị dịch lên — RMP undersized. Xem [[Treasury_Central_Clearing_Repo_Netting]]. *(Lưu ý: mốc "deadline 30/06/2026" nêu trước đây chưa có raw source xác nhận — cần ingest văn bản SEC clearing rule.)*
 - **Signaling risk:** RMP dễ bị thị trường hiểu nhầm là "QE quay lại". Fed phải truyền thông rõ intent (kỹ thuật, không stimulus) để tránh nới lỏng financial conditions ngoài ý muốn.
 
 ---
