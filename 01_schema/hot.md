@@ -1,0 +1,83 @@
+# L0 — HOT CACHE (Session Context)
+> **Kiến trúc Lazy Loading:** Đọc file này + memory.md đầu session. Cập nhật ngay sau mỗi phản hồi.
+
+## 0. Graph God Nodes Cache (Last Sync: 2026-04-26)
+- `Barro_Gordon_Model` — (Merged & Audited Hub)
+- `Monetary_Policy_Trilemma` — (Merged & Audited Hub)
+- `Interest_Rate_Corridor_And_Standing_Facilities` — (Standardized Hub)
+- `One-directional_Standing_Facility_Steering` — (New Operational Node)
+- `OMO_Tender_Mechanics` — (New Operational Node)
+
+## 1. Current Session Context (2026-04-28)
+- **Session 2026-04-29 (current continuation — Tuckman Ch 13 IRS):**
+  - [x] Followed W2 Surgical Ingest using source `.md`: `02_sources/books/tuckman_serrat_fixed_income/Tuckman_Serrat_Fixed_Income_2022.md`.
+  - [x] UPDATE [[Entity-Netted_Notionals_ENNs]] with Tuckman Ch 13 market-size audit: gross notional vs 5Y-equivalent vs ENN, sector direction, and ENN boundaries.
+  - [x] SPAWN [[Interest_Rate_Swap_Use_Cases]] from pp.329-333: IRS as DV01 overlay versus cash-flow transformer; pension duration, future debt issuance, bank loan, and synthetic floating debt examples.
+  - [x] SPAWN [[Counterparty_Credit_Risk]] from pp.334-339: safe harbor, close-out netting, VM CTM/STM, IM/MPOR, collateral and Dodd-Frank boundary.
+  - [x] Marked 3 items `[x]` in `04_outputs/audits/FINAL_GRANULAR_INGESTION_MAP.md`.
+  - [x] Updated `.cache/ingest_queue_state.json`; next item is Tuckman Ch 13 `Clearing and Central Counterparties`.
+
+- **Session 2026-04-28 (schema overhaul — continued):**
+  - [x] **Source Taxonomy v1:** 6 nhãn [RAW-BOOK/OFFICIAL/ACADEMIC/CLIP/DR-LLM/OPINION] — P2_epistemic.md
+  - [x] **Targeted Metadata Enrichment:** Fixed 15 mechanism nodes (frontmatter: status: reviewed, confidence: 4, expert_lens filled, half_life_years adjusted).
+    - ABS_Tranching, AOCI_Cliff, Bank_Decision_Engine, Bank_PC_Partnership, Basel_III_PC_Impact, Bill_Of_Exchange (archived), Default_Resolution, Discount_Margin, Discount_Window, Gilt_Treasury_Spread, Japan_Debt_Puzzle, J_Curve (archived), Leverage_Ratio, LCR, Seigniorage.
+  - [x] **Systemic Schema Update:**
+    - Updated 35 domain nodes (frontmatter: status: reviewed, confidence: 2, thesis improved, expert_lens filled).
+    - Fixed Commodities and Commodity Swaps (expert_lens: Salih Neftci, provenance: Neftci Ch7).
+    - Reduced debt for 5 mechanism/concept nodes from report (Decree 08, Circular 06/16, Dodd-Frank, ELTIF).
+  - [x] **W5_secondary_ingest.md:** Pipeline mới — Adversarial Audit + Phase 0-T Inbox Triage
+  - [x] **Anti-vague SPECIFICITY RULE:** BLOCK 0 + Specificity test — CLAUDE/GEMINI/system.md
+  - [x] **Folder restructure:** 05_scripts/ + 06_publish/ + 04_outputs/temp/ — all paths updated
+  - [x] **Root cleanup:** brain/, raw/, debug files xóa. Draft → 06_publish/. Readme.md updated.
+  - [x] **writeback_queue.md** → 01_schema/
+  - [x] **DENSE LANGUAGE RULE:** 4-bước unpack (Intent/Mechanism/Interactions/Boundary) — BLOCK 0 + MODE DEEP ② — CLAUDE/GEMINI/system.md
+  - [x] **7-type Writeback Taxonomy:** Đã align toàn hệ thống:
+    - W4_memory.md: Writeback Type Reference (Group A/B tables + Decision Tree + Confidence Rules + log format)
+    - W2_ingest.md: TYPE 1/2/4 → UPDATE/SPAWN/BRIDGE/CONTRADICTION/REPLACE
+    - W5_secondary_ingest.md: C-AGREE/CONFLICT/NEW/PERSPECTIVE gắn writeback type rõ ràng
+    - schema.md § 4: Ingest process → Decision Tree reference
+    - CLAUDE.md / GEMINI.md / system.md: AUDIT RULE updated với 7 types
+    - writeback_queue.md: Migrated + cleaned garbled entries
+    - log.md: Header v2 + migration note + 2026-04-28 system update entry
+
+- **Session 2026-05-07 (current):**
+  - [x] **BOJ-MOF Institutional Analysis:**
+    - Clarified Dual-Power structure (MOF FX vs BOJ Rate).
+    - Integrated **Trần Quang Nghĩa (TQN)** perspective on "Double Kill" mechanism.
+    - Spawned [[Japan_FX_Intervention_Double_Kill_Mechanism]] (Redemption lag art).
+    - Analyzed BOJ Normalization (NIRP/YCC exit) interaction with FX intervention.
+    - Updated [[Japan_FX_Intervention_MOF_BOJ_Framework]] with T-account logic.
+  - [x] **Clipping Ingestion (Constâncio, Andreopoulos, Zhennan Li):**
+    - UPDATE [[Interest_Rate_Corridor_And_Standing_Facilities]] with "Soft Floor" / Range Floor (ECB 15bps/Fed 10bps).
+    - UPDATE [[Repurchase_Agreement_Repo_Market_Structure]] with US market size ($3.2T repo vs $160B unsecured).
+    - SPAWN [[Standing_Repo_Facility_SRF_Mechanics]] (SOFR control, stigma effect).
+    - UPDATE [[Treasury_General_Account_Mechanism]] with 9% GDP ($3T) liquidity boundary.
+    - SPAWN [[PBOC_FX_Management_Framework]] (Daily fixing anchor, CCF, CFETS correlation shift).
+  - [x] **PBoC Academic Ingestion (Guo 2025):**
+    - Extracted PDF via **docling** → [[Guo_Chinas_Monetary_Policy_Framework_2025.md]].
+    - UPDATE [[Interest_Rate_Corridor_And_Standing_Facilities]] with PBoC Model (SLF-Ceiling / ExcessReserve-Floor).
+    - UPDATE [[PBOC_FX_Management_Framework]] with domestic rate transmission linkage.
+    - SPAWN [[PBOC_Monetary_Policy_Transmission]] (OMO anchor, LPR decoupling, DR007 path).
+  - [x] **Yield Math Ingestion (Part I — DT & Trendlines):**
+    - Spawned [[Bond_Price_Yield_Relationship]] (Accrual offset mechanism, Effective Maturity).
+    - Spawned [[Compound_Interest_Time_Value]] (Interest-on-interest, non-linear growth).
+    - Marked Topic 06 in `FINAL_GRANULAR_INGESTION_MAP.md`.
+    - Source: [RAW-BOOK: Homer & Leibowitz (2013)].
+  - [x] **Risk Metrics Ingestion (Tuckman Ch 4-5):**
+    - Spawned [[Macaulay_and_Modified_Duration]] (Weighted life, Modified sensitivity).
+    - Spawned [[Convexity_Mechanics]] (Second-order impact, Barbell vs. Bullet volatility).
+    - Spawned [[DV01_Risk_Management]] (Dollar sensitivity, Hedging '01 match).
+    - Marked Topic 07 in `FINAL_GRANULAR_INGESTION_MAP.md`.
+    - Source: [RAW-BOOK: Tuckman & Serrat (2022)].
+  - [x] **ITF Ingestion (Chapter 8.1-8.3):**
+    - Updated [[Inflation_Targeting_Framework_ITF]] with historical context and rationale.
+    - Spawned [[ITF_Conceptual_Theoretical_Models]] (3-equation model, IFT format).
+    - Spawned [[ITF_Institutional_Operational_Framework]] (Legal, Target, Projections, OMO).
+    - Source: [RAW-BOOK: Perry Warjiyo & Solikin M. Juhro (2019)].
+  - [x] **Inbox Triage:** 12 files classified and moved.
+  - [x] **W2 Ingestion Map:** Added `Bondistan_Tourist_Guide` to FINAL_GRANULAR_INGESTION_MAP.md.
+  - [x] **W5 Phase A:** Created Concept Maps for 11 clippings (Armenter, Brooks, Wacziarg, Fiedor, PML).
+  - [x] **Analytical Paradigm Shift:** Đã chuyển đổi tiêu chuẩn phân tích sang **"TQN Operational Deep Dive"** (Ưu tiên Plumbing & T-Account tracing).
+    - Updated [[Central_Bank_Balance_Sheet_Trilemma]] (Armenter logic).
+    - Updated [[Treasury_General_Account_Mechanism]] (Armenter TGA identity).
+    - Spawned [[Scissors_Effect_ECB_Mechanism]] (Fi

@@ -1,0 +1,99 @@
+---
+title: DeepDive — interest rate corridor
+date: 2026-05-02
+query: "interest rate corridor"
+threshold: 2
+wiki_hits: 5
+thin_nodes: 3
+raw_hits: 3
+status: draft
+---
+
+# DeepDive: interest rate corridor
+
+## STAGE 1 — Wiki Coverage
+
+- ⚠ THIN `Symmetric_Interest_Rate_Corridor::Symmetric_Interest_Rate_Corridor` conf=2
+  - Issues: confidence=2 ≤ 2
+  - Thesis: Bên ngoài các thời kỳ khủng hoảng kinh tế, các [[Central_Bank]] vận hành cấu trúc mỏ neo lãi suất gọi là **Hành lang lãi suất đối xứng (Symmetric corridor system)**.
+- ⚠ THIN `Symmetric_Vs_Asymmetric_Corridor_System::DEPRECATED: Nội dung này đã được hợp nhất vào [[Interest_Rate_Corridor_And_Standing_Facilities]] để đạt độ phân giải v3.1.` conf=?
+  - Issues: no source_refs section
+  - Thesis: DEPRECATED: Nội dung này đã được hợp nhất vào [[Interest_Rate_Corridor_And_Standing_Facilities]] để đạt độ phân giải v3.1.
+- ⚠ THIN `Liquidity_Management_Corridor_System::DEPRECATED: Nội dung này đã được hợp nhất vào [[Interest_Rate_Corridor_And_Standing_Facilities]] để đạt độ phân giải v3.1.` conf=?
+  - Issues: no source_refs section
+  - Thesis: DEPRECATED: Nội dung này đã được hợp nhất vào [[Interest_Rate_Corridor_And_Standing_Facilities]] để đạt độ phân giải v3.1.
+- ✓ SOLID `Interest_Rate_Corridor_And_Standing_Facilities::Interest_Rate_Corridor_And_Standing_Facilities` conf=5
+  - Thesis: The interest rate corridor is an operational architecture that bounds interbank rate volatility between a floor (Deposit Facility) and a ceiling (Lending Facility), evolving from a scarcity-based symm
+- ✓ SOLID `Optimal_Interest_Rate_Corridor_Width::Optimal_Interest_Rate_Corridor_Width` conf=5
+  - Thesis: The optimal corridor width balances the trade-off between interest rate stability (narrow corridor) and interbank market turnover/discipline (wide corridor), accounting for transaction costs and centr
+
+## STAGE 2 — RAW Source Evidence
+
+### RAW: Bindseil_Monetary_Policy_Operations::Bindseil_Monetary_Policy_Operations
+- file: `02_sources/books/bindseil_monetary_policy/Bindseil_Monetary_Policy_Operations.md`
+- score: 214.8
+- thesis: Bindseil_Monetary_Policy_Operations
+- heatmap context:
+```
+L71: Central Bank 28
+          L72: 2.7 Credit Money Created by Banks 30
+          L73: 2.8 The ‘Real’ Euro Area Financial Accounts 34
+          L74: 3. Operational Target of Monetary Policy 36
+          L75: 3.1 Concept of an Operational Target of Monetary Policy 36
+      >>> L76: 3.2 Short-term Rate as Operational Target of Monetary Policy 38
+          L77: 3.3 Quantity-oriented Operational Targets of Monetary
+          L78: Policy in the Twentieth Century—A Brief History 43
+          L79: 4. Three Basic Techniques to Control Short-term Interest Rates 51
+          L80: 4.1 One-directional St
+```
+
+### RAW: Howard_Corb_Interest_Rate_Swaps::Howard_Corb_Interest_Rate_Swaps
+- file: `02_sources/books/howard_corb_swaps/Howard_Corb_Interest_Rate_Swaps.md`
+- score: 200.0
+- thesis: Howard_Corb_Interest_Rate_Swaps
+- heatmap context:
+```
+L1: ---
+      >>> L2: title: Howard_Corb_Interest_Rate_Swaps
+          L3: type: raw_source
+          L4: ---
+          L5: 
+          L6: <!-- Page 1 -->
+          L7: I N T E R E S T R A T E
+      [... skip to next heatmap section ...]
+          L3736: 13If we really wanted to be a stickler, we could say that a swap transacted on either
+          L3737: thebidsideortheoffersideisnotworthzero,sincethedealerhaspresumablymadesome
+          L3738: money on the transaction. So to avoid this criticism we’ll just talk about a swap with a
+          L3739: mid-marketswaprateashavingzerovalue.
+       
+```
+
+### RAW: Fixed Income - Alexander During-7::Fixed Income - Alexander During-7
+- file: `02_sources/books/fixed_income_during/Fixed Income - Alexander During-7.md`
+- score: 74.6
+- thesis: Fixed Income - Alexander During-7
+- heatmap context:
+```
+L17: power of the currency can be anticipated by the general public and that the techni-
+          L18: calmeansofexchangingthecurrency(banknotes,electronicpaymentsystems)work
+          L19: reliably. Modern monetary policy therefore tends to be geared towards some form of
+          L20: pricestabilitywhichcanbedefinedinvariousways.Inthepolicymodeknownasinfla-
+          L21: (cid:2) (cid:2)
+      >>> L22: tiontargeting,pricestabilityisdefinedasagivenpositiveinflationrate(zeroinflation
+          L23: is undesirable due to measurement issues and asymmetric risk concerns [9]). In the
+          L2
+```
+
+## STAGE 3 — Expansion Proposal
+
+> **Action required:** Review RAW evidence above, then:
+
+- [ ] UPDATE `03_wiki/mechanisms/Symmetric_Interest_Rate_Corridor.md` — address: confidence=2 ≤ 2
+      Add source_refs from RAW hits above
+- [ ] UPDATE `03_wiki/mechanisms/Symmetric_Vs_Asymmetric_Corridor_System.md` — address: no source_refs section
+      Add source_refs from RAW hits above
+- [ ] UPDATE `03_wiki/mechanisms/Liquidity_Management_Corridor_System.md` — address: no source_refs section
+      Add source_refs from RAW hits above
+
+---
+*Generated by deepdive_search.py v2.0 on 2026-05-02*

@@ -2,11 +2,16 @@
 .obsidian/
 
 # PDFs (raw sources — too large for git, track separately)
-*.pdf
+# *.pdf
 
 # OS
 Thumbs.db
 .DS_Store
+
+# Local tooling / agent state / backups — not repo content
+.claude/
+.gemini/
+.backup/
 
 # Python
 __pycache__/
@@ -16,3 +21,12 @@ __pycache__/
 # Temp
 *.tmp
 *.bak
+
+# Derived artifacts — built on Colab T4, never commit (transport via Drive/gdown)
+# Source of truth = .md files; .cache/ is regenerable from them.
+.cache/
+*.index
+*.faiss
+*.pkl
+wiki_index.db
+wiki_index.db-journal

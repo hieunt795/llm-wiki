@@ -1,0 +1,52 @@
+---
+title: "Why Eurobonds won't work"
+source: "https://thetwocents.substack.com/p/why-eurobonds-wont-work"
+author:
+  - "[[Romain Wacziarg]]"
+published: 2026-03-24
+created: 2026-04-24
+description: "Olivier Blanchard and Ángel Ubide have put forward a bold proposal. EU countries, they argue, should replace a substantial portion of their existing national debt with jointly issued “blue bonds,” senior to the remaining national “red bonds,” with governments ring-fencing VAT revenues to service them."
+tags:
+  - "clippings"
+---
+Olivier Blanchard and Ángel Ubide have put forward a [bold proposal](https://www.piie.com/blogs/realtime-economics/2025/now-time-eurobonds-specific-proposal). EU countries, they argue, should replace a substantial portion of their existing national debt with jointly issued *“blue bonds,”* senior to the remaining national *“red bonds,”* with governments ring-fencing VAT revenues to service them. The goal is to create a liquid European safe asset — a rival to US Treasurys, and a cheaper source of funding for all EU member states.
+
+This proposal raises an obvious question. If this is a good idea for countries, why don’t households do something analogous? Imagine a village where every household finances the purchase of its home through a standard floating-rate mortgage. The interest rate each household pays reflects, among other things, its own creditworthiness. Better credit means a lower rate. This is how mortgage markets work.
+
+Now consider my proposal. Instead of each household borrowing individually, all households in the village could pool a fraction — say, 25 percent — of their mortgage into a jointly issued security. This pooled security, a blue mortgage if you will, would be declared senior to each household’s remaining individual mortgage. The interest rate on the pool would reflect the average creditworthiness of all households in the village. And because the pool is large and standardised, it could be easily securitised and traded — far more liquid than any individual mortgage.
+
+The apparent benefits of blue mortgages are real. Lower average borrowing costs for weaker-credit households. A liquid, tradeable security that banks and investors want. A “safe asset” for the financial system. The question is not whether the benefits are real. It is why the market has not already delivered them. The village mortgage pool, or any financial contract like it, does not exist, at least not in advanced economies.[^1] There are good reasons for this.
+
+If participation in the pool is voluntary, only the weakest-credit households will join. They benefit from being pooled with stronger borrowers; stronger borrowers don’t. The pool collapses to its worst members. A textbook example of adverse selection. The only way to prevent this is to make participation mandatory — to force every household in the village into the scheme whether they want to join or not.
+
+Once a household’s borrowing cost is reset to the pool average, the link between a household’s individual credit history and its interest rate on the pooled mortgage is severed. Each household now bears only a fraction of the cost of its own financial decisions — the rest is spread across the village. A textbook example of moral hazard. And because no household can realistically monitor or discipline the spending habits of all its neighbours, this deterioration in incentives may not become apparent for a while.
+
+To fight the moral hazard problem, we might require that payments on the pooled mortgage take strict precedence over payments on individual mortgages. But when a household comes under financial stress — when the heating bill and the school fees and the individual mortgage are all competing for a shrinking income — the joint mortgage payment is precisely what will be skipped first. Courts can, in principle, enforce payment priority. In practice, enforcement against a distressed household is slow and costly.
+
+The Blanchard–Ubide proposal wrestles with the same problems. Mandatory participation across the Eurozone addresses adverse selection. Ring-fenced VAT revenues address moral hazard. Seniority of blue bonds addresses enforcement. But in each case, the proposed fix is imperfect at best.
+
+Eeven mandatory participation of all EU countries does not completely eliminate adverse selection. The countries with the weakest fiscal positions have the strongest incentive to advocate for the scheme, and to push for higher blue-bond shares when they’re tapped out in national bond markets. The selection problem does not disappear. Instead, it becomes a problem of institutional capture. A recent example of this dynamic was the [Franco-Italian push for joint EU debt issuance](https://thetwocents.substack.com/p/europes-folly) to support Ukraine in December of 2025 against German objections, after Belgium blocked a proposal to seize Russian assets held in Belgium.[^2]
+
+Ring-fencing VAT revenues will work only when it is not needed. An EU government running out of fiscal capacity facing a recession, rising unemployment, and an election will struggle to explain to its voters why it is transferring tax revenue to service interest on blue bonds before paying for hospitals. Fixing this properly would require Eurozone countries ceding fiscal sovereignty to Brussels.
+
+Finally, in the case of a domestic mortgage, a senior lien can be enforced by a domestic court against a domestic household, but there are no supranational courts with meaningful enforcement power over sovereign legislatures. Laws can be changed. Commitments can be reversed.
+
+Blue bonds do not merely fail to solve the moral hazard problem — they may make it worse by giving fiscally weak countries additional leverage. Even if the French government borrows its marginal euro in the national red bond market rather than the blue bond market, the existence of blue bonds changes the bargaining dynamic entirely. If France gets into serious fiscal trouble, the French prime minister can credibly threaten to redirect VAT revenues earmarked for blue bond payments toward servicing its red (national) bonds instead. This is the rational thing for the French PM to do: defaulting on red bonds has a larger effect on French borrowing costs than defaulting on blue bonds, since the blue bond yield reflects the average creditworthiness of the whole pool. The other members of the blue bond pool, who desperately want to avoid anything that causes blue bond yields to spike, now have a strong incentive to offer France a bailout on generous terms. The blue bond becomes a tool for extracting transfers from fiscally stronger members.
+
+An earlier [proposal](https://cepr.org/voxeu/columns/esbies-safety-tranches) — *European Safe Bonds, or ESBies,* developed by a group of prominent European economists –Markus Brunnermeier, Luis Garicano, Philip Lane, Marco Pagano, Ricardo Reis, Tano Santos, David Thesmar, Stijn Van Nieuwerburgh, and Dimitri Vayanos — avoid joint liability entirely. Under ESBies, a European Debt Agency would purchase existing national sovereign bonds on the secondary market and repackage them into two tranches: a senior tranche (the ESBies themselves, representing roughly 70 percent of the pool) and a junior tranche that absorbs losses first. The senior tranche could be the European safe asset. Each country still borrows only in its own national bond market and faces its own yield curve. No country guarantees any other country’s debt. We are simply packaging and tranching red bonds. We are not replacing red bonds with blue bonds. This arrangement does not create any new incentive problems.
+
+These ESBies are exactly like mortgage backed securities (MBS), and these do exist, unlike the pooled village mortgages. Safety is manufactured purely through diversification and tranching, not through political commitments.
+
+ESBies have their own problems — and here the analogy with mortgage-backed securities is instructive. The senior tranches of CDOs backed by US mortgages were also rated AAA before 2008. Their safety similarly rested on the assumption that defaults across the underlying pool would remain uncorrelated. That assumption broke down catastrophically when a systemic shock hit the entire housing market simultaneously in 2008. ESBies have the same weakness: the senior tranche looks safe until a systemic crisis hits multiple sovereigns at once, at which point the correlation structure that the AAA rating was built on collapses — precisely when investors most need the safe asset to actually be safe.
+
+But the ESBies design does not ask sovereign states to make commitments they cannot credibly keep. Blanchard and Ubide, by contrast, build their entire structure on political commitments — ring-fenced revenues, seniority conventions, governance frameworks — that lack credibility.
+
+What the Eurozone actually needs is a bond market that prices each marginal Euro that a member government borrows to accurately reflect its underlying credit risk — without any implicit guarantees from its neighbours. Market participants need to understand that default is a real option for any member state. Blue bonds represent a step in the wrong direction: they blur the signal, socialize the risk, and reduce the pressure on governments to put their own fiscal houses in order.
+
+The village mortgage contract does not exist because market participants understand that it wouldn’t work. And that’s exactly why sovereign countries don’t issue joint debt.
+
+Reference: Blanchard, O. and Ubide, Á. (2025), “Now is the time for Eurobonds: A specific proposal,” Peterson Institute for International Economics, May 2025.
+
+[^1]: Joint borrowing does exist but almost exclusively in one context: long-term committed relationships, typically marriages. And the reason it works there for the most part is that married couples are bound together by deep legal, social, and emotional ties that make defection on the joint obligation costly in ways that go far beyond the interest rate.
+
+[^2]: The only way to secure unanimity was to allow Hungary, Slovakia, and the Czech Republic to opt out entirely, with the remaining 24 countries absorbing their share of the liability. This precedent suggests adverse selection may be a serious problem in case of more joint debt issuance.

@@ -1,0 +1,514 @@
+{
+    "total_files": 622,
+    "files_with_issues": 157,
+    "details": {
+        "concepts\\Alternative_Investment_Funds.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Asset_Backed_Securities_ABS.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Bills_Of_Exchange.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Business_Development_Company.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Central_Bank.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Commercial_Paper_And_CD.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Commodities.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\Commodity_Swaps.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\Convenience_Yield.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Convexity.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Covered_Bonds.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Credit_Risk_Taxonomy.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Cryptocurrencies.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Curve_Outlier_Treatment.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Dodd_Frank_And_JOBS_Act.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\Eurobond_And_Foreign_Bonds.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\EuroMTS_Trading_Platform.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Federal_Funds_Rate.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Financial_Leverage.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\Financial_Repression.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Fiscal_Dominance.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Free_Banking.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Futures_Market_Parameters.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\German_Bunds_Market.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Goodharts_Law.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Government_Sponsored_Entities.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Hedge_Fund_Industry.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\Hedge_Fund_Strategies.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\IMM_Dates_And_Tick.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Information_Leakage_In_Trading.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Inside_Money_Vs_Outside_Money.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Interest_Rate_Risk.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Lucas_Critique.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Monetary_Policy_Targeting.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Money_Market_Instruments.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Nelson_Siegel_Spline_Models.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Nostro_Account.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Price_Quantization_Noise.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Principal_Component_Analysis_PCA.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Principal_Trading_Firms_PTF.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Reserve_Ratio.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Residential_Mortgage_Backed_Securities_RMBS.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Risk_Neutral_Portfolios.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Search_Problem_In_Asset_Liquidity.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Selected_Global_Bond_Markets.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Short_Selling.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "concepts\\Sovereign_Debt_Risk_Dynamics.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Sovereign_Wealth_Fund.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Special_Purpose_Vehicle_SPV.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Structured_Vs_Statutory_Covered_Bonds.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Term_Structure_Bootlacing.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\US_Thirty_Seconds_Quotation.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Valuation_Adjustments_xVA.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Wicksellian_Natural_Interest_Rate.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "concepts\\Yield_Curve_Representations.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "concepts\\Yield_Curve_Sectoral_Analysis.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "contradictions\\Joint_Liability_In_Sovereign_Bonds.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "Definitions\\Asset-Based_Finance_ABF.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Asset_Backed_Securities_SPV_Architecture.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Bills_Of_Exchange.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Business_Development_Company.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Credit_Risk_Taxonomy.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Fiat_Money_Definition.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "Definitions\\Monetary_Operations_Instruments.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Money_Market_Instruments_Taxonomy.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Money_Neutrality_Vs_Non_Neutrality.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Private_Credit_Data_Gap.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "Definitions\\Seigniorage.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "evidence\\Blackstone_BCRED_Model.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "evidence\\Central_Bank_Liquidity_Support_Programs.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "evidence\\Money_Multiplier_Collapse.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "evidence\\Private_Credit_Secondary_Market.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "evidence\\Project_Meridian.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\ACM_Curve_Decomposition.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Annuity_Formula.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Asymmetric_Lending_Corridor.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Bank_Internal_Decision_Engine.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Bank_Private_Credit_Partnership.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Basel_III_Output_Floor.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Bill_Of_Exchange_Discounting.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Bond_Auction_Mechanics.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Bond_Syndication_Mechanics.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Cash_And_Carry_Arbitrage.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Circular_06_2023_Vietnam_Lending_Restrictions.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Circular_16_2021_Vietnam_Banking_Bond_Rules.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Coin_Value_Corridor.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Commodity_Futures_Pricing.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Commodity_Swap_Engineering.md": [
+            "Missing frontmatter delimiter at start"
+        ],
+        "mechanisms\\Conversion_Factor_And_Notional_Coupon.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Decree_08_2023_Vietnam_Bond_Restructuring.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\FRN_Implicit_Coupon_Floor.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Intraday_Liquidity_Management.md": [
+            "System Error: 'utf-8' codec can't decode byte 0x97 in position 646: invalid start byte"
+        ],
+        "mechanisms\\Inverse_Floater_Structure.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\J_Curve_Effect.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Lender_Of_Last_Resort.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Lender_of_Last_Resort_LoLR_Evolution.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Liquidity_Coverage_Ratio.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Liquidity_Management_Corridor_System.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Lucas_Paradox_Mechanism.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Mark-to-Model_Valuation_Risk.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Mistrade_And_Fat_Finger.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Money_Credit_Link.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\NAV_Lending_And_Subscription_Facility.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\NAV_Loans.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Net_Stable_Funding_Ratio.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Open_Market_Operations.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Originate_To_Distribute_Model.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Present_Value_Of_A_Basis_Point.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Private_Credit_Reflexive_Loop.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Private_Credit_Secondary_Market_Mechanics.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Private_Credit_Systemic_Risk_Loop.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Private_Credit_Valuation_Mark_To_Model.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\QE_Asset_Choice.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\QE_Liquidity_Distortion.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\QE_Transmission_Channels.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Regulatory_Implementation_Framework.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Search_For_Yield_Channel.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Semiliquid_Fund_Structures.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Significant_Risk_Transfer.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Significant_Risk_Transfer_Structures.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Spanning_Set_Factor_Analysis.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Spread_Taxonomy_And_Transmission.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Subscription_Lines.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Supranational_Capital_Structure.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Symmetric_Interest_Rate_Corridor.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\Symmetric_Vs_Asymmetric_Corridor_System.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\The_PIK_Masking_Cycle.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Tokenized_Monetary_System.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Unified_Ledger_Concept.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "mechanisms\\Variation_Margin_Vs_Initial_Margin.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "mechanisms\\VaR_Shock_Feedback_Loop.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "perspectives\\Cyclical_Banking_Ideology.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "perspectives\\Direct_Lending_2.0_Strategies.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "perspectives\\Market_Based_Vs_Parametric_Curves.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "perspectives\\Market_Liquidity_Regulative_Impact.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "perspectives\\Market_Technicals_In_Fixed_Income.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "perspectives\\NBFI_Surveillance_Priorities.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "perspectives\\Price_Discovery_Vs_Execution.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "perspectives\\Structural_Vs_Reduced_Form_Curves.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "perspectives\\Vietnam_Private_Credit_Outlook_2025.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\APAC_Private_Credit_Landscape.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\EMEA_Private_Credit_Landscape.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Fund_Finance_Landscape.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Global_Drivers_Of_Private_Credit.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Inside_Vs_Outside_Money.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Interconnectedness_Risk_Channels.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Liquidity_Premium_Vs_Yield_Discount.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "relationships\\Private_Credit_Stress_Transmission.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Redistribution_And_Debt.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "relationships\\Retailization_of_Credit_in_Vietnam.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Retailization_of_Private_Credit.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Systemic_Risk_Transformation_Model.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\The_Hybrid_Financial_System_Evolution.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\US_Vs_Europe_Private_Credit_Dynamics.md": [
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Wealth_Redistribution.md": [
+            "Field 'confidence' should be a number"
+        ],
+        "relationships\\Yield_Curve_Drivers_Taxonomy.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ],
+        "relationships\\Yield_Curve_Hierarchy.md": [
+            "Missing field: 'type'",
+            "Field 'source_refs' is empty"
+        ]
+    }
+}

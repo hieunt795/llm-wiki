@@ -1,0 +1,30 @@
+# Router rules for Query Understanding
+# Categories map to:
+# - sources: ['wiki', 'raw', 'both']
+# - boost: ['title', 'thesis', 'snippet', 'body']
+# - escalation: bool (cho phép chuyển sang deepdive nếu kết quả tệ)
+
+rules:
+  concept:
+    keywords: ["là gì", "định nghĩa", "khái niệm", "lý thuyết", "lược sử", "bản chất", "thuật ngữ"]
+    sources: ["both"]
+    boost: ["title", "thesis"]
+    escalation: false
+
+  mechanism:
+    keywords: ["cơ chế", "vận hành", "transmission", "feedback", "tương tác", "quy trình", "quy tắc", "logic"]
+    sources: ["both"]
+    boost: ["thesis", "snippet"]
+    escalation: true
+
+  evidence:
+    keywords: ["raw", "nguồn", "page", "citation", "tác giả", "số liệu", "data", "stats", "thống kê", "phân tích", "dữ liệu"]
+    sources: ["both"]
+    boost: ["snippet", "body"]
+    escalation: true
+
+  comparison:
+    keywords: ["vs", "so với", "khác biệt", "tương phản", "giữa", "đối chiếu"]
+    sources: ["both"]
+    boost: ["title", "thesis"]
+    escalation: false

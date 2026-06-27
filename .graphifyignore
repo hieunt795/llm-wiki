@@ -1,0 +1,7 @@
+.git/
+.obsidian/
+.cache/
+brain/
+graphify-out/
+node_modules/
+dist/

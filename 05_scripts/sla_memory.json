@@ -1,0 +1,83 @@
+{
+  "query_chain": [
+    "CDS credit default swap mechanism"
+  ],
+  "evidence": [
+    {
+      "id": "Credit_Default_Swaps_CDS::Credit_Default_Swaps_CDS",
+      "source": "wiki",
+      "score": 654.47,
+      "path": "03_wiki\\concepts\\Credit_Default_Swaps_CDS.md",
+      "summary": "A Credit Default Swap (CDS) isolates credit risk by engineering a synthetic insurance contract through the combination of a risky bond, a financial zero (LIBOR loan), and an interest rate swap."
+    },
+    {
+      "id": "Credit_Default_Swaps_CDS::Credit_Default_Swaps_CDS",
+      "source": "wiki",
+      "score": 654.47,
+      "path": "03_wiki\\concepts\\Credit_Default_Swaps_CDS.md",
+      "summary": "A Credit Default Swap (CDS) isolates credit risk by engineering a synthetic insurance contract through the combination of a risky bond, a financial zero (LIBOR loan), and an interest rate swap."
+    },
+    {
+      "id": "Credit_Default_Swaps_CDS::Credit_Default_Swaps_CDS",
+      "source": "wiki",
+      "score": 642.47,
+      "path": "03_wiki\\concepts\\Credit_Default_Swaps_CDS.md",
+      "summary": "A Credit Default Swap (CDS) isolates credit risk by engineering a synthetic insurance contract through the combination of a risky bond, a financial zero (LIBOR loan), and an interest rate swap."
+    },
+    {
+      "id": "Argentine_Peso_Collapse::Evidence: Credit Default Swaps Settlement (Novel at the Time)",
+      "source": "wiki",
+      "score": 360.77,
+      "path": "03_wiki\\evidence\\Argentine_Peso_Collapse.md",
+      "summary": "Evidence: Credit Default Swaps Settlement (Novel at the Time)"
+    },
+    {
+      "id": "Argentine_Peso_Collapse::Evidence: Credit Default Swaps Settlement (Novel at the Time)",
+      "source": "wiki",
+      "score": 360.77,
+      "path": "03_wiki\\evidence\\Argentine_Peso_Collapse.md",
+      "summary": "Evidence: Credit Default Swaps Settlement (Novel at the Time)"
+    },
+    {
+      "id": "Private_Credit_Data_Gap::Private_Credit_Data_Gap",
+      "source": "wiki",
+      "score": 346.89,
+      "path": "03_wiki\\definitions\\Private_Credit_Data_Gap.md",
+      "summary": "**Private Credit Data Gap (Kho\u1ea3ng tr\u1ed1ng d\u1eef li\u1ec7u n\u1ee3 t\u01b0 nh\u00e2n)** l\u00e0 t\u00ecnh tr\u1ea1ng thi\u1ebfu h\u1ee5t d\u1eef li\u1ec7u th\u1ed1ng k\u00ea v\u00e0 quy \u0111\u1ecbnh mang t\u00ednh h\u1ec7 th\u1ed1ng v\u1ec1 quy m\u00f4, \u0111\u00f2n b\u1ea9y, v\u00e0 c\u00e1c m\u1ed1i li\u00ean k\u1ebft c\u1ee7a th\u1ecb tr\u01b0\u1eddng n\u1ee3 t\u01b0 nh\u00e2n."
+    },
+    {
+      "id": "Private_Credit_Data_Gap::Private_Credit_Data_Gap",
+      "source": "wiki",
+      "score": 346.89,
+      "path": "03_wiki\\definitions\\Private_Credit_Data_Gap.md",
+      "summary": "**Private Credit Data Gap (Kho\u1ea3ng tr\u1ed1ng d\u1eef li\u1ec7u n\u1ee3 t\u01b0 nh\u00e2n)** l\u00e0 t\u00ecnh tr\u1ea1ng thi\u1ebfu h\u1ee5t d\u1eef li\u1ec7u th\u1ed1ng k\u00ea v\u00e0 quy \u0111\u1ecbnh mang t\u00ednh h\u1ec7 th\u1ed1ng v\u1ec1 quy m\u00f4, \u0111\u00f2n b\u1ea9y, v\u00e0 c\u00e1c m\u1ed1i li\u00ean k\u1ebft c\u1ee7a th\u1ecb tr\u01b0\u1eddng n\u1ee3 t\u01b0 nh\u00e2n."
+    },
+    {
+      "id": "Credit_Ratings_And_Migration::Credit_Ratings_And_Migration",
+      "source": "wiki",
+      "score": 290.9,
+      "path": "03_wiki\\concepts\\Credit_Ratings_And_Migration.md",
+      "summary": "Credit ratings are ordinal measures of default probability that evolve through time according to a transition matrix, where the multi-period risk of a security is a non-linear function of its rating migration path."
+    },
+    {
+      "id": "Credit_Ratings_And_Migration::Credit_Ratings_And_Migration",
+      "source": "wiki",
+      "score": 290.9,
+      "path": "03_wiki\\concepts\\Credit_Ratings_And_Migration.md",
+      "summary": "Credit ratings are ordinal measures of default probability that evolve through time according to a transition matrix, where the multi-period risk of a security is a non-linear function of its rating migration path."
+    },
+    {
+      "id": "Endogenous_Money_Credit_Creation::Endogenous_Money_Credit_Creation",
+      "source": "wiki",
+      "score": 281.22,
+      "path": "03_wiki\\mechanisms\\Endogenous_Money_Credit_Creation.md",
+      "summary": "Banks create money endogenously (deposits) when making loans to creditworthy borrowers, independent of their reserve positions. The quantity of credit is demand-determined by creditworthy applications, not supply-constrained by central bank reserves."
+    }
+  ],
+  "state": {
+    "confidence": 0.2,
+    "missing_gaps": [],
+    "iterations": 3
+  },
+  "log": []
+}

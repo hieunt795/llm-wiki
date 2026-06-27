@@ -1,0 +1,2582 @@
+# FINAL GRANULAR KNOWLEDGE MAP
+_Total classified entries: 2,700+_
+
+## 01. MONETARY: Strategic & Frameworks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks > Conceptual Dimension and Theoretical Model
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks > Institutional and Operational Framework
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks > Inflation Targeting Regimes
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks > Inflation Targeting and Economic Performance
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 8: Inflation Targeting Framework: Concept and Implementation at Central Banks > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Institutional Framework
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Operational Framework
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Evolution Thus Far
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Appendix 9.1: Amendments to the Bank Indonesia Act and their Implications
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Appendix 9.2: Bank Indonesia Macroeconomic Models
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Part IV: Institutional Aspect of Central Bank Policy
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency > Conceptual Dimension of Policy Credibility
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency > Theoretical Model Concerning the Policy Credibility Problem: Time Inconsistency
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency > Empirical Studies: Measures of Credibility and Time Inconsistency
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency > Assessing Monetary Policy Credibility in Indonesia
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 10: Monetary Policy Credibility and Time Consistency > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability > Conceptual and Empirical Dimensions of Independence and Accountability
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability > Theoretical Models Concerning Independence and Accountability
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability > Empirical Studies and Related Issues
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability > Bank Indonesia’s Independence and Accountability
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 11: Central Bank Independence and Accountability > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Conceptual Dimension of Policy Transparency and Communication Strategies
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Theoretical Models on Policy Transparency: Conservative Central Bank and Imperfect Transparency
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Practices and Empirical Studies of Transparency and Communication Strategies in Different Countries
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Transparency and the Communication Strategy in Indonesia
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 12: Policy Transparency and Communication Strategy > Part V: New Paradigm of Central Bank Policy
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix > Structural Macroeconomic Modeling: Integrated Inflation Targeting
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Central Bank Independence from Government
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Transparency of the Tactics and Strategy of Monetary Policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations > Currency Sovereignty and Policy Independence
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Central Bank Independence
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 6: Monetary Policy > Monetary policy under inflation targeting
+
+## 02. MONETARY: Operations & Implementation
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Monetary Policy and the Transmission Mechanisms
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Monetary Transmission Channels: The Money View
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Monetary Transmission Channels: The Credit View
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Monetary Policy Transmission in Various Countries
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Concluding Remarks
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 5: Monetary Policy Transmission Mechanism > Part III: Monetary Policy Framework
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 7: Monetary Policy Operational Framework > Monetary Operations in Indonesia
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Collateral Constraints
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Reserves of Banks with the Central Bank and Required Reserves
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Other Autonomous Factors and Types of Monetary Policy Operations
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Three Basic Techniques to Control Short-term Interest Rates > One-directional Standing Facility-based Monetary Policy Implementation
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Three Basic Techniques to Control Short-term Interest Rates > Symmetric Corridor Approach with Open Market Operations Volume Set by the Central Bank
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Three Basic Techniques to Control Short-term Interest Rates > Full Allotment Open Market Operations within a Corridor Set by Standing Facilities
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Several Liquidity Shocks, Averaging, and the Martingale Property of Overnight Rates > Three-day Reserve Maintenance Period with Averaging
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Standing Facilities and the Interest Rate Corridor
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Standing Facilities and the Interest Rate Corridor > Types of Standing Facilities and History
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Standing Facilities and the Interest Rate Corridor > Optimal Width of the Corridor Set by Standing Facilities in the Symmetric Corridor Approach
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Standing Facilities and the Interest Rate Corridor > Idea of a ‘Target Rate—Limited Access’ (Taralac) Facility
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations in Normal Times
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations in Normal Times > Origins and History
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations in Normal Times > Open Market Operations as Determinants of the Monetary Policy Implementation Approach
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations in Normal Times > Tender Procedure for Credit Open Market Operations
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Reserve Requirements
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Reserve Requirements > Introduction
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Reserve Requirements > Basic Specifications of Reserve Requirements
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Reserve Requirements > Key Functions of Reserve Requirements (Including Historical)
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral > Importance of the Collateral Framework for Monetary Policy Implementation
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral > Logic of Establishing a Collateral Framework
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral > Risk Management Techniques
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral > Market Impact of the Collateral Framework and Collateral as Monetary Policy Instrument
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral > Segregation of Collateral Sets, Adverse Selection in Collateral Use, and Pricing
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral Availability and Monetary Policy
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral Availability and Monetary Policy > Collateral Scarcity and Effective Term Funding Costs of Banks
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral Availability and Monetary Policy > Collateral Scarcity, Stigma, and the Control of the Overnight Rate
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral Availability and Monetary Policy > The Asset Encumbrance Problem
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral Availability and Monetary Policy > The Bank Run Problem and Central Bank Collateral
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Collateral Availability and Monetary Policy > Securities Lending Programmes by Central Banks
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations and Standing Facilities
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations and Standing Facilities > The Use and Width of the Standing Facilities Corridor
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations and Standing Facilities > Adjusting Credit Open Market Operations
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations and Standing Facilities > Outright Purchase Programmes
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations and Standing Facilities > Dangers of Too Accommodating Policies
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations and Standing Facilities > Annex: Central Bank Balance Sheets during the Crisis
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The International Lender of Last Resort > Annex A: Current Account Transactions as Origin of Foreign Reserves
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > Government Resolution of the Problems of Commodity-Based Systems and Fractional Reserve Systems
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Reserve Requirements
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > The Expanded Role of the Federal Reserve as a Regulatory and Supervisory Agency
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > The Institutional Design of the Federal Reserve System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > The Structure of the Federal Reserve System in the Broad Sense
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > The Federal Reserve and Central Bank Institutional Redesigns
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Evolution of Federal Reserve Final Policy Targets and the "Dual" Mandate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Evolution of Federal Reserve Tactics
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Role of the Federal Reserve
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Aftermath: Redesigning the Federal Reserve, Government Financial Regulation and the Financial System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > The Great Inflation: A Clash of Federal Reserve Policy Errors and Flawed Financial Regulation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > The Federal Reserve after the Collapse of the Housing Bubble, the Great Recession and Challenges
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > Banks do not loan out reserves
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > Policies for the Promotion of Employment
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 6: Monetary Policy > Symmetric interest rate corridors
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 6: Monetary Policy > Asymmetric lending corridors
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 8: Interaction between Frameworks and Policy > Collateral
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Central bank reserve portfolios
+
+## 03. MONETARY: Crisis & LOLR
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 9: Inflation Targeting Framework: Implementation in Indonesia > Strengthening the ITF Implementation Strategy after the Global Financial Crisis
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability > Introduction
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability > Conceptual Dimension of FSS
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability > Theoretical Model and Empirical Evidence of Financial Procyclicality
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability > Theoretical Model and Empirical Evidence for Interconnectedness and Financial Networks
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability > Macroprudential Policy Theory and Practices
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 14: Macroprudential Policy and Financial System Stability > Concluding Remarks
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times > Part II: Monetary Policy Operations in Times of Crisis
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Bank Runs and Investor Strikes
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Asset Fire Sales
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Interaction Between Crisis Channels
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > The Role of the Central Bank: Monetary Policy and LOLR
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Central Bank as Lender of Last Resort (LOLR)
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Central Bank as Lender of Last Resort (LOLR) > The Nineteenth-century Heritage
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Central Bank as Lender of Last Resort (LOLR) > Why Should Central Banks Be Lender of Last Resort?
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Central Bank as Lender of Last Resort (LOLR) > Central Bank Inertia and Beyond
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Central Bank as Lender of Last Resort (LOLR) > Emergency Liquidity Assistance as Special Type of LOLR
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR and Central Bank Risk-Taking
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR and Central Bank Risk-Taking > Exogenous Risk
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR and Central Bank Risk-Taking > Endogenous Risk
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR, Moral Hazard, and Liquidity Regulation
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR, Moral Hazard, and Liquidity Regulation > Moral Hazard and Negative Externalities of Inadequate Bank Liquidity Management
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR, Moral Hazard, and Liquidity Regulation > Liquidity Regulation
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] LOLR, Moral Hazard, and Liquidity Regulation > A Framework with Financial Incentives against Disproportional Reliance on the Central Bank
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The International Lender of Last Resort
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The International Lender of Last Resort > The Case of a Fixed Exchange Rate System
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The International Lender of Last Resort > Provision of Foreign Currency by Central Banks to Domestic Counterparties in 2009–2013
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The International Lender of Last Resort > Annex B: TARGET2 Balances in the Euro Area
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations in Crisis Times
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Optimal Monetary Policy Operations in Crisis Times > Part I: Introduction to the Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > The Primacy of Price Stability and Inflation Targeting
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > Unemployment Buffer Stocks and Price Stability
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > Employment Buffer Stocks and Price Stability
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > PART F: ECONOMIC INSTABILITY
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy > Marxist Theory of Crisis
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy > Keynesian and Post-Keynesian Theories of Crisis
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy > Minsky’s Financial Instability Hypothesis
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics in the Light of the Global Financial Crisis
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics in the Light of the Global Financial Crisis > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics in the Light of the Global Financial Crisis > Why Didn’t Mainstream Macroeconomics Foresee the GFC?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics in the Light of the Global Financial Crisis > Who Did Foresee the GFC and Why?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics in the Light of the Global Financial Crisis > Lessons That Can be Learned About Sovereign Currency From the Eurozone Crisis
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > The ERM Crisis of 1992
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > The Asian Crisis of 1997
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > The Russian Crisis of 1998
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > The Turkish Lira Crisis of 2001
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > The Argentinean Peso Crisis of 2002
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Financial Stability (191)
+- [x] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Financial Stability (191) > Bank Regulation: An Intuitive Sketch of Prudential Considerations (193)
+- [x] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Financial Stability (191) > Bank Regulation: Terms, Definitions, and Difficulties (196)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Financial Stability (191) > The Anatomy of an EM Balance Sheet Crisis (206)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Financial Stability (191) > Balance Sheet Crises and Financial Assessment in Advanced Countries (215)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Financial Stability (191) > Exercises (223)
+
+## 04. MACRO: MMT & Heterodox
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > The MMT approach to macroeconomics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > Policy implications of MMT for sovereign nations
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > MMT and Public Discourse
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > Face to Face: Mainstream Macro and MMT
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Sovereign Currency: The Government and its Money
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Sovereign Currency: The Government and its Money > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Sovereign Currency: The Government and its Money > The National Currency (Unit of Account)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Sovereign Currency: The Government and its Money > Floating versus Fixed Exchange Rate Regimes
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Sovereign Currency: The Government and its Money > IOUs Denominated in National Currency: Government and Non-Government
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Sovereign Currency: The Government and its Money > Use of the Term ‘Money’: Confusion and Precision
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > MMT representation of the credit creation process
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Policy in Sovereign Nations > Functional Finance versus Sound Finance
+
+## 05. MACRO: Professional & International
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > Fiscal and monetary policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Japan’s persistent fiscal deficits: the glaring counterfactual case
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations > Introduction
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations > The Central Bank
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations > The Treasury
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations > Coordination of Monetary and Fiscal Operations
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction to Monetary and Fiscal Policy Operations > Taxes and Sovereign Spending
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Policy in Sovereign Nations
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Policy in Sovereign Nations > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Policy in Sovereign Nations > Fiscal Policy Debates: Crowding Out and (Hyper) Inflation
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Space and Fiscal Sustainability
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Space and Fiscal Sustainability > Introduction
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Space and Fiscal Sustainability > The Full Employment Fiscal Deficit Condition
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Space and Fiscal Sustainability > Fiscal Space and Fiscal Sustainability
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Fiscal Space and Fiscal Sustainability > The Debt Sustainability Debate
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Real Economic Activity (7)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Real Economic Activity (7) > The Supply Side (10)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Real Economic Activity (7) > The Demand Side (28)
+- [x] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Real Economic Activity (7) > Playing with the Concepts: Macroeconomic Shocks and Policy Responses (45)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Real Economic Activity (7) > Exercises (51)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The Fiscal System (147)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The Fiscal System (147) > The Government Accounts (149)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The Fiscal System (147) > Assessing the Macroeconomic Effects of Fiscal Policy (159)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The Fiscal System (147) > Fiscal Rules: A Bulwark against Short-Term Political Pressures (183)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The Fiscal System (147) > Thought Experiments (186)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The Fiscal System (147) > Exercises (188)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The External Accounts (225)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The External Accounts (225) > Understanding the External Accounts (226)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The External Accounts (225) > The Main Objectives of External Account Analysis (239)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The External Accounts (225) > External Vulnerability and Risk Assessment (256)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] The External Accounts (225) > Exercises (264)
+
+## 06. FI: Pricing & Yield Math
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Introduction to Cash Flow Discounting and Present Value
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Realized Returns
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Yield to Maturity
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Yield and Return
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Spreads
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Application: Spreads of High-Coupon Bonds
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Unchanged Rate Scenarios for P&L
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Pricing and Hedging Implications
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] Appendix: Bond Yield Measurement > PART I: BANKING, BANK CUSTOMER BUSINESS AND REGULATION
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 2: Bond Instruments and Interest-Rate Risk > Appendix 2.3: Taylor Expansion of the Price/Yield Function
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > Summary of Pricing Approaches
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > The Framework
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > An Application
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > Implications of the Fundamental Theorem
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > Which Pricing Method to Choose?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Pricing with a Smile
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > Equity as the Discounted Value of Future Cash Flows
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Two Simple Examples
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Default Correlation and Trading
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Real-World Complications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Default Correlation Case Study: May 2005
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Choice of the Discount Rate and Multiple Curves
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Discounting
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Yield
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Running yield
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Simple yield
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Compound yield
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Bond-equivalent yield
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 17: Floating-Rate Notes > Discount margin
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Discount factors versus par curves
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Pricing fixed income securities
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Pricing floating-rate notes
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Inflation pricing
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Credit pricing
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Fixed income
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Credit markets
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Black–Scholes–Merton: an intuitive approach
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Monte Carlo simulation
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Appendix 2.2 OIS Discounting
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > The yield beta
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Decomposing bond yields
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Summary of Yield Measures
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > The Basic Concept of Present Value
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > The Horizon Present Value (HPV)
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > Bond Prices and Yields
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Present Value (PV)
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Horizon Present Value (HPV) of “Tail” Cash Flow at Horizon H
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Horizon Present Value Volatility HPV-VOL (H+1,M)
+- [x] [# PART III: INSIDE THE YIELD BOOK (ORIGINAL EDITION)] Preface to the 1972 Edition
+- [x] [# PART III: INSIDE THE YIELD BOOK (ORIGINAL EDITION)] Contents of the 1972 Edition
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Long-Term Par Bonds
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > The Yield Book
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Simple Interest vs. Compound Interest
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Maturity
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Long-Term Discount Bonds
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Long-Term Bonds at Lower Yields
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Timing of Rate Changes
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 1: Interest on Interest > Investment Implications
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > Types of Investment Funds
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > Two Eccentric Types of Bonds
+- [x] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > Perpetuals
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > The Volatility of Perpetuals
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > Discount Bonds with 0 Coupons
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > The Volatility of 0 Coupon Discount Bonds
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 2: The Power of Compound Interest, Perpetual Bonds and Discount Bonds > Investment Implications
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices > The Causes of Volatility
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices > The Two Eccentric Types of Bonds
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices > Coupon Bonds in Real Life
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices > The Volatility of Yields
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices > Summary of Bond Price Volatility
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 3: The Volatility of Bond Prices > Investment Implications
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 4: The Yields of Premium Bonds, Par Bonds and Discount Bonds
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 4: The Yields of Premium Bonds, Par Bonds and Discount Bonds > The Effect of Potential Call on Yield
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 4: The Yields of Premium Bonds, Par Bonds and Discount Bonds > Yield-to-Call and the Minimum Yield
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 4: The Yields of Premium Bonds, Par Bonds and Discount Bonds > The Cross-Over Yield
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 4: The Yields of Premium Bonds, Par Bonds and Discount Bonds > Problems with the Conventionally Computed Minimum Yield
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 4: The Yields of Premium Bonds, Par Bonds and Discount Bonds > Realized Compound Yields to Maturity
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 5: The Price Volatility of Premium Bonds, Par Bonds and Discount Bond
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 5: The Price Volatility of Premium Bonds, Par Bonds and Discount Bond > Summary and Investment Implications
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 8: Simple and Compound Interest
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 8: Simple and Compound Interest > Simple Interest
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 8: Simple and Compound Interest > Compound Interest
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 8: Simple and Compound Interest > Semiannual Compounding
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 9: The Time Value of Money
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 9: The Time Value of Money > The Future Value of $1 Today
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 9: The Time Value of Money > Interest on an Interest Payment
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 9: The Time Value of Money > Present Value of $1 Received in the Future
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 9: The Time Value of Money > The Principle of Evaluation at a Common Point in Time
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 10: The Future Value of a Cash Flow
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 10: The Future Value of a Cash Flow > The Future Value of $1 Per Period
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 10: The Future Value of a Cash Flow > The Future Value of a Coupon Flow
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 10: The Future Value of a Cash Flow > Interest-on-Interest
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 10: The Future Value of a Cash Flow > Total Future Value of a Bond
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 11: The Present Value of a Cash Flow
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 11: The Present Value of a Cash Flow > The Present Value of $1 Per Period
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 11: The Present Value of a Cash Flow > The Present Value of a Bond
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 12: The Concept of Yield to Maturity
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 12: The Concept of Yield to Maturity > Definition of a Bond’s Yield-to-Maturity
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 12: The Concept of Yield to Maturity > Understanding Yield-to-Maturity
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 13: Accrued Interest and Dollar Prices
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 14: The Yield to Call
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 14: The Yield to Call > Definition of the Yield-to-Call
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 14: The Yield to Call > Methods for Computing the Yield-to-Call
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 15: Total Realized Compound Yield
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 15: Total Realized Compound Yield > Realized Compound Yield Over the Bond’s Life
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 15: Total Realized Compound Yield > Realized Compound Yield Prior to Maturity
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 15: Total Realized Compound Yield > Realized Compound Yield Beyond Maturity
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 15: Total Realized Compound Yield > Realized Compound Yield and the Recovery of Book Loss
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 15: Total Realized Compound Yield > Using the Yield Book to Find Realized Compound Yields
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] Appendix
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] Glossary of Symbols
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] List of Tables
+- [ ] [PART II: THE MATHEMATICS OF BOND YIELDS] About the Authors
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] Index
+- [ ] [Bondistan Tourist Guide] 1. Bond Math
+
+## 07. FI: Risk (Duration, Convexity, Greeks)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Duration of Unemployment
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > Price–Rate Curves
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > DV01
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > Hedging a Century Bond: Part I
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > Duration
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > Convexity
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > Hedging a Century Bond: Part II
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > Yield-Based DV01, Duration, and Convexity
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 4: DV01, Duration, and Convexity > The Barbell versus the Bullet
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Key Rates: Motivation
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Key Rates: Overview
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Key Rates: Shifts
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Key Rates: '01s, Durations, and Hedging
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Partial '01s and PV01
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Forward-Bucket '01s
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 5: Key-Rate, Partial, and Forward-Bucket '01s and Durations > Multi-Factor Exposures and Portfolio Risk
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 8: Expectations, Risk Premium, Convexity, and the Shape of the Term Structure
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 8: Expectations, Risk Premium, Convexity, and the Shape of the Term Structure > Expectations
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 8: Expectations, Risk Premium, Convexity, and the Shape of the Term Structure > Volatility and Convexity
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 8: Expectations, Risk Premium, Convexity, and the Shape of the Term Structure > An Analytical Decomposition of Term Structure
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 2: Bond Instruments and Interest-Rate Risk > Appendix 2.1: Formal Derivation of Modified-Duration Measure
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 2: Bond Instruments and Interest-Rate Risk > Appendix 2.2: Measuring Convexity
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Appendices
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Appendix A: Statistical Concepts
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Appendix B: Basic Tools
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Appendix C: Introduction to the Mathematics of Fixed-Income Pricing
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Appendix D: About the Companion Website
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Glossary
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Index
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART I INTRODUCTION
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > ALM in the Context of Enterprise Risk Management
+- [x] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART II INTEREST RATE RISK
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The New Basel Standards on IRRBB and Their Implications for ALM
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Modelling of Non-Maturity Deposits
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Modelling Non-Maturing Deposits with Stochastic Interest Rates and Credit Spreads
+- [x] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Managing Interest Rate Risk for Non-Maturity Deposits
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Replication of Non-Maturing Products in a Low Interest Rate Environment
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Considerations for ALM in Low and Negative Interest Rate Environments
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Credit Spreads
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Hedge Accounting
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART III LIQUIDITY RISK
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Supervisory Views on Liquidity Regulation, Supervision and Management
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Measuring and Managing Liquidity and Funding Risk
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Managing Reserve Assets
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Instruments for Secured Funding
+- [x] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Encumbrance
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Global Perspective on Stress Testing
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > XVAs and the Holistic Management of Financial Resources
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Optimal Funding Tenors
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Funds Transfer Pricing in the New Normal
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Balance-Sheet Management with Regulatory Constraints
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > VOLUME ONE
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART ONE: MATHEMATICAL AND FINANCIAL FOUNDATIONS; BASIC THEORY OF DERIVATIVES; RISK AND RETURN
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Products and Markets
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Derivatives
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Random Behavior of Assets
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Elementary Stochastic Calculus
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Black–Scholes Model
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Partial Differential Equations
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Black–Scholes Formulae and the ‘Greeks’
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Simple Generalizations of the Black–Scholes World
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > How to Delta Hedge
+- [x] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Fixed-income Products and Analysis: Yield, Duration and Convexity
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Binomial Model
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > How Accurate is the Normal Approximation?
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Investment Lessons from Blackjack and Gambling
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Portfolio Management
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Value at Risk
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Forecasting the Markets?
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Trading Game
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > VOLUME TWO
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Strongly Path-dependent Derivatives
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Derivatives and Stochastic Control
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Equity and FX Term Sheets
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART THREE FIXED-INCOME MODELING AND DERIVATIVES
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > One-factor Interest Rate Modeling
+- [x] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Yield Curve Fitting
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Interest Rate Derivatives
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Convertible Bonds
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Multi-factor Interest Rate Modeling
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Empirical Behavior of the Spot Interest Rate
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Heath, Jarrow & Morton and Brace, Gatarek & Musiela Models
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Fixed-income Term Sheets
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Value of the Firm and the Risk of Default
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Credit Derivatives
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > RiskMetrics and CreditMetrics
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > CrashMetrics
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Derivatives  Ups
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > VOLUME THREE
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART FIVE ADVANCED TOPICS
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Financial Modeling
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Defects in the Black–Scholes Model
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Discrete Hedging
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Transaction Costs
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Overview of Volatility Modeling
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Deterministic Volatility Surfaces
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Stochastic Volatility
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Uncertain Parameters
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Empirical Analysis of Volatility
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Stochastic Volatility and Mean-variance Analysis
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asymptotic Analysis of Volatility
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Jump Diffusion
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Crash Modeling
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Static Hedging
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Feedback Effect of Hedging in Illiquid Markets
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Utility Theory
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Advanced Dividend Modeling
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Serial Autocorrelation in Returns
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Allocation in Continuous Time
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Allocation Under Threat of a Crash
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Interest-rate Modeling Without Probabilities
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Pricing and Optimal Hedging of Derivatives, the Non-probabilistic Model Cont’d
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Extensions to the Non-probabilistic Interest-rate Model
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Modeling Inflation
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Energy Derivatives
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Life Settlements and Viaticals
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Bonus Time
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART SIX NUMERICAL METHODS AND PROGRAMS
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Overview of Numerical Methods
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Finite-difference Methods for One-factor Models
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Further Finite-difference Methods for One-factor Models
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Finite-difference Methods for Two-factor Models
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Monte Carlo Simulation
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Numerical Integration
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Finite-difference Programs
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Monte Carlo Programs
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Fixed Income Risk Measures: Duration, Convexity and Value-at-Risk
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions > A Puzzle
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions > Bond Convexity Trades
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions > Sources of Convexity
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions > A Special Instrument: Quantos
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 10: Engineering Convexity Positions > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Dirac Delta Functions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Delta Hedging and Correlation Trading
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Convexity
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Convexity bias
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 36: Hedging > Duration-neutral hedges
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Macaulay duration
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Modified duration
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Convexity
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Application of DV01
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Delta
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Gamma
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Theta
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Vega
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Convexity
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] Introduction
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Duration Targeting
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Accrual Offsets of Price Effects
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Trendline Model
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > The Effective Maturity
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Terminal Yield Distributions
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Non-Trendline Paths
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Tracking Error and Total Volatility
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 1: Duration Targeting and the Trendline Model > Key Findings
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 2: Volatility and Tracking Error
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 2: Volatility and Tracking Error > Introduction
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 2: Volatility and Tracking Error > TL Volatility
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 3: Historical Convergence to Yield
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 3: Historical Convergence to Yield > Historical Yield Volatilities
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 3: Historical Convergence to Yield > Historical Tracking Errors
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 3: Historical Convergence to Yield > Conclusion
+- [x] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 4: Barclays Index and Convergence to Yield
+- [ ] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 4: Barclays Index and Convergence to Yield > Introduction
+- [ ] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 4: Barclays Index and Convergence to Yield > Historical Data
+- [ ] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] CHAPTER 5: Laddered Portfolio Convergence to Yield
+- [ ] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] Appendix: Path Return and Volatility
+- [ ] [# PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION)] References
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Macaulay Duration D(1,H)
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Horizon Duration HD(H+1,M)
+- [x] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 5: Some Comments on Yield, Duration, and Convexity (137)
+- [x] [Bondistan Tourist Guide] 2. Interest Rate Risk, Its Calculation and Application
+
+## 08. FI: Yield Curve Modeling
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > Maturity: The Term Structure of Interest Rates and the Yield Curve
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > What Explains the Shape of the Yield Curve?
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > The Yield Curve as a Rorschach Inkblot Test of Expected Inflation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > The Yield Curve as a Rorschach Inkblot Test of the Business Cycle
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > The Yield Curve as a Rorschach Inkblot Test of Both Inflation and the Business Cycle
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 6: Regression Hedging and Principal Component Analysis
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 6: Regression Hedging and Principal Component Analysis > Single-Variable Regression Hedging
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 6: Regression Hedging and Principal Component Analysis > Two-Variable Regression Hedging
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 6: Regression Hedging and Principal Component Analysis > Level versus Change Regressions
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 6: Regression Hedging and Principal Component Analysis > Reverse Regressions
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 6: Regression Hedging and Principal Component Analysis > Principal Component Analysis
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Rate and Price Trees
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Arbitrage Pricing of Derivatives
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Risk-Neutral Pricing
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Arbitrage Pricing in a Multi-Period Setting
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Profit and Loss Attribution with an OAS
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Reducing the Time Step
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Fixed Income versus Equity Derivatives
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 9: The Vasicek and Gauss+ Models
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 9: The Vasicek and Gauss+ Models > The Vasicek Model
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 9: The Vasicek and Gauss+ Models > The Gauss+ Model
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 9: The Vasicek and Gauss+ Models > Relative Value and Macro-Style Trading
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 1: The Yield Curve
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 2: A Further Look at Spot and Forward Rates
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 2: A Further Look at Spot and Forward Rates > PART 2: YIELD CURVE MODELLING AND POST-2008 YIELD CURVE ANALYTICS
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 3: Interest Rate Modelling I: Primer on Basic Concepts
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 4: Interest Rate Modelling II: The Dynamic of Asset Prices
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 5: Interest Rate Models I
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 6: Interest Rate Models II
+- [x] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 7: The Index-Linked Bond Yield Curve
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 8: Yield Curve Analytics in the Post-2008 Era
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 9: Negative Interest Rate Analytics
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 9: Negative Interest Rate Analytics > PART 3: FITTING THE YIELD CURVE
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 10: Estimating and Fitting the Yield Curve I
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 11: Estimating and Fitting the Yield Curve II
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 11: Estimating and Fitting the Yield Curve II > PART 4: YIELD CURVES AND RELATIVE VALUE TRADING
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 12: Yield Curves and Relative Value
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] CHAPTER 13: Identifying Relative Value in the US Treasury Market
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] Appendix: Bond Yield Measurement
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 4: The yield curve
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 5: Fitting the Yield Curve
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 5: Fitting the Yield Curve > Appendix 5.1: Linear Regression — Ordinary Least Squares
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 5: Fitting the Yield Curve > Appendix 5.2: Regression Splines
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 5: Fitting the Yield Curve > PART TWO: Selected Market Instruments
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 19: Government Bond Analysis, the Yield Curve, and Relative-Value Trading
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Forward Rates and Term Structure
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds) > The Term Structure of Commodity Futures Prices
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Term Structure Modeling
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Term Structure Dynamics
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Yield curve representation and interpretations
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > The Vasicek spline
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 33: Principal Component Analysis
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 33: Principal Component Analysis > PCA as generalised regression
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 33: Principal Component Analysis > Measuring data complexity with PCA
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 36: Hedging > Yield curve model hedges
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Par yield curves
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Zero-coupon yield curves
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Forward yield curves
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Understanding the Yield Curve
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Yield curve formation
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > How does the yield curve move?
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Yield curve movements
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > How do yield curves actually move?
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Yield curve modelling
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Trading Terminology
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Long or short?
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Roll down and carry revisited
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Trading the Short End of the Yield Curve
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Money-market loans and deposits
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Interest rate futures
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Trading the Slope of the Yield Curve
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Short-term interest rate futures vs. bond futures
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Conditional curve trades
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Volatility and the level of interest rates
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Trading the Curvature of the Yield Curve
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > An overview of butterfly spreads
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > s5s10s Butterfly trade using bonds
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Forward and spot spreads and carry
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Volatility and yield curve slope and curvature
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Volatility, Curvature and Skew
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Constant-Maturity Products
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Product definitions
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > CMS product pricing
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > CMS sensitivities and impact on market
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Applications of CMS products
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Expressing Views on the Credit Term Structure
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Term Structure of Breakeven Inflation and Real Yields
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 3: Principal Component Analysis (51)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 6: Some Comments on Yield Curve Models (143)
+- [ ] [Bondistan Tourist Guide] 4. The Yield Curve
+- [ ] [Bondistan Tourist Guide] 7. Bootstrapping the Yield Curve
+
+## 09. FI: Money Markets & Repo
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > The Money Market: Demand, Supply and Equilibrium
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > Repurchase Agreements
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > Uses of Repurchase Agreements
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > Market Structure and Size
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > SOFR
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > GC and Special Repo Rates
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > Liquidity Management and Current Account
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 10: Repurchase Agreements and Financing > Case Study: MF Global's Collapse
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Implied Repo Rates
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives > Short-Term Rates and the Transition from LIBOR to SOFR
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives > One-Month SOFR Futures
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives > Fed Fund Futures
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives > Three-Month SOFR Futures
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Supervisory Reporting of IRRBB
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 6: Balance sheet management: money markets, FX, trading and hedging, and securitisation
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 13: Liquidity risk reporting
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 19: Credit risk assessment and reporting principles
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 6: The Money Markets
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction > A Money Market Problem
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Repo Details
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Types of Repo
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Equity Repos
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Repo Market Strategies
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Synthetics Using Repos
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Differences Between Repo Markets and the Impact of the GFC
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 5: Repo Market Strategies in Financial Engineering > Conclusions
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 7: Operational Frameworks > Liquidity absorption: Asset sales and reverse repos
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Reporting
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Money market instruments
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Discount factors
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Day count conventions
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Money market interest rates
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Compounding
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > LIBOR, Euribor, and friends
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Overnight benchmarks
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Benchmark reform
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Money market futures and futures trading
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Money market futures
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Identification of futures contracts
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Futures trading basics
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 13: The Money Market > Convexity adjustment
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 14: The Repo Market
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 14: The Repo Market > The repurchase market
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 14: The Repo Market > Haircut
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 14: The Repo Market > Variations of repurchase transactions
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 14: The Repo Market > Rehypothecation
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Basis and implied repo rate
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Repurchase Agreements
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Fed Funds futures vs. interest rate swaps
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Introduction to the International Money Markets, the Foreign Exchange Markets and Their Associated Derivative Markets (11)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Introduction to the International Money Markets, the Foreign Exchange Markets and Their Associated Derivative Markets (11) > Setting the scene (12)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Introduction to the International Money Markets, the Foreign Exchange Markets and Their Associated Derivative Markets (11) > Foreign exchange market (14)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Introduction to the International Money Markets, the Foreign Exchange Markets and Their Associated Derivative Markets (11) > Market participants (15)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Introduction to the International Money Markets, the Foreign Exchange Markets and Their Associated Derivative Markets (11) > Foreign exchange derivatives (19)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Introduction to the International Money Markets, the Foreign Exchange Markets and Their Associated Derivative Markets (11) > Basic market concepts (19)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > Introduction (41)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > The cash market (42)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > LIBOR (57)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > Yield curves (59)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > Position keeping (64)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > Negotiable financial instruments (66)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 3 · Money Market Products (39) > Repos (87)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · Money Market Derivatives (99)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · Money Market Derivatives (99) > Introduction (100)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · Money Market Derivatives (99) > Derivation of forward/forward interest rates (101)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · Money Market Derivatives (99) > Financial futures (105)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · Money Market Derivatives (99) > Forward rate agreements (127)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · Money Market Derivatives (99) > Longer-term interest rate derivatives – interest rate swaps (141)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 17: Global Bond RV Via Fitted Curves and Via SOFR Asset Swap Spreads (307)
+- [x] [Bondistan Tourist Guide] 3. Money Markets and Forward Rates
+- [ ] [Bondistan Tourist Guide] 10. Floating Rate Notes
+
+## 10. FI: Mortgages & MBS
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Open Market Operations in Normal Times > Liquidity-absorbing Open Market Operations
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > The Mortgage Market
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Fixed-Rate Mortgage Loans
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Adjustable-Rate Mortgages
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Prepayments
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Mortgage Pools
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Prepayment Modeling
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Mortgage Pricing, Spreads, and Risks
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > TBA and Specified Pools Markets
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Risk Factors and Hedging Agency MBS
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Dollar Rolls
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Other MBS
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 15: Mortgages and Mortgage-Backed Securities > Credit Risk Transfer Securities
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Managing Mortgage Prepayment Risk on the Balance Sheet
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Mortgage-backed Securities
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 22: Default Correlation Pricing and Trading > Standard Tranche Valuation Model
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > An Application: CPPI and Equity Tranches
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 2: Money, Credit and Banking > Abstract properties of money
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 26: Asset-Backed Securities > The ABS issuance process
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 26: Asset-Backed Securities > Default risk of ABS
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 26: Asset-Backed Securities > Maturity of ABS
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 27: Residential Mortgage-Backed Securities
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 27: Residential Mortgage-Backed Securities > Residential mortgage prepayments
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 27: Residential Mortgage-Backed Securities > Prepayment modelling
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 27: Residential Mortgage-Backed Securities > PART FIVE: Derivatives
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > From closed-form to binomial pricing techniques
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Index tranche investing
+- [ ] [Bondistan Tourist Guide] 12. Mortgage Backed Securities
+
+## 11. SWAPS: IRS, Basis & Cross-Currency
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates > Interest Rate Quotations
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates > Interest Rate Swaps
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates > Pricing Interest Rate Swaps
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates > Spot Rates
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates > Forward Rates
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 2: Swap, Spot, and Forward Rates > Relationships Between Swap, Spot, and Forward Rates
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Pricing a Constant-Maturity Swap
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Gross and Net Basis and Basis Trades
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Case Study: Basis Trades in March 2020
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps > Market Size and Participants
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps > IRS Cash Flows and Analytics
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps > Uses of Interest Rate Swaps
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps > Counterparty Credit Risk
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps > Clearing and Central Counterparties
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 13: Interest Rate Swaps > Basis Swaps
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Corporate Bonds and Loans
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Default Rates, Recovery Rates, and Credit Losses
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Credit Spreads
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Credit Risk Premium
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Credit Default Swaps
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > CDS Upfront Amounts
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > CDS-Equivalent Bond Spread
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > CDS-Bond Basis
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Hazard-Adjusted Duration and DV01
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Spread Duration and DV01
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > CDS Settlement Auctions
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Opportunistic CDS Strategies
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 14: Corporate Debt and Credit Default Swaps > Case Study: The London Whale
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options > Swaptions
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options > Swaption Skew
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 13: Swaps
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 13: Swaps > Appendix 13.1: Calculating Futures Strip Rates and Implied Swap Rates
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 15: Credit Derivatives II — Pricing, Valuation, and the Basis
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Measuring and Managing Interest Rate and Basis Risk
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Probability Density Functions and First-exit Times
+- [x] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Introduction to Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Overview
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Fixed-Floating Swaps
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Basis Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Cross-Currency Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Risk Characteristics and the Traditional Uses of Swaps
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Interest Rate Risk
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PV01
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Spread Risk
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Closer Look at Swap Spreads
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Currency Risk
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Counterparty Risk
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Traditional Uses of Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > New Issue Hedging
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Balance Sheet Management
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Pricing of Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Where Do Swap Rates Come From?
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Link Between Swap Rates and Eurodollar Futures
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Futures Convexity Bias
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Moving On: Bootstrapping the Curve and Creating a Swap Model
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Stylized Example
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PV01s in Our Stylized Example
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Moving On: Pricing Up Nonstandard Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Mark-to-Markets
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Unwinds
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Assignments
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Forward Starting Swaps
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Caps and Floors
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Introduction to Caps and Floors
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Cap-Floor Parity
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Uses of Caps and Floors
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Embedded Cap Trade
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Valuing Caps and Floors
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Vol
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Valuing Caps and Floors in Our Stylized Model
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Variations of Standard Caps and Floors
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaptions
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Introduction to Swaptions
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Value of Swaptions at Expiration
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaption Parity
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Uses of Swaptions
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Valuing Swaptions Using Black’s Formula
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaption Vol
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Pricing Swaptions in Our Stylized Example
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Link Between Caps/Floors and Swaptions
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Questioning Black’s Model for Interest Rate Options
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Are Interest Rates Lognormal?
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaption Prices and Implied Vol
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Skew
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Normal Model
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Background
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Model
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Pricing Under the Normal Model
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Relationship Between Normal Implied Vol and Lognormal Implied Vol for At-the-Money Swaptions
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Explaining Skew: The Relationship Between Normal Implied Vol and Lognormal Implied Vol for Off-the-Money Swaptions
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Normal Model: The Industry Standard
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Other Models Used to Price Interest Rate Options
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Bermudan Swaptions
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Optimal Exercise of Bermudan Swaptions
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Valuation of Bermudan Swaptions
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaps with Embedded Options
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Underlying Concept
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Cancelable Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Some Uses of Cancelable Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Solving for the Fixed Rate in Cancelable Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Bermudan Cancelables
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Index Amortizing Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Explanation of the Trade
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Pricing Index Amortizing Swaps
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Relationship Between Index Amortizing Swaps and Cancelable Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Knockout Swaps
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Swaps with Convexity Adjustments
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > LIBOR in Arrears Swaps
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > CMS Swaps
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Structured Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Rise of the Structured Note Market
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Glossary of Structured Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Size of the Market
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > What Are Structured Notes?
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > In the Beginning ... Floating Rate Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Prime Floating Rate Note
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Capped Floaters
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Example: Pricing Up a Capped Floater
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Inverse Floaters
+- [x] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Example: Pricing Up a Leveraged Inverse Floater
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Orange County
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Range Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > LEANs
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Binary Accrual Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Regulatory Response
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Non-Inversion Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Pricing of Non-Inversion Notes
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Relative Value and Macro Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Carry and Roll-Down Analysis
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Curve Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Yield Curve Trades for Longer Holding Periods
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Forward Yield Curve Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Conditional Yield Curve Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Trading Swap Spreads
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Spread Trades for Longer Holding Periods
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Spread of Spread Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Conditional Spread Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Swaps Revisited
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Swap Math
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asset Swaps Today
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > More Recent Product Innovations
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Introduction to Correlation Trades: Caps Versus Payer Redux
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Forward Vol Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Preliminary
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Description of Forward Vol
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Heuristic Pricing of Forward Vol Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Will the Forward Price Be Higher or Lower Than the Spot Price?
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Are Forward Vol Trades Truly a Pure View on Vol?
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Bermudan Cancelable Swaps Revisited
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Curve Options
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Why Did Curve Options Come About?
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Implied Correlation
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Implied Volatility Versus Realized Volatility
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Supply and Demand of Curve Options
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > The Pricing of Curve Options
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > A Couple of Trades
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Delta Hedging Curve Options
+- [ ] [5. Howard Corb: Interest Rate Swaps and Other Derivatives (2012)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > So Why Did 30-Year Swap Spreads Go Negative — and What Does That Have to Do with Curve Options?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > The Swap Logic
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Applications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > The Instrument: Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Types of Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Engineering Interest-Rate Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Uses of Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Mechanics of Swapping New Issues
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Some Conventions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Additional Terminology
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 4: Introduction to Interest-Rate Swap Engineering > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Swap Engineering in FX Markets
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Currency Swaps Versus FX Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Mechanics of Swapping New Issues
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds) > Swap Engineering for Commodities
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > A Framework for Swaps
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > In-Arrears Swaps and Convexity
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Cross-Currency Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Differential (Quanto) Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Volatility Positions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Invariance of Volatility Payoffs
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Pure Volatility Positions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Variance Swaps
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Real-World Example of Variance Contract
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Volatility and Variance Swaps Before and After the GFC
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Which Volatility?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 15: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > A First Look at the Smile
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > The Mortgage Market
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > Swaptions
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > Pricing Swaptions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > Mortgage-Based Securities
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > Caps and Floors
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 17: Caps/Floors and Swaptions with an Application to Mortgages > Conclusions
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Credit Default Swaps
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > First Generation Exotics
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Variance and Volatility Swaps
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Second Generation Exotics (Multiple Currency Pairs)
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Correlation Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Interest Rate and Cross Currency Swaps
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Cross Currency Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Hanseatic Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Turbo Cross Currency Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Buffered Cross Currency Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Flip Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Corridor Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Currency Related Swap (CRS)
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Double-No-Touch Linked Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Range Reset Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Issuer Swap
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > FX Protection for EM Currencies with High Swap Points
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Currency Pairs
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > Day Count or Day Basis
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 8: Foreign Exchange Swaps or Cross-Currency Swaps or Cross-Currency Interest Rate Swaps or ...
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 8: Foreign Exchange Swaps or Cross-Currency Swaps or Cross-Currency Interest Rate Swaps or ... > Introduction
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 8: Foreign Exchange Swaps or Cross-Currency Swaps or Cross-Currency Interest Rate Swaps or ... > FX Spot-Forward Swaps
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 8: Foreign Exchange Swaps or Cross-Currency Swaps or Cross-Currency Interest Rate Swaps or ... > Cross-Currency Swaps or FX Cross-Currency Interest Rate Swaps or FX Bond Swaps
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 8: Foreign Exchange Swaps or Cross-Currency Swaps or Cross-Currency Interest Rate Swaps or ... > Summary
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > Swap spreads
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > Asset swap spreads
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 29: Swaps
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 29: Swaps > Introduction
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 29: Swaps > Plain vanilla swaps
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 29: Swaps > Trade compression and re-couponing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 29: Swaps > PART SIX: Standard Trading Strategies
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Basis trade
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > The Spot–Swap Relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Pricing swaps – counterparty credit risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > The Forward–Swap Relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Swap Market Risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Spot swap risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Forward-starting swap risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Trading the basis
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Implementing a basis trade
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > The Spot–Swap Relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Understanding swap spreads
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Negative swap spreads
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > The Forward–Swap Relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Swap spreads
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Asset swap spread
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Identifying Value in Sovereign Bonds Using Asset Swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Term structure of asset swap spreads
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Forward asset swap spreads
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Inflation-linked asset swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Interest rate swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Bonds and swaps
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Identifying slope trades using swaptions
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > s5s10s Butterfly trade using swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > The bond–credit default swap relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > The forward–swap relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Total return swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Basket default swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Expressing views on swap breakevens
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Total return inflation swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Real rate swap
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Trading forward breakevens using swaps
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Calculating forward swap rates
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps > A Classification of Bond Swaps
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps > The Workout Time
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps > Measuring the Value of a Swap
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps > The Substitution Swap
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps > The Intermarket Spread Swap
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 6: Evaluating Bond Portfolio Swaps > The Rate Anticipation Swap
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 7: Yield Pickup Swaps and Realized Losses
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 7: Yield Pickup Swaps and Realized Losses > The Pure Yield Pickup Swap
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 7: Yield Pickup Swaps and Realized Losses > Realized Losses from Swaps
+- [ ] [PART I: BOND YIELDS, BOND PRICES, AND BOND INVESTMENT] CHAPTER 7: Yield Pickup Swaps and Realized Losses > Summary and Investment Implications
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in interest rate swaps (301)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 10: Overview of the Following Chapters: Asset, Basis, Credit Default Swaps and their Mutual Influences (187)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 12: Asset Swaps (213)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 13: Credit Default Swaps (233)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 14: Intra-Currency Basis Swaps (265)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 15: Cross-Currency Basis Swaps (271)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 16: Combinations and Mutual Influences of Asset, Basis, and Credit Default Swaps (287)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 18: Other Factors Affecting Swap Spreads (321)
+- [ ] [Bondistan Tourist Guide] 13. Introducing Interest Rate Swaps
+- [ ] [Bondistan Tourist Guide] 14. Exploring Other Swap Types
+
+## 13. OPTIONS: Vanillas & Exotics
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows > Introduction
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows > Theoretical Dimension and Foreign Capital Developments
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows > Foreign Capital Flows and Economic Performance
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows > Foreign Capital Flows and Monetary Stability
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows > Foreign Capital Flow Management: Theories and Practices
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 13: Monetary Policy and Foreign Capital Flows > Concluding Remarks
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Capital-Asset Requirements
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Ensuring Transparency in the Money and Capital Markets
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > An Introduction to Monetary Capitalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Tribal Society
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Slavery
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Feudalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Revolts and the Transition to Capitalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Capitalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Monetary Capitalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Global Capitalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] A Brief Overview of Economic History and the Rise of Capitalism > Economic Systems of the Future?
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > Capital Controls
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Investment in a Capitalist Monetary Economy
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 7: Arbitrage Pricing with Term Structure Models > Option-Adjusted Spread
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > The Quality Option at Expiration
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Futures Price and the Quality Option
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > The Timing, End-of-Month, and Wild Card Options
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options > Embedded Bond Call Options
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options > EURIBOR Futures Options
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options > Bond Futures Options
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 16: Fixed Income Options > Caps and Floors
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Introduction
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > ALM in Banks
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > How the Recent Rise in Interest Rates Creates Interest Rate Risk
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Economic Value vs. Earnings Perspective
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Purpose of ALM and IRRBB
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Stakeholders of ALM
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Banking Book vs. Trading Book
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Instruments Used in ALM
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Risk vs. Return
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Interest Rate Risk
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Changes in Interest Rates
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Types of Interest Rate Risk
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Duration
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > ALM Techniques
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Economic Value Measures
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Economic Value of Equity
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Economic Value Calculation
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Repricing Gap Analysis
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Duration Gap Analysis
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Earnings Measures
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > NII Forecast
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > NII Sensitivity
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Earning Gap Analysis
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > NII Simulation
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Economic Value vs. Earnings Measures: A Critique
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Change in Market Value Outside of the NII Horizon
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Funds Transfer Pricing (FTP)
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Net Interest Margin
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Cost of Funds
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Transfer Price Curve
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Structural Contribution
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Interest Rate vs. Liquidity Risk
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Multi-currency FTP Curve
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Steering the Bank’s Customer Business
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Regulatory Requirements
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Relation to Funding Value Adjustment
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Further Developments
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Conclusion
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Non-maturity Products
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Examples of Non-maturity Products
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Liquidity and Interest Rate Profile
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Embedded Options
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Replicating Model
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Intuition
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Rolling Portfolio
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Replication Over Time
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Calibration
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Volume Changes
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Dynamic Replication
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Further Developments
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Criticism
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Bank ALM in Practice
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Bank-Specific ALM
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Composition of Banks’ Balance Sheets Over Time
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Regional Differences
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Balance Sheets for Different Business Models
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > ALM as a Profit or a Cost Center
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Implications for ALM
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > NII Planning
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Planning Horizons
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Scenario Planning
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Volume Planning
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Margin Planning
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Comprehensive ALM Plan
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Behavioral Economics
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Behavioral Assumptions About Bank Customers
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Behavioral Assumptions About Banks
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Holistic ALM
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Negative Interest Rates
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > % Interest Rate Floor
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Economic Implications
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Regulatory Implications
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Challenges
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Rapid Rise in Interest Rates
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Case Study: The Collapse of Silicon Valley Bank
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > SVB Introduction
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Early Warning Signs
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > An ALM View on SVB’s Balance Sheet
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > At a Glance: GAAP vs. Non-GAAP
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > NII Perspective
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Duration Gap
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Behavioral Assumptions
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Lessons Learned
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Update on Regulatory and Supervisory Changes to IRRBB
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > A Brief History of IRRBB Regulation
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Basel Committee on Banking Supervision (BCBS)
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > European Parliament and Council
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > European Banking Authority (EBA)
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > IRRBB Measures
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > EBA Standardized Approach (SA)
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > EBA Simplified Standardized Approach(S-SA)
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Supervisory Outlier Tests
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Supervisory Outlier Test on EVE
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Supervisory Outlier Test on NII
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > The Simultaneous Compliance Problem
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > IRRBB Assessment
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Breakdown of IRRBB Sensitivity Estimates
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > IRRBB Repricing Cash Flows
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Behavioral Modeling Parameters
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Qualitative Information
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > The Future of ALM
+- [x] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > FinTech
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Digital Assets
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Big Data and Advanced Analytics
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Climate Risk Management
+- [ ] [1. Tata: Bank Asset-Liability Management (2025)] Chapter 16: Fixed Income Options > Behavioral Modeling
+- [ ] [2a. Choudhry: Analysing and Interpreting the Yield Curve (2nd Ed)] Chapter 16: Fixed Income Options > PART 1: INTRODUCTION TO THE YIELD CURVE
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 3: Bank regulatory capital and the “Basel Rules”
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 3: Bank regulatory capital and the “Basel Rules” > PART II: BANK ASSET AND LIABILITY MANAGEMENT
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 16: Bank strategy II: capital and funding management
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 8: Bonds with Embedded Options and Option-Adjusted Spread Analysis
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 8: Bonds with Embedded Options and Option-Adjusted Spread Analysis > Appendix 8.1: Calculating Interest Rate Paths Using Microsoft Excel
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 16: Options I
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 16: Options I > Appendix 16.1: Summary of Basic Statistical Concepts
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 16: Options I > Appendix 16.2: Lognormal Distribution of Returns
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 16: Options I > Appendix 16.3: Black-Scholes Model in Microsoft Excel
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 17: Options II
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 17: Options II > PART FOUR: Bond Trading and Hedging
+- [x] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Bank Capital and Liquidity
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART IV BALANCE-SHEET AND CAPITAL MANAGEMENT
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Capital Management
+- [ ] [3. Elkenbracht & Huizing: The Handbook of ALM in Banking (2nd Ed)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Reverse Stress Testing: Linking Risks, Earnings, Capital and Liquidity
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Early Exercise and American Options
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Multi-asset Options
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART TWO EXOTIC CONTRACTS AND PATH DEPENDENCY
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > An Introduction to Exotic and Path-dependent Derivatives
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Barrier Options
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Asian Options
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Lookback Options
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Miscellaneous Exotics
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Volatility Case Study: The Cliquet Option
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Speculating with Options
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > More About American Options and Related Matters
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Real Options
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > What Is an Option?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > Options: Definition and Notation
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > Options as Volatility Instruments
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > Tools for Options
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > The Greeks and Their Uses
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > Real-Life Complications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 9: Mechanics of Options > Conclusion: What Is an Option?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Option Strategies
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Volatility-Based Strategies
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Exotics
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Quoting Conventions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Real-World Complications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 11: Options Engineering with Applications > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Application to Option Payoffs
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > A Characterization of Option Prices as Gamma Gains
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Exotic Options and the Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > Equity as an Option on the Assets of the Firm
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > Capital Structure Arbitrage
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 20: Essentials of Structured Product Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 20: Essentials of Structured Product Engineering > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 20: Essentials of Structured Product Engineering > Purposes of Structured Products
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 20: Essentials of Structured Product Engineering > Structured Fixed-Income Products
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 20: Essentials of Structured Product Engineering > Some Prototypes
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 20: Essentials of Structured Product Engineering > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Financial Engineering of Securitization
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > ABSs Versus CDOs
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > A Setup for Credit Indices
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Index Arbitrage
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Tranches: Standard and Bespoke
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Tranche Modeling and Pricing
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > The Roll and the Implications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Regulation, Credit Risk Management, and Tranche Pricing
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > New Index Markets
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Structured Credit Products
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 21: Securitization, ABSs, CDOs, and Credit Structured Products > Conclusions
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Literature Review
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > A Journey through the History of Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Currency Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Technical Issues for Vanilla Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Valuation in the Black-Scholes Model
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > A Note on the Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Vanilla Greeks in the Black-Scholes Model
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Reoccurring Identities
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Homogeneity based Relationships
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Quotation Conventions
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Strike in Terms of Delta
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility in Terms of Delta
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility and Delta for a Given Strike
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Greeks in Terms of Deltas
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Settlement
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Historic Volatility
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Historic Correlation
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility Smile
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > At-The-Money Volatility Interpolation
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility Smile Conventions
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > At-The-Money Definition
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Interpolation of the Volatility on Fixed Maturity Pillars
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Interpolation of the Volatility Spread between Maturity Pillars
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility Sources
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Volatility Cones
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Stochastic Volatility
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Basic Strategies Containing Vanilla Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Call and Put Spread
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Risk Reversal
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Straddle
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Strangle
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Butterfly
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Condor
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Seagull
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Calendar Spread
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Classification
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > European Digitals and the Windmill Effect
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Barrier Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Touch Contracts
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Compound and Installment
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Asian Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Lookback Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Forward Start, Ratchet, and Cliquet Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Power Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Quanto Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Second Generation Exotics (Single Currency Pair)
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Multiplicity Power Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Corridors/Range Accruals
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Faders
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Exotic Barrier Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Pay-Later Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Step Up and Step Down Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Options and Forwards on the Harmonic Average
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Forward Volatility Agreements (FVAs)
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Spread and Exchange Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Baskets
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Outside Barrier Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Best-of and Worst-of Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 1: Foreign Exchange Derivatives > Other Multi-Currency Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Forward Transactions
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Outright Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Participating Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Participating Collar
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Fade-In Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Knock-Out Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Shark Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Fader Shark Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Butterfly Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Range Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Range Accrual Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Accumulative Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Boomerang Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Amortizing Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Auto-Renewal Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Double Shark Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Forward Start Chooser Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > FreeStyle Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Boosted Spot/Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Flexi Forward/Time Option
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Strike Leverage Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Escalator Ratio Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Intrinsic Value Ratio Knock-Out Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Tender Linked Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Target Forwards
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Plain Target Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Leveraged Target Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Target Profit Forward
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Pivot Target Forward (PTF)
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > KIKO Tarn
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Target Forwards in the Media
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Valuation and Hedging of Target Forwards
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Series of Strategies
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Shark Forward Series
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Collar Extra Series
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Deposits, Loans, Bonds, and Certificates
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Dual Currency Deposit/Loan
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Performance-Linked Deposits
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Tunnel Deposit/Loan
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Corridor Deposit/Loan
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Turbo Deposit/Loan
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Tower Deposit/Loan
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > FX-linked Bonds
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > FX-Express Certificate
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Participation Notes
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Gold Participation Note
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Basket-Linked Note
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Moving Strike Turbo Spot Unlimited
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Hybrid FX Products
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Long-Term FX Options
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Power Reverse Dual Currency Bonds
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Hybrid Forward Contracts
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Dual Asset Range Accrual Note
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Treasury Case Studies
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Exit Strategies for a Sick Floan
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Trade Ideas for FX Risk Management in View of Brexit
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 2: Structured Products > Inverse DCD
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 3: Hedge Accounting
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 3: Hedge Accounting > Hedge Accounting under IAS 39
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 3: Hedge Accounting > Hedge Accounting under IFRS 9
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Vanna-Volga Pricing
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Bid-Ask Spreads
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Systems and Software
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Trading and Sales
+- [ ] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Things to Remember
+- [x] [7. Wystup: FX Options and Structured Products (2nd Ed, 2017)] CHAPTER 4: Foreign Exchange Markets > Glossary
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Options on FX Futures
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Option Basics
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Equity Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Put-Call Parity with Equity Options
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > In-the-Money, At-the-Money, and Out-of-the-Money
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Theoretical Option Value and Option Risk Measures (“The Greeks”)
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Foreign Exchange Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Put-Call Parity in Foreign Exchange
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Perspective Matters
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > FX Option Premium
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Volatility
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Uses and Strategies
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 9: Foreign Exchange Options > Appendix: Theoretical Option Valuation (Binomial, Black-Scholes/Garman–Kohlhagen)
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products > What Is an Exotic Option?
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products > Nonstandard Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products > Digital or Binary Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products > Barrier Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products > Other Exotic Options
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 10: Exotic Options and Structured Products > FX-Linked Notes
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Digital token monies and cryptocurrencies
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > The quality option
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Vanilla options
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Exotic options
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Pricing Options–Relationship With The Underlying Market
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Option Risk Management
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Options and Trading Volatility
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Option-adjusted spread
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Options on single-period short-term interest rates
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading the Yield Curve > Structured Products – Range Accruals
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Using Options to Express Views on Breakeven and Real Yields
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · FX Derivatives (255) > Currency options (256)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · FX Derivatives (255) > Hedging currency option positions (268)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in exchange traded currency options (311)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in over the counter options (312)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Capital adequacy (313)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 19: Options (335)
+- [ ] [Bondistan Tourist Guide] 6. Options on Futures
+
+## 14. FX: Spot, Forwards & Arbitrage
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Foreign Exchange Rates and the Foreign Exchange Market
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Foreign Exchange Intervention by the Central Bank
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 2: The Tools of Monetary Policy; and Step 3: Monetary Policy Instruments > Moral Suasion and Forward Guidance
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Forward Contracts and Forward Pricing
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Forward Bond Yield
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > The Interest Rate Sensitivity of a Forward Bond
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives > EURIBOR Forward Rate Agreements
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives > The Futures-Forward Difference
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 3: Bond Pricing, Spot, and Forward Rates
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 3: Bond Pricing, Spot, and Forward Rates > Appendix 3.1: The Integral
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 3: Bond Pricing, Spot, and Forward Rates > Appendix 3.2: Derivation of the Bond Price Equation in Continuous Time
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 11: Forwards and Futures Valuation
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 20: Approaches to Trading and Hedging > Appendix 20.2: Forward-Rate Structure in Conventional Yield-Curve Environment
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > What Is a Synthetic?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Engineering Simple Interest Rate Derivatives
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > LIBOR and Other Benchmarks
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Fixed Income Market Conventions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > A Contractual Equation
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Forward Rate Agreements
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Futures: Eurocurrency Contracts
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Real-World Complications
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Conventions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > A Digression: Strips
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 3: Cash Flow Engineering, Interest Rate Forwards and Futures > Conclusions
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Currency Forwards
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Synthetics and Pricing
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > A Contractual Equation
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Applications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Conventions for FX Forward and Futures
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 6: Cash Flow Engineering in Foreign Exchange Markets > Conclusions
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money > Introduction
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money > Trading Money
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money > The Roles Money Plays
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money > The Major Currencies
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money > Some Interesting Questions
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 1: Trading Money > Appendix: Countries, Currencies, and ISO Codes
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 2: Markets, Prices, and Marketmaking
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 2: Markets, Prices, and Marketmaking > What Is a “Market”?
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 2: Markets, Prices, and Marketmaking > What Is a “Price”?
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 2: Markets, Prices, and Marketmaking > Buyers and Sellers
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 2: Markets, Prices, and Marketmaking > Marketmaking
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 2: Markets, Prices, and Marketmaking > Summary
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > What Are “Interest Rates”?
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > Inflation
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > Compounding
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > Discounting
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > Types of Interest Rates
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 3: Interest Rates > Interest Rates in the Real World
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 4: Brief History of Foreign Exchange
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 4: Brief History of Foreign Exchange > Historical Background
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 4: Brief History of Foreign Exchange > The FX Markets Today
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 4: Brief History of Foreign Exchange > The Regulatory Environment and Central Bank Intervention
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 4: Brief History of Foreign Exchange > Summary
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > The Spot Market
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Spot FX Quoting Conventions
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Economic Interpretation
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Purchasing Power Parity
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Cross Rates and Triangular Arbitrage in the Spot Market
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > The Bid–Ask Spread in Foreign Exchange
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Timing
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Settlement
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > Market Jargon
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 5: The Foreign Exchange Spot Market > “The Best Arbitrage Around!”
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > Introduction to Forwards and Forward Pricing
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > Foreign Exchange Forwards and Forward Pricing
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > Interest Rate Parity (Covered Interest Arbitrage)
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > FX Spot–Forward Arbitrage
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > FX Forward Price Quotes and Forward Points
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > Timing
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > Off-Market Forwards
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 6: Foreign Exchange Forwards > Foreign Exchange Forwards in the Real World
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Background
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Futures versus Forwards
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Foreign Exchange Futures Contract Specifications
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Margin
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Why Use Futures?
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 7: Foreign Exchange Futures > Summary
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade > Money versus Currency
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade > Types of FX Exposures
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade > Fixed versus Floating Exchange Rates
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade > Implications of Monetary Policy
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade > Trade Deficits: A Curse or a Blessing
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 11: The Economics of Exchange Rates and International Trade > Politics and Economics
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > The End of Bretton Woods
+- [x] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > Bankhaus Herstatt
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 12: Currency Crises > Summary
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis > Introduction
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis > What Is Technical Analysis?
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis > Methods of Technical Analysis
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis > Technical Analysis in Foreign Exchange
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis > Technical Analysis Today
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 13: Technical Analysis > Summary
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 14: Where Do We Go From Here?
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 15: Conclusion
+- [ ] [8. Weithers: Foreign Exchange: A Practical Guide to the FX Markets (2006)] CHAPTER 15: Conclusion > (Batch 2)
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 7: Operational Frameworks > The impact of FX operations
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > QE, money multipliers and FX
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Spot and Forward Rates
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Spot and Forward Rates > Forward rates
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Spot and Forward Rates > No-arbitrage calculations
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Spot and Forward Rates > Official rates versus term rates
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Spot and Forward Rates > The turn premium
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Spot and Forward Rates > Matching policy expectations to market rates
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Forwards
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Spot Pricing
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > The Spot–Forward Relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Put–call parity
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Spot Market Risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Forward Risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > The Spot–Forward Relationship
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Forward rate analysis
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Forward prices and carry
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Forward Breakevens
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Trading forward breakevens using bonds
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Forward real-yield trades
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Introduction (158)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Spot date (159)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Target (160)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Currencies traded (162)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Market makers/market users (163)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Spot rate (164)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Spot rate spread (164)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Spot rate calculations (174)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Cross currency calculations (177)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Interbank dealing methods (184)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Rates information (188)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 5 · Spot Foreign Exchange (157) > Position keeping (189)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Introduction (198)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Forward FX transactions (200)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Premium/discount (205)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Forward rate quotation terminology (207)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Forward exchange price calculations (209)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Outright forward cross currency calculations (211)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Corporate FX business (224)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Interbank forward exchange operations (228)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Other forward exchange calculations (232)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 6 · Forward Foreign Exchange (197) > Interest arbitrage (247)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · FX Derivatives (255)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · FX Derivatives (255) > Introduction (256)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 4 (part) · FX Derivatives (255) > Terminology and definitions (264)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in spot foreign exchange (303)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in forward foreign exchange (308)
+
+## 15. CREDIT: Risk & CDS
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Increased Credit Risk, Adverse Selection, and Funding Market Breakdown
+- [ ] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > PART FOUR CREDIT RISK
+- [x] [4. Wilmott: Paul Wilmott On Quantitative Finance (2nd Ed, 2006)] Chapter 21: Derivatives Risk Management — Convexity, Collateral, and Correlation > Credit Risk
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Terminology and Definitions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Real-World Complications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > CDS Analytics
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Default Probability Arithmetic
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Pricing Single-Name CDS
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Comparing CDS to TRS and EDS
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Sovereign CDS
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 18: Credit Markets: CDS Engineering > Conclusions
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Default, insolvency, and bankruptcy
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Seniority and subordination
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Time subordination and acceleration
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Contractual subordination
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Statutory subordination
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Joint liabilities and credit support
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Sovereign debt
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > The default process
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Collective action clauses
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Debt exchanges and consent solicitations
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Managed defaults
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Wind-downs
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Credit ratings
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Rating migration
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 24: Credit Risk > Alternative rating approaches
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 25: Covered Bonds > Covered bond credit risk analysis
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > CDS spreads
+- [ ] [Bondistan Tourist Guide] 8. Credit – Introduction to Corporate Bonds
+- [ ] [Bondistan Tourist Guide] 9. Credit Risk
+
+## 16. ALM: IRRBB, NII & FTP
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework > Implementation in Several Jurisdictions
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 7: Monetary Policy Operational Framework > Application in Several Countries
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Several Liquidity Shocks, Averaging, and the Martingale Property of Overnight Rates
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Several Liquidity Shocks, Averaging, and the Martingale Property of Overnight Rates > Three Shocks and Three Trading Sessions on One Day
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > The Level of the Interest Rate: Loanable Funds and Liquidity Preference
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > The Loanable Funds Approach to Understanding the Interest Rate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > The Supply of Loanable Funds Function or Lending
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > The Demand for Loanable Funds Function or Borrowing
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > Bringing Supply and Demand Together: Examples
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > Policy Implications: Government versus the Central Bank
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > The Nominal Interest Rate and the Real Interest Rate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > A Note on Negative Interest Rates
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Level of Interest Rates > Interest Rates and Monetary Policy
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply > Central Banks, Base Money, the Money Supply Process and Developments since 2007
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > What is the Equilibrium Output Level in the Classical Model?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > Classical Price Level Determination
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > What Determines the Level of Employment?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > Introducing the Price Level: The Keynes and Pigou Effects
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 7: Managing interest-rate risk in the banking book (IRRBB)
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 14: Bank funds transfer pricing
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 14: Bank funds transfer pricing > PART IV: BANK STRATEGY AND GOVERNANCE
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 20: Stress testing, ICAAP, ILAAP and reverse stress testing
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 24: Everything changes, and nothing changes: excerpts from a timeless work
+- [ ] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 24: Everything changes, and nothing changes: excerpts from a timeless work > PART VI: GUIDE TO THE COMPANION WEBSITE
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Reverse bootstrapping
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Breakeven inflation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > PART SEVEN: Risk Management
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Mean reversion
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Expressing Views on Breakeven Inflation
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 10: The Future Value of a Cash Flow > The Future Value of a Level Cash Flow
+- [x] [PART II: THE MATHEMATICS OF BOND YIELDS] CHAPTER 11: The Present Value of a Cash Flow > The Present Value of a Level Cash Flow
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Inflation, Relative Prices, and Expectations (53) > The Price Level, Inflation, and Deflation (55)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 2: Mean Reversion (17)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 4: Multivariate Mean Reversion (111)
+
+## 17. ALM: Liquidity, Capital & Basel
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Liquidity Deficit of the Banking System vis-à-vis the Central Bank
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Introduction
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Increase of Margin
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] The Mechanics of Liquidity Crises > Asset Liquidity in a Market Maker Model
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > Liquidity or Marketability Effect
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand > The Role of Saving and Liquidity Preference
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Liquidity Management
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 10: ALM sundries: asset encumbrance, hedge accounting, IFRS 9 and EIR > PART III: BANK LIQUIDITY RISK MANAGEMENT
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 11: Principles of bank liquidity management
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 12: Liquidity risk metrics
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 7: Operational Frameworks > Liquidity provision: Rediscounting, outright purchases and Lombard lending
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Market liquidity and central bank asset purchases
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity > Concepts
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity > Liquidity measurement
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity > Taxonomy of liquidity measures
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity > Examples
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity > Liquidity premium
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 18: Asset Markets and Liquidity > Liquidity and volatility
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > The importance of liquidity
+
+## 18. QUANT: Stochastic Calculus & Models
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 4: Interest-Rate Modelling > Appendix 4.1: Geometric Brownian Motion
+
+## 19. TRADING: Relative Value & Strategies
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > Government Coupon Bonds
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > Discount Factors
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > The Law of One Price
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > Arbitrage and the Law of One Price
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > Application: Idiosyncratic Pricing
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > Accrued Interest
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 1: Prices, Discount Factors, and Arbitrage > Day-Count Conventions
+- [x] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 3: Returns, Yields, Spreads, and P&L Attribution > Yield and Relative Value
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 12: Pricing Tools in Financial Engineering > Arbitrage-Free Dynamics
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Carry
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 21: Carry and Roll-Down
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Carry on inflation-indexed bonds
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > The cash-and-carry arbitrage
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Bond relative value
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Relative value strategies
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > Relative Value
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Pricing Relationships > The Relative Value Triangle
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Carry and roll down
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > What Is Relative Value?
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Applying the Relative Value Triangle to Credit
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Volatility
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Steepening/flattening trades
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Butterfly trades
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Expressing a View on a Single Reference Entity
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Credit-linked notes
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Expressing a view on a single reference entity – an example
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Credit > Expressing a View on a Basket of Reference Entities
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Payers and Receivers of Inflation
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Trading the slope of inflation curves
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Seasonality
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Identifying Value in Inflation-Linked Bonds
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Fitted curves - cheap/rich analysis
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Butterfly trades
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > An Overview of Inflation-Linked Trading Strategies
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Inflation market risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Summary of popular inflation trades
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Cash strategies
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Derivative strategies
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Expressing Views on Real Yields
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Background
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Relative Value in Inflation > Assessing the risk premium
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] Preface to the Second Edition (vii)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 1: Relative Value (1)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] PART I: Statistical Models
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] PART II: Financial Models
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 7: Bond Futures Contracts (149)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 8: Fitted Bond Curves (167)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 9: An Analytic Process for Government Bond Markets (183)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 11: Reference Rates (193)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] CHAPTER 20: Relative Value in a Broader Perspective (385)
+- [ ] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] Bibliography (393)
+- [x] [3. Huggins & Schaller: Fixed Income Relative Value Analysis] Index (395)
+- [ ] [Bondistan Tourist Guide] 5. Futures (STIRs, Notes and Bonds)
+- [ ] [Bondistan Tourist Guide] 11. Treasury Inflation Protected Securities (TIPS)
+
+## 20. MISC: General & Uncategorized
+- [ ] []  > _Last Updated: 2026-04-26 — added 2c. Choudhry Fixed Income Markets_
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)]  > Part I: General Review
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 1: Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 1: Introduction > The Central Bank and Economy
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 1: Introduction > Central Bank, Academic Thinking, and Political Economy
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 1: Introduction > Objectives of the Book
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 1: Introduction > Systematics of the Writing
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 1: Introduction > Utility of the Book
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform > The Evolving Role of the Central Bank
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform > Central Bank Policy Reform
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform > Central Bank Institutional Reform
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform > Concluding Remarks
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 2: Central Bank Evolution and Reform > Part II: Monetary Policy and Economy
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 3: The Role of Money and Monetary Policy in the Economy
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 3: The Role of Money and Monetary Policy in the Economy > Introduction
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 3: The Role of Money and Monetary Policy in the Economy > Theoretical Review
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 3: The Role of Money and Monetary Policy in the Economy > Empirical Evidence and Related Issues
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 3: The Role of Money and Monetary Policy in the Economy > Market Imperfections and the New Paradigm of Monetary Economics: Credit Matters
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 3: The Role of Money and Monetary Policy in the Economy > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 4: Exchange Rates and the Economy
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 4: Exchange Rates and the Economy > Introduction
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 4: Exchange Rates and the Economy > Exchange Rate Determination Theory
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 4: Exchange Rates and the Economy > Empirical Findings for Exchange Rates and the Economy
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 4: Exchange Rates and the Economy > Exchange Rate System and Policy
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 4: Exchange Rates and the Economy > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework > Introduction
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework > Conceptual Dimension and Theoretical Models
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework > Empirical Studies and Related Issues
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework > The Monetary Policy Regime in Indonesia (1968–1998)
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 6: Monetary Policy Strategic Framework > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 7: Monetary Policy Operational Framework
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 7: Monetary Policy Operational Framework > Introduction
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 7: Monetary Policy Operational Framework > Conceptual Dimension and Theoretical Models
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 7: Monetary Policy Operational Framework > Concluding Remarks
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix > Introduction
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix > Conceptual Dimension of the Central Bank Policy Mix
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix > DSGE Modeling with Macrofinancial Linkages
+- [x] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix > Bank Indonesia Policy Mix
+- [ ] [1. Central Bank Policy: Theory and Practice (Perry Warjiyo & Solikin M. Juhro)] Chapter 15: Central Bank Policy Mix > Concluding Remarks
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Chapter 15: Central Bank Policy Mix > Part I: Monetary Policy Operations in Normal Times
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Basic Terminology and Relationship to Monetary Macroeconomics
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Basic Terminology and Relationship to Monetary Macroeconomics > Key Concepts and Terminology
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Basic Terminology and Relationship to Monetary Macroeconomics > Dichotomy Between Monetary Macroeconomics and Monetary Policy Implementation in Normal Times
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Introduction to the Financial Accounts Model
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Deposit Shifts between Individual Banks and the Interbank Market
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > Credit Money Created by Banks
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Representing Monetary Policy Operations in Financial Accounts > The ‘Real’ Euro Area Financial Accounts
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Operational Target of Monetary Policy
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Operational Target of Monetary Policy > Concept of an Operational Target of Monetary Policy
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Operational Target of Monetary Policy > Short-term Rate as Operational Target of Monetary Policy
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Operational Target of Monetary Policy > Quantity-oriented Operational Targets of Monetary Policy in the Twentieth Century—A Brief History
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Three Basic Techniques to Control Short-term Interest Rates
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times > Hundred Ways to Skin a Cat
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times > Potential Objectives of the Design and Use of the Monetary Policy Implementation Framework
+- [x] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times > Statements of Central Banks on their Objectives and Principles
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times > Four Examples of Frameworks
+- [ ] [2. Monetary Policy Operations and the Financial System (Ulrich Bindseil)] Optimal Monetary Policy Operations Frameworks in Normal Times > Conclusions
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > A Country's Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > The Real and Financial Sectors of the Economy
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > Measuring Economic Performance
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > Data Sources and Components of a Time Series
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > The Financial and Monetary Regime and Economic Performance
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > Periods of Major Economic and Financial Distress and the Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > The United States
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial and Monetary Regime > Germany and Japan
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > Introduction
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > The Concept and Measurement of Money
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > The Value of Money
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > The Upward Bias in the CPI and the Hoskin "1.1% Bias"
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > The Evolution of Monetary Standards
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > The Relationship between Money and Economic Activity
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Basic Concepts Regarding Money > Part II: The Financial System Component of the Financial and Monetary Regime
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds > The Financial System from the Perspective of the Country's Flow of Funds
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds > Sector Budgets, Income and Balance Sheets and the Fundamental Flow of Funds Equation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds > The Financial System in Terms of Surplus, Deficit and Balanced Sectors
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds > Two Channels of Finance: Direct and Indirect Finance
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Financial System and the Country's Flow of Funds > Bringing It Together: A Flow of Funds Matrix of the Economy
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System > Interest Rates Connect the Present to the Future, and Vice Versa
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System > Interest Rates in Indirect and Direct Finance
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System > Government Interest Rate Regulation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System > A Short History of Interest Rate Regulation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Interest Rates in the Financial System > Basic Technical Aspects of Interest Rates
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > Introduction
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > Default Risk
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Structure of Interest Rates > Tax Treatment
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > U.S. Statement of International Transactions
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > The Exchange Rate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Exchange Rate Regimes
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Fixed Exchange Rates: Basics, History and Demise
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > The Flexible Exchange Rate System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Persistent U.S. Current Account Deficits and the Flexible Exchange Rate System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] International Dimensions of the Financial System > Part III: The Role of Government in the Financial and Monetary Regime
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > The Beginning of Government Involvement: Minting Coin and Gresham's Law
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > The Inherent Problem of a Commodity-Based Monetary System: Money Not Responsive to Needs of Trade
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > Two Inherent Problems of an Inverted Pyramid Monetary System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > Institutionalization of Government's Role in the U.S. Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > Extended Rationales for Government Involvement
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > Government Involvement Has a Downside: Government Failure Is as Important as Market Failure
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Basic Roles of Government in the Financial and Monetary Regime > The Influence of Economic Ideas, History and Politics on Government Involvement in the Nation's Financial and Monetary Regime
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Asymmetric Information, Adverse Selection and Lemons
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Government Regulation and Supervision of Indirect Finance
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Government Regulation and Supervision of Depository Financial Institutions
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Deposit Insurance
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Supervision and Oversight: CAMELS Rating System
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Supervisory Stress Testing
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Regulation and Supervision of the Financial System > Government Regulation and Supervision of Nondepository Financial Institutions
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > A Taxonomy of a Changing Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > Major Turning Points in the Transition of the U.S. Financial and Monetary Regime: A Brief History from 1776 to the Present
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > to 1863
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > to 1913
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > to 1929
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > to 1965
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > to 1979
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > and Beyond
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] A Short History of the U.S. Financial and Monetary Regime in Transition > Part IV: Five Steps to Understanding Central Banks and Central Bank Policy
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Introduction
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > The Institutional Design of the Central Bank
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Why a Government Central Bank?
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Ownership of the Central Bank
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Central Banks as Financial and Regulatory Authorities
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Two Important Institutional Redesigns of Central Banks
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] The Five Steps and Step 1: The Institutional Design of the Central Bank > Where's the Power?
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply > Introduction
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply > The Money Supply Process in Two Parts
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply > Part 1: A Simple Illustration of the Inverted Pyramid
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply > Part 2: The Money Supply Process in More Detail
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Central Banks, Base Money and the Money Supply > An Illustration of the Money Supply Process
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 2: The Tools of Monetary Policy; and Step 3: Monetary Policy Instruments
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 2: The Tools of Monetary Policy; and Step 3: Monetary Policy Instruments > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 2: The Tools of Monetary Policy; and Step 3: Monetary Policy Instruments > The Tools of Monetary Policy and the Decline of Selective Tools
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 2: The Tools of Monetary Policy; and Step 3: Monetary Policy Instruments > General Tools of Monetary Policy
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 2: The Tools of Monetary Policy; and Step 3: Monetary Policy Instruments > The Monetary Policy Instruments
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > Macroeconomic Models of the Economy: Beginnings
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > Why Models Are Important and the Historical Evolution of Models
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > After Keynes: Evolution of the Central Bank Model of the Economy
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > The Rise of the Phillips Curve
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > The Fall of the Phillips Curve and Rise of the "New" Phillips Curve
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > Policy Implications and Continued Debate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 4: The Central Bank Model of the Economy > The Aggregate Demand and Supply Model
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Evolution of the Final Policy Targets
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Neoclassical Perspective
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > A Steady and Low Rate of Inflation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Caution in Responding to Demand and Supply Shocks in the Short Run
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Neo-Keynesian Perspective: Despite Agreement on Some Issues, Differences Still Exist
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Step 5: Final Policy Targets > Final Policy Targets in the Context of Other Central Bank Objectives
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > The FOMC and Monetary Policy
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > The Taylor Rule: Introduction to the Discretion versus Rules Debate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > The Rules versus Discretion Debate
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Arguments of the Advocates of Rules and Discretion
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > The Lucas Critique
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Time Inconsistency
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Solutions to the Lucas Critique and Time Inconsistency
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Central Bank Response to the Lucas Critique and Time Inconsistency
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Monetary Policy Tactics, Strategy and Rules versus Discretion > Part V: Performance of the U.S. Financial and Monetary Regime
+- [x] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Introduction
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Prelude to the Great Depression
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > The Great Depression
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Financial Liberalization and the Great Moderation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > The Great Moderation
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > End of the Great Moderation and Concern about Financial Liberalization
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > The Great Recession: Two Views
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Asset Bubbles a la Minsky
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > The Central Role of the Real Estate Bubble in the Great Recession
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Unprecedented Easy Monetary Policy
+- [ ] [3. The Financial System, Financial Regulation and Central Bank Policy (Thomas F. Cargill)] Five Important Periods in the U.S. Financial and Monetary Regime > Social Contract to Support Homeownership Greatly Expanded
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Five Important Periods in the U.S. Financial and Monetary Regime > PART A: INTRODUCTION AND MEASUREMENT
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > What is Economics? Two Views
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > Orthodox, neoclassical approach
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > Heterodox approach – Keynesian/Institutionalist/Marxist
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > What do economists do?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > Implications for research and policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > Economics and the Public Purpose
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > What is Macroeconomics?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Introduction > The macro model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Thinking in a Macroeconomic Way
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > What Should a Macroeconomic Theory be Able to Explain?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Real GDP growth
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Unemployment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Real wages and productivity
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Private sector indebtedness
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Central bank balance sheets
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > Why is it so Difficult to Come to an Agreement on Policy?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > The Minimum Wage Debate
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] How to Think and Do Macroeconomics > The Structure of Scientific Revolutions
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 2 Appendix: The Buckaroos model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Measuring National Output
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Components of GDP
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Consumption (C)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Investment (I)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Government spending (G)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Exports (X) minus imports (M) or net exports (NX)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Equivalence of Three Measures of GDP
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Expenditure approach
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Production approach
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Income approach
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > GDP versus GNP
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Measuring Gross and Net National Income
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > GDP Growth and the Price Deflator
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Measuring Chain Weighted Real GDP
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Measuring CPI Inflation
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The System of National Income and Product Accounts > Measuring National Inequality
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Introduction
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Measurement
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Labour force framework
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Impact of the business cycle on the labour force participation rate
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Categories of Unemployment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Broader Measures of Labour Underutilisation
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Flow Measures of Unemployment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Labour Market Concepts and Measurement > Hysteresis
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds > The Sectoral Balances View of the National Accounts
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds > Revisiting Stocks and Flows
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds > Integrating NIPA, Stocks, Flows and the Flow of Funds Accounts
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds > Balance Sheets
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Sectoral Accounting and the Flow of Funds > The Flow of Funds Matrix
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Overview
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Basic Rules of Algebra
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > A Simple Macroeconomic Model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Graphical Depiction of a Macroeconomic Model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Power Series Algebra and the Expenditure Multiplier
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Index Numbers
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Annual Average Growth Rates
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Methods, Tools and Techniques > Textbook Policy Regarding Formalism
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > Two Visions of the Economy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > Cognitive Frames and Economic Commentary
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > Dominant Metaphors in Economic Commentary
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > Framing a Macroeconomics Narrative
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Use of Framing and Language in Macroeconomics > PART B: CURRENCY, MONEY AND BANKING
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > Some Definitions
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > Financial Assets
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > What Do Banks Do?
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > The neoclassical view: the money multiplier
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > Loans create deposits
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > Endogenous money
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Money and Banking > PART C: NATIONAL INCOME, OUTPUT AND EMPLOYMENT DETERMINATION
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > The Classical Theory of Employment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > Unemployment in the Classical Labour Market
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > The Loanable Funds Market, Classical Interest Rate Determination
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > Summary of the Classical System
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Classical System > Pre-Keynesian Criticisms of the Classical Denial of Involuntary Unemployment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Mr. Keynes and the ‘Classics’
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Mr. Keynes and the ‘Classics’ > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Mr. Keynes and the ‘Classics’ > The Existence of Mass Unemployment as an Equilibrium Phenomenon
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Mr. Keynes and the ‘Classics’ > Keynes’ Critique of Classical Employment Theory
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Mr. Keynes and the ‘Classics’ > Involuntary Unemployment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Mr. Keynes and the ‘Classics’ > Keynes’ Rejection of Say’s Law: The Possibility of General Overproduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand > The D-Z Approach to Effective Demand
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand > Introducing Two Components of Aggregate Demand: D1 and D2
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand > Advantages of the D-Z Framework
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Theory of Effective Demand > The Demand Gap Arguments and Policy Implications
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Macroeconomic Demand for Labour
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Macroeconomic Demand for Labour > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Macroeconomic Demand for Labour > The Macroeconomic Demand for Labour Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Macroeconomic Demand for Labour > The Determination of Employment and the Existence of Involuntary Unemployment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Macroeconomic Demand for Labour > A Classical Resurgence Thwarted
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > A Simple Aggregate Supply Depiction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Aggregate Demand
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Private Consumption Expenditure
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Private Investment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Government Spending
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Net Exports
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Total Aggregate Expenditure
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > Equilibrium National Income
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Aggregate Expenditure Model > The Expenditure Multiplier
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > Some Important Concepts
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > Price Determination
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > The Aggregate Supply Function (AS)
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > Factors Affecting Aggregate Output per Hour
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Aggregate Supply > PART D: UNEMPLOYMENT AND INFLATION: THEORY AND POLICY
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Unemployment and Inflation
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Unemployment and Inflation > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Unemployment and Inflation > What is Inflation?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Unemployment and Inflation > Inflation as a Conflictual Process
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Unemployment and Inflation > The Quantity Theory of Money
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Unemployment and Inflation > Incomes Policies
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Phillips Curve and Beyond
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Phillips Curve and Beyond > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Phillips Curve and Beyond > The Phillips Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Phillips Curve and Beyond > The Accelerationist Hypothesis and the Expectations Augmented Phillips Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Phillips Curve and Beyond > Hysteresis and the Phillips Curve Trade-off
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Phillips Curve and Beyond > Underemployment and the Phillips Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > Full Employment as the Policy Goal
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > Impact on the Phillips Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Full Employment Policy > PART E: ECONOMIC POLICY IN AN OPEN ECONOMY
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 20 Appendix: Advanced Material
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Introduction
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Modern Banking Operations
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Interest Rate Targets versus Monetary Targets
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Implementation of Monetary Policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Unconventional Forms of Monetary Policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Monetary Policy in Practice
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > The Advantages and Disadvantages of Monetary Policy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Monetary Policy in Sovereign Nations > Horizontal and Vertical Operations: An Integration
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > The Balance of Payments
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > Essential Concepts
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > Aggregate Demand and the External Sector Revisited
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Policy in an Open Economy: Exchange Rates, Balance of Payments and Competitiveness > Trade in Goods and Services, Product Market Equilibrium and the Trade Balance
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > The Accelerator Model of Investment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > The Flexible Accelerator Model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Expectations and Interest Rate Impacts on Investment Demand
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Keynes and the Marginal Efficiency of Investment
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Minsky’s Model of the Investment Decision
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Investment and Profits
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The Role of Investment in Profit Generation > Business Cycles: Fluctuations in Economic Activity
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy > Economic Cycles and Crises
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Stabilising the Unstable Economy > PART G: HISTORY OF MACROECONOMIC THOUGHT
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought > History of Neoclassical Theory
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought > History of Heterodox Thought
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought > Institutional Economics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought > Modern Orthodox Schools of Thought
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Overview of the History of Economic Thought > Post-War Economic History and History of Thought
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > Introduction and the Concept of General Equilibrium
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > Derivation of the LM Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > The Product (Goods) Market: Equilibrium Output
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > Derivation of the IS Curve
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > Equilibrium and Policy Analysis in the IS-LM Framework
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The IS-LM Framework > Limitations of the IS-LM Framework
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 28 Appendix: The IS-LM Algebra
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Modern Schools of Economic Thought
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Modern Schools of Economic Thought > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Modern Schools of Economic Thought > The Rise of New Classical Economics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Modern Schools of Economic Thought > Real Business Cycle Theory
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Modern Schools of Economic Thought > New Keynesian Economics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Modern Schools of Economic Thought > Modern Heterodox Schools of Thought
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The New Monetary Consensus in Macroeconomics
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The New Monetary Consensus in Macroeconomics > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The New Monetary Consensus in Macroeconomics > Components of the NMC theory
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] The New Monetary Consensus in Macroeconomics > Weaknesses of the NMC
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 30 Appendix: The New Monetary Consensus model
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 30 Appendix: The New Monetary Consensus model > PART H: CONTEMPORARY DEBATES
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates > Ageing, Social Security, and the Intergenerational Debate
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates > The Twin Deficits Hypothesis
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates > Balance of Payments Constraints and Currency Crises
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates > Fixed versus Flexible rates: Optimal Currency Areas, the Bancor, or Floating Rates?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Recent Policy Debates > Environmental Sustainability and Economic Growth
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 31 Appendix 1: Case Study 1 – Economic Growth
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 31 Appendix 2: Case Study 2 – The Return of Secular Stagnation?
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Chapter 31 Appendix 3: The US Social Security and Medicare Systems
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future > Introduction
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future > Modelling Framework
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future > Government and the Monetary System
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future > Monetary Policy
+- [x] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future > Private Banks
+- [ ] [4. Macroeconomics (William Mitchell, L. Randall Wray & Martin Watts)] Macroeconomics for the Future > Trade and Exchange Rates
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 0: Overview
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Mechanics of US Treasury Note and Bond Futures
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Cost of Delivery and the Final Settlement Price
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 11: Note and Bond Futures > Motivations for a Delivery Basket
+- [ ] [9. Tuckman & Serrat: Fixed Income Securities (4th Ed, 2022)] Chapter 12: Short-Term Rates and Their Derivatives
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 1: Banking, bank business and financial statements
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 2: Ethics, conduct and customer service
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 5: Asset–liability management I
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 8: Bank Treasury operating model
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 9: ALCO governance framework and terms of reference
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 10: ALM sundries: asset encumbrance, hedge accounting, IFRS 9 and EIR
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 15: Bank strategy I: inputs and setting
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 17: Principles of corporate governance
+- [ ] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 17: Principles of corporate governance > PART V: PRINCIPLES OF RISK MANAGEMENT AND REGULATION
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 18: The risk management framework
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 21: Recovery planning and resolution planning
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 22: Sustainable banking and climate change risk management
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 23: Case studies: analysis, problem solving and decision making
+- [x] [2b. Choudhry: The Principles of Banking (2nd Ed, 2023)] CHAPTER 25: Applications software, policy templates and spreadsheet models
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] CHAPTER 25: Applications software, policy templates and spreadsheet models > > ⚠️ Note: Some pages have double-character font artifacts (e.g. `FFoorreewwoorrdd`) — text is readable but may need cleanup for ingest.
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] CHAPTER 25: Applications software, policy templates and spreadsheet models > PART ONE: Introduction to Bonds
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 1: The Bond Instrument
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 2: Bond Instruments and Interest-Rate Risk
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 4: Interest-Rate Modelling
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 7: Hybrid Securities and Structured Securities
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 9: Inflation-Indexed Bonds and Derivatives
+- [x] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 9: Inflation-Indexed Bonds and Derivatives > Appendix 9.1: Current Issuers of Public-Sector Indexed Securities
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 9: Inflation-Indexed Bonds and Derivatives > Appendix 9.2: U.S. Treasury Inflation-Indexed Securities (TIPS)
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 10: Introduction to Securitisation and Asset-Backed Securities
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 10: Introduction to Securitisation and Asset-Backed Securities > PART THREE: Derivative Instruments
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 12: Bond Futures Contracts
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 12: Bond Futures Contracts > Appendix 12.1: The Conversion Factor for the Long Gilt Future
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 14: Credit Derivatives I — Instruments and Applications
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 14: Credit Derivatives I — Instruments and Applications > Appendix 14.1: Bond Credit Ratings
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 18: Value-at-Risk and Credit VaR
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 18: Value-at-Risk and Credit VaR > Appendix 18.1: Assumption of Normality
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 20: Approaches to Trading and Hedging
+- [ ] [2c. Choudhry, Moskovic & Wong: Fixed Income Markets — Management, Trading, Hedging (2nd Ed, 2014)] Chapter 20: Approaches to Trading and Hedging > Appendix 20.1: Summary of Derivation of Optimum Hedge Equation
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction > A Unique Instrument
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction > A Taxation Example
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction > Some Caveats for What Is to Follow
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction > Trading Volatility
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 1: Introduction > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Introduction
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Markets
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Players
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > The Mechanics of Deals
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Market Conventions
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Instruments
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Positions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > The Syndication Process
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 2: Institutional Aspects of Derivative Markets > Conclusions
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds)
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds) > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds) > Parameters of a Futures Contract
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds) > The Hedge Fund Industry
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 7: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds) > Conclusions
+- [x] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > An Example
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > A Review of Static Replication
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > Principles of Dynamic Replication
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > Some Important Conditions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > Real-Life Complications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 8: Dynamic Replication Methods and Synthetics Engineering > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 13: Some Applications of the Fundamental Theorem
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 13: Some Applications of the Fundamental Theorem > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 13: Some Applications of the Fundamental Theorem > Application 1: The Monte Carlo Approach
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 13: Some Applications of the Fundamental Theorem > Application 2: Calibration
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 13: Some Applications of the Fundamental Theorem > Application 3: Quantos
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 13: Some Applications of the Fundamental Theorem > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Measure Change Technology
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > An Application
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 14: Fixed Income Engineering > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Introduction to Correlation as an Asset Class
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Volatility as Funding
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Breeden-Litzenberger Simplified
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Introduction to the Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Preliminaries
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > What Is the Volatility Smile?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Smile Dynamics
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > How to Explain the Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > The Relevance of the Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Trading the Smile
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 16: Correlation as an Asset Class and the Smile > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > What Is Equity?
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > Engineering Equity Products
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 19: Engineering of Equity Instruments and Structural Models of Default > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > The Classical Case
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > The CPPI
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > Modeling the CPPI Dynamics
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > Differences Between CPDO and CPPI
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > A Variant: The DPPI
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > Application of CPPI in the Insurance Sector: ICPPI
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > Real-World Complications
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 23: Principal Protection Techniques > Conclusions
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Introduction
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Counterparty Risk
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Credit Valuation Adjustment
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Debit Valuation Adjustment
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Bilateral Counterparty Risk
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Hedging Counterparty Risk
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Funding Valuation Adjustment
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > CVA Desk
+- [ ] [6. Neftci: Principles of Financial Engineering (3rd Ed, 2015)] CHAPTER 24: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA > Conclusions
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 15: Conclusion > PART ONE: Preliminaries
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 1: Introduction
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 2: Money, Credit and Banking
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 2: Money, Credit and Banking > Early forms of money
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 2: Money, Credit and Banking > Paper money and banknotes
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 2: Money, Credit and Banking > Fiat money
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 2: Money, Credit and Banking > Fiat money and trade
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 3: Banks
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 3: Banks > Banks and bank money creation
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 3: Banks > Categories of banks
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Single-bank introduction
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Extension to multiple banks
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Transfer settlement in central bank money
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Trade and non-bank credit
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Non-cash trading instruments
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > Delineating payment instruments from money
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 4: Bank Money Creation > The money multiplier
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 5: The Role of Central Banks
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 5: The Role of Central Banks > Introduction
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 5: The Role of Central Banks > Monetary financing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 6: Monetary Policy
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 6: Monetary Policy > Objectives of monetary policy
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 6: Monetary Policy > Central bank operational frameworks
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 7: Operational Frameworks
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 7: Operational Frameworks > Control of the money supply
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 8: Interaction between Frameworks and Policy
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 8: Interaction between Frameworks and Policy > Volatility
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Quantitative easing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > The Monetary Effect of Large-Scale Asset Purchases
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Helicopter money
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Choice of methods and assets
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Practical experience
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Bank of Japan 2013 QE experience
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Lessons from the initial BoJ quantitative easing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > Negative interest rates
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > The specific situation of the ECB
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 9: Non-Standard Monetary Policy > PART TWO: Cash Instruments
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 10: Contract and Instrument Types
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 10: Contract and Instrument Types > Securities and bilateral contracts
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 10: Contract and Instrument Types > Security identifiers
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 10: Contract and Instrument Types > ISIN codes
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 10: Contract and Instrument Types > CUSIP codes
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Trading
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Trading and price formation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Trading venues
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > The OTC trade lifecycle
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > The trade inquiry
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Negotiation
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Agreement
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Recording
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Enrichment
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Pre-confirmation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Allocation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Confirmation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Settlement instructions
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Fails
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Reconciliation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > The exchange trade cycle
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Trading in competition versus single dealer inquiries and orders
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Mistrades
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Settlement
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Settlement mechanisms
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 11: Trading and Settlement > Settlement conventions
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Direct clearing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Indirect clearing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Agency clearing
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Principal clearing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Hybrid clearing models
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Contract value adjustments (xVA)
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Credit Value Adjustment
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Funding Value Adjustment
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 12: Central Clearing > Debit Value Adjustment
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Introduction
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Cash flow types
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Bullet bonds
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Zero coupon bonds, perpetuals and annuities
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Issuer types
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Joint issuance
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Supranationals
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Governing law and contractual clauses
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Bond markets
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > The primary market
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > The secondary market I: (interdealer market)
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > The secondary market II: (customer-facing market)
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Accrued interest
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Interest rate risk
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 16: The Bond Market > Bond value decomposition
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 17: Floating-Rate Notes
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 17: Floating-Rate Notes > Coupon reset mechanics
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 17: Floating-Rate Notes > Libor and OIS-linked notes
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 17: Floating-Rate Notes > CMS and CMT floaters
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Models
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Market-based curve representations
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Bootstrapping
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Parametric curve models
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > The Nelson-Siegel and Nelson-Siegel-Svensson splines
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Polynomial splines
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > The exponential spline
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Composite models
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 19: Curves and Curve Models > Fitting curve models
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Expectations
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Term risk premium
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Preferred habitat
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Asset–liability matching
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Regulatory constraints
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Passive investing
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 20: Curve Analysis > Market technicals
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > Z-spread
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > Par spread
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > I-spreads
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > The TED spread
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 22: Curve Spreads > PART THREE: Inflation-Linked Debt
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Introduction
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Cash flows of inflation-linked bonds
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Quotation of index-linked bonds
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Rebalancing, rebasing and revision of CPI indices
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Inflation seasonality
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Price formation in inflation-linked markets
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Return measures of inflation-linked bonds
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Comprehensive inflation modelling
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > Inflation models and expectations
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 23: Inflation-Indexed Bonds > PART FOUR: Defaultable Claims
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 25: Covered Bonds
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 25: Covered Bonds > Statutory covered bonds
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 25: Covered Bonds > Danish covered bonds
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 25: Covered Bonds > Structured covered bonds
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 26: Asset-Backed Securities
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Introduction
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Futures trading patterns
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Open interest and trading volume
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > CFTC data for US futures contracts
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Valuation of physically delivered bond futures
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Conversion factors and the notional coupon
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Hedging with futures
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Futures rolls
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Roll ratios
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Advanced futures delivery models
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Delivery windows
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Interaction between futures and bonds
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Futures squeezes
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Cash-settled futures
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > Exchange-for-physical transactions
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 28: Bond Futures > New bond issues
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 30: Trading Principles
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 30: Trading Principles > Definitions
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 30: Trading Principles > Trade identification
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 30: Trading Principles > Trade portfolios
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Simple curve trades
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Outright Trades
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Steepeners and Flatteners
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Butterflies
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Condors
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Intrinsic curve movements
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 31: Curve Trading > Alternative specifications
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Spread widener/tightener
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Bond spread
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Bond spread with curve hedge
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 32: Bond Trading > Alternative strategies
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 34: Bond Index Mechanics
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 34: Bond Index Mechanics > Bond index principles
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 34: Bond Index Mechanics > Index rebalancing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 35: Portfolio Risk Management
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 35: Portfolio Risk Management > Risk-neutral portfolios
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 35: Portfolio Risk Management > Index tracking
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 35: Portfolio Risk Management > Factor analysis and spanning sets
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 35: Portfolio Risk Management > Friction effects
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 36: Hedging
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 36: Hedging > Introduction
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 36: Hedging > Regression hedges
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 37: Mean-Variance Optimisation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Passive and semi-passive strategies
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > No reallocation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Passive management
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Index replication
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Constant asset allocation
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Trend-Following
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > Numerical examples
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 38: Portfolio Rebalancing > PART EIGHT: References
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Euro area
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Austria
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Belgium
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Finland
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > France
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Germany
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Greece
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Ireland
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Italy
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > The Netherlands
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Portugal
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Spain
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Iceland
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Japan
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > Sweden
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > United Kingdom
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] CHAPTER 39: Selected Global Bond Markets > United States of America
+- [ ] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] Bibliography
+- [x] [1. Alexander Düring: Fixed Income Trading and Risk Management (2021)] Index
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Preface
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Acknowledgements
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] About the Authors
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Product Fundamentals
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Bond Fundamentals
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Fixed income structures
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Floating-rate notes
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Inflation
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Credit Fundamentals
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Derivative Fundamentals
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Chapter Overview > Futures
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Appendix 2.1 Monetary Policy and Overnight Interest Rates
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > What Do We Mean By Risk?
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Defining Market Risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Dollar value of an 01
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Market risk of a floating-rate note
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Market risk of credit instruments
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Fixed income
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Credit
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Smiles, skews and surfaces
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Market Risk Management > Value at Risk
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Bond futures
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > The cheapest to deliver
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Changes in the cheapest to deliver
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Expressing views on market direction and volatility
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Assessing volatility: cheap or rich?
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > Expressing views on volatility of volatility
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Expressing Views on the Interrelationships between Products > The relationship between volatility and the underlying asset
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Measures of Spread
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > I-spread
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > TED spread
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Z-spread
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Determining the appropriate benchmark
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Identifying Value in Sovereign Bonds > Assessing value in sovereign bonds
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Appendix 5.1 Curve flattening trade
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Trading Axioms: An A to Z
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Notes
+- [ ] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Bibliography
+- [x] [2. Neil C. Schofield: Trading the Fixed Income, Inflation and Credit Markets (2011)] Index
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Foreword by Henry Kaufman
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Preface to the 2004 Edition: A Historical Perspective
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Acknowledgments
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > The Reinvested Future Value
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > The Total Future Value TFV(H)
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > The FV versus the PV
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > PV Volatility
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > Immunization
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > Horizon Analysis
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > Generalizing the PV Model to Equities
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > Spread Flows and Opportunity PVs
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > The PV as a Hypothetical Ratio
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > Market-Based versus Subjective Estimates
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Some Topics That Didn’t Make It into the 1972 Edition > A Final Note
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics”
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Reinvested Future Value (RFV) at Horizon H
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Total Future Value (TFV) at Horizon H
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > PV Volatility PV-VOL (1,H)
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Reinvestment Volatility RFV-VOL (1,H)
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Total Future Value Volatility TFV-VOL (H)
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > The Babcock Rule
+- [x] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Immunization
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Technical Appendix to “Some Topics” > Horizon Analysis
+- [ ] [# PART II: SOME TOPICS THAT DIDN’T MAKE IT INTO THE 1972 EDITION (2004 EDITION)] Notes
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Foreword (xiii)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] The Aim of This Book (xv)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] List of Abbreviations (xviii)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Recognized ISO Currency Codes (xxi)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] How to Use This Book (1)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] How to Use This Book (1) > Introduction (2)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] How to Use This Book (1) > The ACI Dealing Certificate examination (3)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] How to Use This Book (1) > Prometric electronic delivery examination (5)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] SYLLABUS PART 1
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 1 · Background (25)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 1 · Background (25) > Pre-Second World War (26)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 1 · Background (25) > Post-Second World War (27)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 1 · Background (25) > ACI – The Financial Markets Association (36)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 2 · Basic Interest Rate Calculations (39)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 8 · The Role of Settlements (279)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 8 · The Role of Settlements (279) > Introduction (280)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 8 · The Role of Settlements (279) > The treasury division (281)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 8 · The Role of Settlements (279) > Treasury division support functions (284)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Introduction (294)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in cash markets (294)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in financial instruments (298)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in financial futures (299)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 9 · The Risk Environment (293) > Risks in FRAs (300)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] SYLLABUS PART 2
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 10 · The Model Code (319)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Topic 10 · The Model Code (319) > Introduction (320)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter I – Business hours and time zone related (321)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter II – Personal conduct issues (324)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter III – Back office, payments and confirmations (327)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter IV – Disputes, differences, mediation and compliance (328)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter V – Authorization, documentation and telephone taping (332)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter VI – Brokers and brokerage (334)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter VII – Dealing practice (336)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter VIII – Dealing practice for specific transactions (339)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter IX – General risk management principles for dealing business (340)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter X – Additional guidelines for dealing with corporate/commercial clients (341)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter XI – Market terminology (342)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Chapter XI – Market terminology (342) > Appendices 1–7 (343)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Approaching the Examination (347)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Approaching the Examination (347) > Preparation for the examination (348)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Approaching the Examination (347) > The ACI Dealing Certificate examination (351)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Approaching the Examination (347) > ACI Dealing Certificate examination techniques (353)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Approaching the Examination (347) > Specific points to remember (354)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Appendices (361)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Appendices (361) > I ACI Formulae Sheets (363)
+- [ ] [1. ACI Dealing Certificate Mastering (Phil Parker)] Appendices (361) > II Glossary of Terms and Dealing Jargon (369)
+- [x] [1. ACI Dealing Certificate Mastering (Phil Parker)] Index (395)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Acknowledgments (ix)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Glossary of Symbols and Acronyms (x)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Preface (xvii)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Introduction, Motivation, and Overview (1)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Inflation, Relative Prices, and Expectations (53)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Inflation, Relative Prices, and Expectations (53) > Macroeconomic Aspects of Relative Prices (61)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Inflation, Relative Prices, and Expectations (53) > Intertemporal and International Linkages: Interest Rates and Expectations (82)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Inflation, Relative Prices, and Expectations (53) > Exercises (92)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95) > Monetary Policy Frameworks (96)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95) > Policymaking under IT (108)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95) > Reading the Monetary Accounts (114)
+- [x] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95) > Countercyclical Policy and the Central Bank Balance Sheet in Practice (120)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95) > Monetary Policy and Vulnerabilities (128)
+- [ ] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Monetary Policy and Accounts (95) > Exercises (141)
+- [x] [2. Lipschitz & Schadler: Macroeconomics for Professionals] Index (268)

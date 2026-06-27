@@ -1,0 +1,32 @@
+﻿[2026-05-04 02:45:55] ========================================================
+[2026-05-04 02:45:55] START extract_all pipeline | Books: 14
+[2026-05-04 02:45:55] ========================================================
+[2026-05-04 02:45:55] BEGIN: singh_collateral_plumbing  pages=115 chunk=10 refresh=5
+[2026-05-04 02:51:16] DONE : singh_collateral_plumbing (5.4 min)
+[2026-05-04 02:51:16] BEGIN: imf_macro_accounting  pages=196 chunk=10 refresh=5
+[2026-05-04 03:15:25] DONE : imf_macro_accounting (24.2 min)
+[2026-05-04 03:15:25] BEGIN: tata_bank_alm  pages=200 chunk=10 refresh=5
+[2026-05-04 03:29:40] DONE : tata_bank_alm (14.2 min)
+[2026-05-04 03:29:40] BEGIN: schofield_fixed_income  pages=301 chunk=7 refresh=5
+[2026-05-04 03:47:31] DONE : schofield_fixed_income (17.9 min)
+[2026-05-04 03:47:31] BEGIN: lipschitz_schadler_macro  pages=312 chunk=7 refresh=5
+[2026-05-04 04:13:22] DONE : lipschitz_schadler_macro (25.8 min)
+[2026-05-04 04:13:22] BEGIN: weithers_fx_guide  pages=323 chunk=7 refresh=5
+[2026-05-04 04:37:31] DONE : weithers_fx_guide (24.2 min)
+[2026-05-04 04:37:31] BEGIN: homer_leibowitz_yield_book  pages=351 chunk=7 refresh=5
+[2026-05-04 05:00:42] DONE : homer_leibowitz_yield_book (23.2 min)
+[2026-05-04 05:00:42] SKIP : huggins_schaller_relative_value (_chunks exists - dang chay do?)
+[2026-05-04 05:00:42] BEGIN: imf_wb_govt_bond_markets  pages=436 chunk=7 refresh=5
+[2026-05-04 05:17:37] DONE : imf_wb_govt_bond_markets (16.9 min)
+[2026-05-04 05:17:37] BEGIN: tuckman_serrat_fixed_income  pages=538 chunk=5 refresh=5
+[2026-05-04 05:41:49] DONE : tuckman_serrat_fixed_income (24.2 min)
+[2026-05-04 05:41:49] SKIP : howard_corb_swaps (_chunks exists - dang chay do?)
+[2026-05-04 05:41:49] BEGIN: neftci_principles  pages=893 chunk=5 refresh=5
+[2026-05-04 06:24:54] DONE : neftci_principles (43.1 min)
+[2026-05-04 06:24:54] BEGIN: watts_wray_mmt_macro  pages=1188 chunk=5 refresh=5
+[2026-05-04 07:09:27] DONE : watts_wray_mmt_macro (44.5 min)
+[2026-05-04 07:09:27] BEGIN: wilmott_quant_finance  pages=1401 chunk=5 refresh=5
+[2026-05-04 08:08:20] DONE : wilmott_quant_finance (58.9 min)
+[2026-05-04 08:08:20] ========================================================
+[2026-05-04 08:08:20] FINISH: done=12 failed=0 skipped=2 total=322.4 min
+[2026-05-04 08:08:20] ========================================================

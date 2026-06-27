@@ -1,0 +1,269 @@
+# Schema Content Debt Report
+
+Date: 2026-04-28
+
+## Scope
+- Scanned all `03_wiki` nodes except `_index.md`.
+- Enriched only frontmatter fields that could be inferred safely from existing metadata/body.
+- Did not fabricate `source_refs` and did not change substantive body content.
+
+## Safe Auto-Fill Rules Used
+- Group A `source_refs: []`: no auto-fill for `source_refs`; field was only audited and prioritized.
+- Group B weak `thesis`: auto-filled only when body already contained an explicit consolidation/deprecation notice pointing to a canonical node.
+- Group C missing `expert_lens`: inferred only from explicit book/source family names found in `source_refs` or `provenance`.
+- `provenance`: normalized only when exactly one unique `source_refs.file` existed and provenance was blank/`TBD`/`legacy_migrated`/`extracted`.
+
+## Improvement Summary
+- Files changed: 566
+- `expert_lens` filled: 498
+- `provenance` normalized: 131
+- `thesis` filled from existing body notice: 34
+
+## Post-Audit Summary
+- total: 724
+- source_refs_empty: 130
+- thesis_weak: 36
+- expert_lens_empty: 164
+- legacy_migrated: 48
+
+## Group A: `source_refs` Empty
+- Count: 130
+- By type: domain=36, mechanism=35, concept=31, relationship=14, definition=9, perspective=3, convention=1, evidence=1
+- Priority examples:
+  - `03_wiki/concepts/Alternative_Investment_Funds.md`
+  - `03_wiki/concepts/Asset_Backed_Securities_ABS.md`
+  - `03_wiki/concepts/Central_Counterparty.md`
+  - `03_wiki/concepts/Commercial_Paper_And_CD.md`
+  - `03_wiki/concepts/Commodities.md`
+  - `03_wiki/concepts/Commodity_Swaps.md`
+  - `03_wiki/concepts/Convexity.md`
+  - `03_wiki/concepts/Covered_Bonds.md`
+  - `03_wiki/concepts/Credit_Risk_Taxonomy.md`
+  - `03_wiki/concepts/Dodd_Frank_And_JOBS_Act.md`
+  - `03_wiki/concepts/ELTIF_And_AIFMD_Framework.md`
+  - `03_wiki/concepts/Financial_Deepening.md`
+  - `03_wiki/concepts/Financial_Leverage.md`
+  - `03_wiki/concepts/German_Bunds_Market.md`
+  - `03_wiki/concepts/Hedge_Fund_Industry.md`
+  - `03_wiki/concepts/Hedge_Fund_Strategies.md`
+  - `03_wiki/concepts/Interest_Rate_Risk.md`
+  - `03_wiki/concepts/Liquidity_Search_Problem.md`
+  - `03_wiki/concepts/Macaulay_Duration.md`
+  - `03_wiki/concepts/Modified_Duration.md`
+  - `03_wiki/concepts/Money_Market_Instruments.md`
+  - `03_wiki/concepts/Nelson_Siegel_Spline_Models.md`
+  - `03_wiki/concepts/Principal_Component_Analysis_PCA.md`
+  - `03_wiki/concepts/Residential_Mortgage_Backed_Securities_RMBS.md`
+  - `03_wiki/concepts/Risk_Neutral_Portfolios.md`
+
+## Group B: Weak Thesis
+- Count: 36
+- By type: domain=36
+- Priority examples:
+  - `03_wiki/domains/AE_Domain.md`
+  - `03_wiki/domains/AR_Domain.md`
+  - `03_wiki/domains/AU_Domain.md`
+  - `03_wiki/domains/BR_Domain.md`
+  - `03_wiki/domains/CA_Domain.md`
+  - `03_wiki/domains/CH_Domain.md`
+  - `03_wiki/domains/CL_Domain.md`
+  - `03_wiki/domains/CN_Domain.md`
+  - `03_wiki/domains/DE_Domain.md`
+  - `03_wiki/domains/DK_Domain.md`
+  - `03_wiki/domains/EG_Domain.md`
+  - `03_wiki/domains/FI_Domain.md`
+  - `03_wiki/domains/FR_Domain.md`
+  - `03_wiki/domains/HK_Domain.md`
+  - `03_wiki/domains/ID_Domain.md`
+  - `03_wiki/domains/IE_Domain.md`
+  - `03_wiki/domains/IN_Domain.md`
+  - `03_wiki/domains/JP_Domain.md`
+  - `03_wiki/domains/KR_Domain.md`
+  - `03_wiki/domains/KY_Domain.md`
+  - `03_wiki/domains/LU_Domain.md`
+  - `03_wiki/domains/MX_Domain.md`
+  - `03_wiki/domains/MY_Domain.md`
+  - `03_wiki/domains/NG_Domain.md`
+  - `03_wiki/domains/NO_Domain.md`
+
+## Group C: Missing `expert_lens`
+- Count: 164
+- By type: mechanism=54, domain=37, concept=30, definition=15, relationship=14, perspective=5, synthesis=4, evidence=3, convention=1, glossary=1
+- Priority examples:
+  - `03_wiki/concepts/Alternative_Investment_Funds.md`
+  - `03_wiki/concepts/Asset_Backed_Securities_ABS.md`
+  - `03_wiki/concepts/Central_Counterparty.md`
+  - `03_wiki/concepts/Commercial_Paper_And_CD.md`
+  - `03_wiki/concepts/Commodities.md`
+  - `03_wiki/concepts/Commodity_Swaps.md`
+  - `03_wiki/concepts/Convexity.md`
+  - `03_wiki/concepts/Covered_Bonds.md`
+  - `03_wiki/concepts/Credit_Risk_Taxonomy.md`
+  - `03_wiki/concepts/Direct_Lending.md`
+  - `03_wiki/concepts/Dodd_Frank_And_JOBS_Act.md`
+  - `03_wiki/concepts/ELTIF_And_AIFMD_Framework.md`
+  - `03_wiki/concepts/European_Private_Credit_Market.md`
+  - `03_wiki/concepts/Financial_Leverage.md`
+  - `03_wiki/concepts/German_Bunds_Market.md`
+  - `03_wiki/concepts/Hedge_Fund_Industry.md`
+  - `03_wiki/concepts/Hedge_Fund_Strategies.md`
+  - `03_wiki/concepts/Interest_Rate_Risk.md`
+  - `03_wiki/concepts/Liquidity_Search_Problem.md`
+  - `03_wiki/concepts/Macaulay_Duration.md`
+  - `03_wiki/concepts/Modified_Duration.md`
+  - `03_wiki/concepts/Money_Market_Instruments.md`
+  - `03_wiki/concepts/Nelson_Siegel_Spline_Models.md`
+  - `03_wiki/concepts/Nonbank_Financial_Intermediation.md`
+  - `03_wiki/concepts/Principal_Component_Analysis_PCA.md`
+
+## Residual `provenance: legacy_migrated`
+- Count: 48
+- By type: domain=36, concept=10, mechanism=2
+- Priority examples:
+  - `03_wiki/concepts/Commodities.md`
+  - `03_wiki/concepts/Commodity_Swaps.md`
+  - `03_wiki/concepts/Dodd_Frank_And_JOBS_Act.md`
+  - `03_wiki/concepts/Financial_Leverage.md`
+  - `03_wiki/concepts/Hedge_Fund_Industry.md`
+  - `03_wiki/concepts/Hedge_Fund_Strategies.md`
+  - `03_wiki/concepts/Macaulay_Duration.md`
+  - `03_wiki/concepts/Modified_Duration.md`
+  - `03_wiki/concepts/Short_Selling.md`
+  - `03_wiki/concepts/Tri_Party_Repo.md`
+  - `03_wiki/domains/AE_Domain.md`
+  - `03_wiki/domains/AR_Domain.md`
+  - `03_wiki/domains/AU_Domain.md`
+  - `03_wiki/domains/BR_Domain.md`
+  - `03_wiki/domains/CA_Domain.md`
+  - `03_wiki/domains/CH_Domain.md`
+  - `03_wiki/domains/CL_Domain.md`
+  - `03_wiki/domains/CN_Domain.md`
+  - `03_wiki/domains/DE_Domain.md`
+  - `03_wiki/domains/DK_Domain.md`
+  - `03_wiki/domains/EG_Domain.md`
+  - `03_wiki/domains/FI_Domain.md`
+  - `03_wiki/domains/FR_Domain.md`
+  - `03_wiki/domains/HK_Domain.md`
+  - `03_wiki/domains/ID_Domain.md`
+
+## Manual Review Queue
+- `03_wiki/concepts/Alternative_Investment_Funds.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Asset_Backed_Securities_ABS.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Central_Counterparty.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Commercial_Paper_And_CD.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Commodities.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Commodity_Swaps.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Convexity.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Covered_Bonds.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Credit_Risk_Taxonomy.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Direct_Lending.md` — missing expert_lens
+- `03_wiki/concepts/Dodd_Frank_And_JOBS_Act.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/ELTIF_And_AIFMD_Framework.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/European_Private_Credit_Market.md` — missing expert_lens
+- `03_wiki/concepts/Financial_Deepening.md` — missing source_refs
+- `03_wiki/concepts/Financial_Leverage.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/German_Bunds_Market.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Hedge_Fund_Industry.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Hedge_Fund_Strategies.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Interest_Rate_Risk.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Liquidity_Search_Problem.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Macaulay_Duration.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Modified_Duration.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Money_Market_Instruments.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Nelson_Siegel_Spline_Models.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Nonbank_Financial_Intermediation.md` — missing expert_lens
+- `03_wiki/concepts/Principal_Component_Analysis_PCA.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Private_Credit.md` — missing expert_lens
+- `03_wiki/concepts/Residential_Mortgage_Backed_Securities_RMBS.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Risk_Neutral_Portfolios.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Selected_Global_Bond_Markets.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Short_Selling.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Sovereign_Debt_Risk_Dynamics.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Sovereign_Wealth_Fund.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Structured_Vs_Statutory_Covered_Bonds.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Tri_Party_Repo.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/concepts/Valuation_Adjustments_xVA.md` — missing source_refs, missing expert_lens
+- `03_wiki/concepts/Yield_Curve_Representations.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Asset-Based_Finance_ABF.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Asset_Backed_Securities_SPV_Architecture.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Business_Development_Company.md` — missing expert_lens
+- `03_wiki/definitions/Credit_Risk_Taxonomy.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Monetary_Operations_Instruments.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Money_Market_Instruments_Taxonomy.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Money_Neutrality_Vs_Non_Neutrality.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Private_Credit_Data_Gap.md` — missing source_refs, missing expert_lens
+- `03_wiki/definitions/Risk_Weighted_Assets.md` — missing expert_lens
+- `03_wiki/definitions/Seigniorage.md` — missing source_refs, missing expert_lens
+- `03_wiki/domains/AE_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/AR_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/AU_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/BR_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/CA_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/CH_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/CL_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/CN_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/DE_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/DK_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/EG_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/FI_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/FR_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/HK_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/ID_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/IE_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/IN_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/JP_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/KR_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/KY_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/LU_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/MX_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/MY_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/NG_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/NO_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/QA_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/RU_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/SA_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/SE_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/SG_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/TH_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/TR_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/UK_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/US_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/VN_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/domains/ZA_Domain.md` — missing source_refs, weak thesis, missing expert_lens, legacy provenance
+- `03_wiki/evidence/Blackstone_BCRED_Model.md` — missing expert_lens
+- `03_wiki/evidence/Private_Credit_Secondary_Market.md` — missing expert_lens
+- `03_wiki/evidence/Project_Meridian.md` — missing expert_lens
+- `03_wiki/evidence/Repo_Spike_September_2019_Case_Study.md` — missing source_refs
+- `03_wiki/glossary/Bank_Treasury_Glossary.md` — missing expert_lens
+- `03_wiki/mechanisms/ABS_Tranching_And_Default_Risk.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/mechanisms/AOCI_Capital_Cliff.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Bank_Internal_Decision_Engine.md` — missing expert_lens
+- `03_wiki/mechanisms/Bank_Private_Credit_Partnership.md` — missing expert_lens
+- `03_wiki/mechanisms/Bank_Risk_Environment.md` — missing expert_lens
+- `03_wiki/mechanisms/Basel_III_Impact_On_Private_Credit.md` — missing expert_lens
+- `03_wiki/mechanisms/Basel_III_Output_Floor.md` — missing expert_lens
+- `03_wiki/mechanisms/Bill_Of_Exchange_Discounting.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Blue_Bond_Mechanism.md` — missing expert_lens
+- `03_wiki/mechanisms/Circular_06_2023_Vietnam_Lending_Restrictions.md` — missing expert_lens
+- `03_wiki/mechanisms/Circular_16_2021_Vietnam_Banking_Bond_Rules.md` — missing expert_lens
+- `03_wiki/mechanisms/Decree_08_2023_Vietnam_Bond_Restructuring.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Default_Resolution_Process.md` — missing source_refs, missing expert_lens, legacy provenance
+- `03_wiki/mechanisms/Discount_Margin_Vs_Simple_Interest.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Discount_Window_Mechanism.md` — missing source_refs
+- `03_wiki/mechanisms/ESBies_Mechanism.md` — missing expert_lens
+- `03_wiki/mechanisms/FILP_Historical_Context.md` — missing expert_lens
+- `03_wiki/mechanisms/Financial_Repression_Japan_Model.md` — missing expert_lens
+- `03_wiki/mechanisms/FX_Spot_Trading_Mechanics.md` — missing expert_lens
+- `03_wiki/mechanisms/Gilt_Treasury_Spread_Dynamics.md` — missing source_refs
+- `03_wiki/mechanisms/Hidden_Leverage_and_Liquidity_Mismatch.md` — missing expert_lens
+- `03_wiki/mechanisms/Inverse_Floater_Structure.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Japan_Debt_Puzzle_Mechanism.md` — missing expert_lens
+- `03_wiki/mechanisms/J_Curve_Effect.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Lender_of_Last_Resort_LoLR_Evolution.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Leverage_Layering_in_Private_Credit.md` — missing expert_lens
+- `03_wiki/mechanisms/Leverage_Ratio.md` — missing expert_lens
+- `03_wiki/mechanisms/Liquidity_Coverage_Ratio.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Liquidity_Management_Corridor_System.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Liquidity_Reflexivity_in_Private_Credit.md` — missing expert_lens
+- `03_wiki/mechanisms/Lucas_Paradox_Mechanism.md` — missing source_refs, missing expert_lens
+- `03_wiki/mechanisms/Mark-to-Model_Valuation_Risk.md` — missing source_refs, missing expert_lens
