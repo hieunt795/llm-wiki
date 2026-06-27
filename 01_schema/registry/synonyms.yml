@@ -1878,6 +1878,11 @@ synonyms:
   - private credit valuation feedback
   - redemption spirals
   - semi-liquid fund run risk
+- - liquidity savings mechanism (lsm)
+  - fedwire lsm
+  - liquidity saving mechanism
+  - lsm
+  - payment netting queue
 - - liquidity search problem
   - bài toán tìm kiếm thanh khoản
   - combinatorics of liquidity
@@ -2548,6 +2553,11 @@ synonyms:
   - financial fragility stages
   - hedge-speculative-ponzi framework
   - minsky classification
+- - poole curve (reserve demand curve)
+  - ample reserves kink
+  - poole curve
+  - reserve demand curve
+  - reserve demand function
 - - poole model
   - optimal instrument selection
   - poole model (1970)
@@ -2721,6 +2731,11 @@ synonyms:
   - lợi suất thực
   - real interest rate
   - rho
+- - receipt-reactive payment throttling
+  - payment gridlock feedback
+  - payment throttling
+  - receipt-reactive payments
+  - self-fulfilling payment delay
 - - rediscounting
   - bill rediscounting
   - central bank discount window
@@ -2976,6 +2991,11 @@ synonyms:
   - hidden social assets
   - nhs implied asset
   - welfare as annuity
+- - sofr–iorb spread — gauge stress thanh khoản
+  - chênh lệch sofr iorb
+  - repo rate stress gauge
+  - sofr iorb spread
+  - sofr-iorb
 - - soft bullet and conditional pass-through
   - conditional pass-through
   - cpt
@@ -3089,6 +3109,11 @@ synonyms:
   - capital call facilities
   - sub-lines
   - subscription facilities
+- - supply-driven vs demand-driven ample reserves
+  - boe str demand-driven
+  - demand-driven reserves
+  - reserve ampleness approaches
+  - supply-driven reserves
 - - supranational capital structure
   - callable capital
   - paid-up capital
@@ -3270,6 +3295,11 @@ synonyms:
   - trade rationale
   - trading principles
   - trailing stop-loss
+- - treasury central clearing & repo netting friction
+  - central clearing repo market
+  - central clearing treasury
+  - ficc sponsored repo
+  - repo netting friction
 - - treasury general account mechanism
   - tga
   - tài khoản kho bạc
