@@ -64,8 +64,26 @@ def install_dependencies() -> None:
     )
 
 
-def build_embedding() -> None:
-    _run([sys.executable, "05_scripts/embed_index.py", "--build"], cwd=WIKI_ROOT)
+def show_gpu_info() -> None:
+    try:
+        _run(["nvidia-smi"])
+    except Exception as e:
+        print(f"[colab_embed] Skip nvidia-smi: {e}", flush=True)
+
+
+def build_embedding(batch_size: int, device: str) -> None:
+    _run(
+        [
+            sys.executable,
+            "05_scripts/embed_index.py",
+            "--build",
+            "--device",
+            device,
+            "--batch-size",
+            str(batch_size),
+        ],
+        cwd=WIKI_ROOT,
+    )
 
 
 def verify_artifacts() -> None:
@@ -137,15 +155,32 @@ def main() -> None:
         action="store_true",
         help="Do not trigger browser download at the end",
     )
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=128,
+        help="Embedding batch size for Colab GPU build (default: 128)",
+    )
+    parser.add_argument(
+        "--device",
+        type=str,
+        default="cuda",
+        choices=["cpu", "cuda"],
+        help="Embedding device for Colab build (default: cuda)",
+    )
     args = parser.parse_args()
 
     print(f"[colab_embed] Repo root: {WIKI_ROOT}", flush=True)
     print("[colab_embed] Engine: BAAI/bge-m3", flush=True)
+    print(f"[colab_embed] Device: {args.device} | batch_size={args.batch_size}", flush=True)
 
     if not args.skip_install:
         install_dependencies()
 
-    build_embedding()
+    if args.device == "cuda":
+        show_gpu_info()
+
+    build_embedding(args.batch_size, args.device)
     verify_artifacts()
     zip_path = create_zip(args.zip_name)
 

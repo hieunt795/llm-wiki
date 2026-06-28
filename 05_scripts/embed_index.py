@@ -46,6 +46,22 @@ CHUNK_SIZE   = 1800  # max chars per chunk for dense retrieval input
 MIN_CHUNK    = 200   # skip chunks shorter than this
 
 
+def _resolve_device(device: str = "auto") -> str:
+    if device != "auto":
+        return device
+    try:
+        import torch
+        return "cuda" if torch.cuda.is_available() else "cpu"
+    except Exception:
+        return "cpu"
+
+
+def _resolve_batch_size(batch_size: int | None, device: str) -> int:
+    if batch_size is not None:
+        return batch_size
+    return 128 if device == "cuda" else 32
+
+
 # ── Parse frontmatter ─────────────────────────────────────────────────────────
 
 def _parse_frontmatter(text: str) -> tuple[dict, str]:
@@ -377,7 +393,7 @@ def collect_all() -> list[dict]:
 
 # ── Build FAISS index ─────────────────────────────────────────────────────────
 
-def build_index(verbose: bool = True) -> bool:
+def build_index(verbose: bool = True, batch_size: int | None = None, device: str = "auto") -> bool:
     try:
         from sentence_transformers import SentenceTransformer
         import faiss
@@ -388,13 +404,15 @@ def build_index(verbose: bool = True) -> bool:
         return False
 
     CACHE_DIR.mkdir(exist_ok=True)
+    resolved_device = _resolve_device(device)
+    resolved_batch_size = _resolve_batch_size(batch_size, resolved_device)
 
     if verbose:
-        print(f"[embed_index v2.2] Loading model: {MODEL_NAME} ...", flush=True)
+        print(f"[embed_index v2.2] Loading model: {MODEL_NAME} on {resolved_device} ...", flush=True)
 
     t0 = time.time()
     try:
-        model = SentenceTransformer(MODEL_NAME)
+        model = SentenceTransformer(MODEL_NAME, device=resolved_device)
     except Exception as e:
         print(f"ERROR: Cannot load model '{MODEL_NAME}' — {e}", flush=True)
         print("  Download/cache the model first, or run the build on a machine with Hugging Face access.", flush=True)
@@ -412,13 +430,13 @@ def build_index(verbose: bool = True) -> bool:
 
     if verbose:
         print(f"[embed_index] {wiki_count} wiki nodes + {raw_files} raw files → {chunk_count} raw chunks", flush=True)
-        print(f"[embed_index] Total vectors: {len(entries)}. Encoding ...", flush=True)
+        print(f"[embed_index] Total vectors: {len(entries)}. Encoding with batch_size={resolved_batch_size} ...", flush=True)
 
     texts = [e["embed_text"] for e in entries]
     t1 = time.time()
     embeddings = model.encode(
         texts,
-        batch_size=32,
+        batch_size=resolved_batch_size,
         show_progress_bar=verbose,
         normalize_embeddings=True,
         convert_to_numpy=True,
@@ -482,7 +500,7 @@ def _save_manifest(manifest: dict):
     )
 
 
-def incremental_build(verbose: bool = True) -> bool:
+def incremental_build(verbose: bool = True, batch_size: int | None = None, device: str = "auto") -> bool:
     """
     Chỉ encode các files mới/thay đổi so với lần build trước.
     Files bị xóa → remove vectors tương ứng.
@@ -493,7 +511,7 @@ def incremental_build(verbose: bool = True) -> bool:
     if not INDEX_PATH.exists() or not META_PATH.exists():
         if verbose:
             print("[embed_index] No existing index → falling back to full build", flush=True)
-        return build_index(verbose=verbose)
+        return build_index(verbose=verbose, batch_size=batch_size, device=device)
 
     # Nếu chưa có manifest → init từ files hiện tại (coi tất cả là "đã index")
     # → lần incremental đầu tiên sẽ không encode lại gì cả, chỉ track từ đây về sau
@@ -525,11 +543,13 @@ def incremental_build(verbose: bool = True) -> bool:
 
     CACHE_DIR.mkdir(exist_ok=True)
     t0 = time.time()
+    resolved_device = _resolve_device(device)
+    resolved_batch_size = _resolve_batch_size(batch_size, resolved_device)
 
     if verbose:
-        print(f"[embed_index incremental] Loading model: {MODEL_NAME} ...", flush=True)
+        print(f"[embed_index incremental] Loading model: {MODEL_NAME} on {resolved_device} ...", flush=True)
     try:
-        model = SentenceTransformer(MODEL_NAME)
+        model = SentenceTransformer(MODEL_NAME, device=resolved_device)
     except Exception as e:
         print(f"ERROR: Cannot load model '{MODEL_NAME}' — {e}", flush=True)
         print("  Download/cache the model first, or run the build on a machine with Hugging Face access.", flush=True)
@@ -548,7 +568,7 @@ def incremental_build(verbose: bool = True) -> bool:
     if old_index.d != current_dim:
         if verbose:
             print(f"[embed_index] Dim mismatch ({old_index.d} vs {current_dim}) → full rebuild", flush=True)
-        return build_index(verbose=verbose)
+        return build_index(verbose=verbose, batch_size=batch_size, device=device)
 
     # Scan tất cả .md files hiện tại → build mtime map
     current_files = {}
@@ -621,7 +641,10 @@ def incremental_build(verbose: bool = True) -> bool:
     if verbose:
         print(f"[embed_index] Kept {len(kept_meta)} old vectors, "
               f"dropped {len(old_meta) - len(kept_meta)}", flush=True)
-        print(f"[embed_index] Encoding {len(new_entries)} new/changed entries ...", flush=True)
+        print(
+            f"[embed_index] Encoding {len(new_entries)} new/changed entries with batch_size={resolved_batch_size} ...",
+            flush=True,
+        )
 
     # Encode new entries
     if new_entries:
@@ -629,7 +652,7 @@ def incremental_build(verbose: bool = True) -> bool:
         t1 = time.time()
         new_vecs = model.encode(
             texts,
-            batch_size=32,
+            batch_size=resolved_batch_size,
             show_progress_bar=verbose,
             normalize_embeddings=True,
             convert_to_numpy=True,
@@ -762,6 +785,8 @@ def main():
     parser.add_argument("--init-manifest", action="store_true", help="Init manifest from current files (no encoding)")
     parser.add_argument("--watch",         action="store_true", help="Watch for file changes + auto-reindex")
     parser.add_argument("--stats",         action="store_true", help="Show index stats")
+    parser.add_argument("--batch-size",    type=int, default=None, help="Embedding batch size; default auto (128 on cuda, 32 on cpu)")
+    parser.add_argument("--device",        type=str, default="auto", choices=["auto", "cpu", "cuda"], help="Embedding device")
     args = parser.parse_args()
 
     if args.stats:
@@ -783,11 +808,11 @@ def main():
         return
 
     if args.incremental:
-        ok = incremental_build(verbose=True)
+        ok = incremental_build(verbose=True, batch_size=args.batch_size, device=args.device)
         if not ok:
             sys.exit(1)
     elif args.build:
-        ok = build_index(verbose=True)
+        ok = build_index(verbose=True, batch_size=args.batch_size, device=args.device)
         if not ok:
             sys.exit(1)
 
