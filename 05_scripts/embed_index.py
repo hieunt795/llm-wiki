@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-embed_index.py — Semantic embedding index builder (v2.1)
+embed_index.py — Semantic embedding index builder (v2.2)
 =========================================================
 Build và persist FAISS vector index từ wiki nodes + raw PDF chunks.
 
@@ -41,8 +41,8 @@ INDEX_PATH     = CACHE_DIR / "wiki_embed.index"
 META_PATH      = CACHE_DIR / "wiki_embed.meta.json"
 MANIFEST_PATH  = CACHE_DIR / "wiki_embed.manifest.json"  # file → mtime mapping
 
-MODEL_NAME   = "intfloat/multilingual-e5-base"
-CHUNK_SIZE   = 1800  # max chars per chunk — ~450 tokens, safe for E5-base (512 token limit)
+MODEL_NAME   = "BAAI/bge-m3"
+CHUNK_SIZE   = 1800  # max chars per chunk for dense retrieval input
 MIN_CHUNK    = 200   # skip chunks shorter than this
 
 
@@ -122,7 +122,7 @@ def parse_wiki_node(md_path: Path) -> dict | None:
     parts = [title] + aliases + tags
     if thesis:
         parts.append(thesis[:400])
-    embed_text = "passage: " + " | ".join(p for p in parts if p)
+    embed_text = " | ".join(p for p in parts if p)
 
     if not embed_text.strip():
         return None
@@ -274,13 +274,13 @@ def parse_raw_chunks(md_path: Path) -> list[dict]:
             # Title hiển thị
             display_title = f"{book_title} — {heading}" if heading else book_title
 
-            # embed_text: passage prefix + book title + heading + content
+            # BGE-M3 does not require E5-style passage prefixes.
             parts = [stem]
             if heading:
                 parts.append(heading)
             parts += tags
             parts.append(window[:CHUNK_SIZE])
-            embed_text = "passage: " + " | ".join(p for p in parts if p)
+            embed_text = " | ".join(p for p in parts if p)
 
             chunks.append({
                 "id":         chunk_id,
@@ -315,7 +315,7 @@ def parse_raw_chunks(md_path: Path) -> list[dict]:
                 continue
             if len(page_text) < MIN_CHUNK or _is_toc_text(page_text):
                 continue
-            embed_text = "passage: " + " | ".join(
+            embed_text = " | ".join(
                 p for p in [stem] + tags + [page_text[:CHUNK_SIZE]] if p
             )
             chunks.append({
@@ -390,10 +390,15 @@ def build_index(verbose: bool = True) -> bool:
     CACHE_DIR.mkdir(exist_ok=True)
 
     if verbose:
-        print(f"[embed_index v2.0] Loading model: {MODEL_NAME} ...", flush=True)
+        print(f"[embed_index v2.2] Loading model: {MODEL_NAME} ...", flush=True)
 
     t0 = time.time()
-    model = SentenceTransformer(MODEL_NAME)
+    try:
+        model = SentenceTransformer(MODEL_NAME)
+    except Exception as e:
+        print(f"ERROR: Cannot load model '{MODEL_NAME}' — {e}", flush=True)
+        print("  Download/cache the model first, or run the build on a machine with Hugging Face access.", flush=True)
+        return False
 
     if verbose:
         print(f"[embed_index] Model loaded in {time.time()-t0:.1f}s", flush=True)
@@ -413,7 +418,7 @@ def build_index(verbose: bool = True) -> bool:
     t1 = time.time()
     embeddings = model.encode(
         texts,
-        batch_size=64,
+        batch_size=32,
         show_progress_bar=verbose,
         normalize_embeddings=True,
         convert_to_numpy=True,
@@ -523,7 +528,12 @@ def incremental_build(verbose: bool = True) -> bool:
 
     if verbose:
         print(f"[embed_index incremental] Loading model: {MODEL_NAME} ...", flush=True)
-    model = SentenceTransformer(MODEL_NAME)
+    try:
+        model = SentenceTransformer(MODEL_NAME)
+    except Exception as e:
+        print(f"ERROR: Cannot load model '{MODEL_NAME}' — {e}", flush=True)
+        print("  Download/cache the model first, or run the build on a machine with Hugging Face access.", flush=True)
+        return False
     if verbose:
         print(f"[embed_index] Model loaded in {time.time()-t0:.1f}s", flush=True)
 
@@ -619,7 +629,7 @@ def incremental_build(verbose: bool = True) -> bool:
         t1 = time.time()
         new_vecs = model.encode(
             texts,
-            batch_size=64,
+            batch_size=32,
             show_progress_bar=verbose,
             normalize_embeddings=True,
             convert_to_numpy=True,
@@ -734,7 +744,7 @@ def print_stats():
     from datetime import datetime
     built_at = datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M")
 
-    print(f"[embed_index v2.0] Index stats:", flush=True)
+    print(f"[embed_index v2.2] Index stats:", flush=True)
     print(f"  Total vectors : {len(meta)}", flush=True)
     print(f"  Wiki nodes    : {wiki_count} (file-level)", flush=True)
     print(f"  Raw chunks    : {raw_count} ({paged_count} page-level)", flush=True)
@@ -746,7 +756,7 @@ def print_stats():
 # CLI
 
 def main():
-    parser = argparse.ArgumentParser(description="embed_index.py v2.1 -- chunk-level semantic index")
+    parser = argparse.ArgumentParser(description="embed_index.py v2.2 -- BGE-M3 semantic index")
     parser.add_argument("--build",         action="store_true", help="Full rebuild index")
     parser.add_argument("--incremental",   action="store_true", help="Only encode changed/new files")
     parser.add_argument("--init-manifest", action="store_true", help="Init manifest from current files (no encoding)")

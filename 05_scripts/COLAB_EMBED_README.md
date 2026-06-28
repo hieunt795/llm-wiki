@@ -15,7 +15,7 @@ Tách compute: **local sinh node `.md`**, **Colab T4 chạy embed/FAISS**. Trans
 
 - **Source of truth = `.md`** (03_wiki + 02_sources). Đi qua git, diffable.
 - **`.cache/wiki_embed.*` = artifact phái sinh.** KHÔNG commit (đã thêm vào `.gitignore`). Regenerable từ `.md`.
-- **Trên Colab dùng `--build` (full), KHÔNG `--incremental`** — `mtime` đổi sau git clone nên incremental cross-machine sai. Full build e5-base ~24k vectors trên T4 chỉ vài phút.
+- **Trên Colab dùng `--build` (full), KHÔNG `--incremental`** — `mtime` đổi sau git clone nên incremental cross-machine sai. Full build BGE-M3 trên T4 vẫn là đường chạy chuẩn cho artifact cross-machine.
 - **Local chỉ chạy `librarian.py sync`** (nhẹ, không load model). Không chạy `embed`/`batch ...,embed` ở local.
 - ⚠️ **Repo GitHub PHẢI private** — `02_sources` chứa full-text sách bản quyền.
 
@@ -64,7 +64,8 @@ gh repo create <REPO> --private --source=. --remote=origin --push
 
 ## Lưu ý kỹ thuật
 
-- Model: `intfloat/multilingual-e5-base` (768-dim, đa ngôn ngữ VI+EN). Không đổi giữa local/Colab → index tương thích.
+- Model: `BAAI/bge-m3` (1024-dim, đa ngôn ngữ). Không đổi giữa local/Colab → index tương thích.
+- Input embedding không còn dùng prefix kiểu E5 (`passage:` / `query:`).
 - FAISS `IndexFlatIP` (cosine qua normalized dot product).
 - `embed_index.py` không cần sửa: `sentence-transformers` tự bắt CUDA trên T4.
 - Sau khi pull, `semantic_search.py` / `hybrid_search.py` / `deepdive_search.py` ở local đọc `.cache/wiki_embed.*` như bình thường.

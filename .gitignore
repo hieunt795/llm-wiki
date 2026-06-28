@@ -21,6 +21,11 @@ __pycache__/
 # Temp
 *.tmp
 *.bak
+05_scripts/extract_log.txt
+
+# Graphify artifacts
+graphify-out/cache/
+graphify-out/.graphify*
 
 # Derived artifacts — built on Colab T4, never commit (transport via Drive/gdown)
 # Source of truth = .md files; .cache/ is regenerable from them.

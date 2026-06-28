@@ -24,12 +24,20 @@ if (-not (Test-Path $Zip)) { Write-Host "Khong thay file: $Zip" -ForegroundColor
 
 New-Item -ItemType Directory -Force -Path $Cache | Out-Null
 
-# Backup index cu (phong khi can rollback)
-$old = Join-Path $Cache "wiki_embed.index"
-if (Test-Path $old) {
-    $bak = Join-Path $Cache ("wiki_embed.index.bak")
-    Copy-Item $old $bak -Force
-    Write-Host "Backup index cu -> wiki_embed.index.bak" -ForegroundColor DarkGray
+# Backup bo artifact cu (phong khi can rollback)
+$artifactNames = @(
+    "wiki_embed.index",
+    "wiki_embed.meta.json",
+    "wiki_embed.manifest.json"
+)
+
+foreach ($name in $artifactNames) {
+    $src = Join-Path $Cache $name
+    if (Test-Path $src) {
+        $bak = Join-Path $Cache ($name + ".bak")
+        Copy-Item $src $bak -Force
+        Write-Host "Backup $name -> $($name).bak" -ForegroundColor DarkGray
+    }
 }
 
 Write-Host "Giai nen $Zip -> $Cache" -ForegroundColor Cyan
