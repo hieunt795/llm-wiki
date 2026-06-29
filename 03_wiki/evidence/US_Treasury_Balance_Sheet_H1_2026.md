@@ -17,7 +17,7 @@ school: ''
 superseded_by: null
 superseded_date: null
 expert_lens: "Brian Smith (Treasury) | TBAC"
-provenance: "MSPD FiscalData May 2026; Treasury Quarterly Refunding Q1+Q2 2026; CRFB; NY Fed ACM"
+provenance: "MSPD FiscalData May 2026; Treasury Quarterly Refunding Q1+Q2 2026; CRFB; NY Fed ACM; H.15 Fed (Jun 25 2026); TIC April 2026 (wolfstreet.com); eco3min.fr ACM series; sofrrate.com SOFR"
 thesis: "Tại tháng 5/2026, tổng nợ bruto của Mỹ đạt $39.16T với nợ khả thị ~$31.52T.
   Bills chiếm 21.44% — trên mức TBAC khuyến nghị 15-20%. WAM 70 tháng (5.83 năm).
   ACM term premium 10Y đã chuyển dương (+67-83bp tháng 5/2026) lần đầu tiên từ 2023.
@@ -118,14 +118,50 @@ updated: '2026-06-29'
 | Gross debt crossed $39T | 17/03/2026 |
 | Trajectory | $40–42T ước tính đến 2030 [LLM-E] |
 
+## TIC — Người Mua Nợ Nước Ngoài (April 2026)
+
+*Nguồn: wolfstreet.com April 2026 TIC update; Treasury TIC press releases*
+
+| Rank | Quốc gia | Holdings | MoM | YoY |
+|------|----------|---------|-----|-----|
+| 1 | **Euro Area** | **$2,000B** | +$32B | +$164B |
+| 2 | **Japan** | **$1,240B** | +$14B | +$113B |
+| 3 | **UK** | **$897B** | +$18B | +$147B |
+| 4 | Belgium | $455B | +$4B | — |
+| 5 | Canada | $446B | +$50B | — |
+| … | **China+HK** | ~$750B est. | — | **−$96B** ← tiếp tục giảm |
+
+**Tổng foreign holdings: $9.49T** ($7.76T long-term)
+- Euro Area vượt Japan thành top holder lần đầu
+- China giảm >1/3 từ 2015 peak (~$1.2T)
+- Tháng 3/2026: private inflow +$111.4B; official outflow −$14.9B (CBs ngoại bán, tư nhân mua)
+- Foreign holdings ~33% marketable debt = structural demand floor, không phải captive
+
+## Đường Cong Treasury (H.15 June 25, 2026 — Confirmed)
+
+*Nguồn: Federal Reserve H.15 release, June 26, 2026*
+
+| Kỳ hạn | Yield | | Kỳ hạn | Yield |
+|--------|------|-|--------|------|
+| 1M | 3.70% | | 5Y | 4.15% |
+| 3M | 3.84% | | 7Y | 4.26% |
+| 6M | 3.95% | | **10Y** | **4.40%** |
+| 1Y | 3.96% | | 20Y | 4.87% |
+| **2Y** | **4.09%** | | **30Y** | **4.86%** |
+| 3Y | 4.13% | | EFFR | 3.63% |
+
+- **2s10s: +31bp** (H.15) / **3m10y: +56bp** / **2s30s: +77bp**
+- Bear steepening: short end neo Fed funds; long end driven bởi ACM term premium +0.73–0.83%
+
 ## Evidence / Source Anchors
 
 - Clipping tổng hợp: [RAW-CLIPPING: US_Treasury_H1_2026_Refunding_And_Debt.md]
-- Q2 refunding statement: [WEB-2026-05-06: home.treasury.gov/news/press-releases/sb0305]
-- MSPD May 2026: [WEB-2026-06-04: fiscaldata.treasury.gov/datasets/monthly-statement-public-debt]
-- Gross debt $39T: [WEB-2026-03-17: crfb.org]
-- ACM term premium: [WEB-2026-05-28: newyorkfed.org/research/data_indicators/term-premia-tabs]
-- OBBBA CBO score: [WEB-2026: crfb.org/blogs/cbo-score-shows-senate-obbba]
+- Q2 refunding statement: [WEB-2026-05-06: home.treasury.gov/news/press-releases/sb0489] → `Treasury_Q2_2026_Refunding_Details.md`
+- MSPD May 2026: [WEB-2026-06-04: fiscaldata.treasury.gov] 
+- ACM term premium: [WEB-2026-05-15: eco3min.fr citing NY Fed ACM] → `ACM_Term_Premium_H1_2026.md`
+- H.15 yield curve June 25: [RAW-OFFICIAL: Fed H.15 2026-06-26] → `Treasury_Yield_Curve_H15_June2026.md`
+- TIC foreign holders April 2026: [WEB-2026-04-15: wolfstreet.com] → `TIC_Foreign_Holdings_April2026.md`
+- SOFR H1 2026: [RAW-OFFICIAL: sofrrate.com + global-rates.com] → `SOFR_IORB_Spread_H1_2026.md`
 
 ## Related
 

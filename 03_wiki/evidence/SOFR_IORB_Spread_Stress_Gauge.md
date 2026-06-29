@@ -63,12 +63,29 @@ Khi reserves abundant, ngân hàng arbitrage chênh lệch IORB vs repo rate →
 - **QT2 (6/2022–12/2025):** Tổng reserves *không* giảm nhiều dù QT, vì tới **$2.5T reserves được thay bằng ONRRP**. Khi ONRRP cạn (còn $2.3B tại 24/06/2026 — xem [[Treasury_General_Account_Mechanism]]), tấm đệm này biến mất → SOFR–IORB nhạy hơn hẳn với mọi cú rút reserves.
 - **Minh họa hành vi reserves:** JPMorgan rút gần **$350B** khỏi tài khoản Fed từ 2023 (từ $409B cuối 2023 còn $63B Q3/2025) để mua UST — cho thấy phần lớn reserves "dư" được coi là danh mục đầu tư, không phải nhu cầu vận hành.
 
+### SOFR–IORB Monthly H1 2026 — Confirmed Data
+
+*IORB = 3.75% (upper bound Fed funds 3.50–3.75%, unchanged H1 2026). SRF = 3.85%.*
+
+| Tháng | SOFR avg | SOFR–IORB avg | High/Low | Stress? |
+|-------|---------|--------------|---------|---------|
+| Jan | 3.66% | **−9bp** | H: 3.75%=IORB ⚠️ / L: 3.63% | Tháng căng nhất — Jan high chạm floor |
+| Feb | 3.67% | −8bp | H: 3.73% / L: 3.63% | Bình thường |
+| Mar | 3.65% | −10bp | H: 3.71% / L: 3.62% | Bình thường |
+| Apr | 3.64% | −11bp | H: 3.72% / L: 3.57% | Bình thường |
+| May | 3.59% | **−16bp** | H: 3.64% / L: 3.50% | Very ample (SOFR −25bp IORB) |
+| Jun | 3.63% | −12bp | H: 3.69% / L: 3.59% | Bình thường; spike Jun 15 (−6bp) |
+
+**Kết luận H1 2026:** Không có SRF breach (max SOFR = 3.75% = IORB đúng, Jan). Spread range −25bp đến 0bp — ample reserves regime. Q2-end 30/06 là điểm rủi ro gần nhất (FBO window-dressing, không có ON RRP buffer).
+
+*[RAW-OFFICIAL: SOFR_IORB_Spread_H1_2026.md — sourced từ sofrrate.com + global-rates.com, June 2026]*
+
 ---
 
 ## 4. Ranh giới / Diễn giải (Boundary)
 
 - **Gauge, không phải nhân quả tức thời:** spread có thể nhảy "với rất ít cảnh báo" (17/09/2019) — quan hệ reserves↔spread là phi tuyến, đuôi dày. Mức reserves "an toàn" hôm nay không đảm bảo an toàn ngày mai nếu payment delay tăng.
-- **Khoảng trống dữ liệu:** Corpus hiện có các *mốc tham chiếu* sourced (trên), **chưa có chuỗi spread daily H1 2026** đầy đủ. Cần ingest FRED (IORB) + NY Fed (SOFR) để dựng timeseries. [LLM — cần raw source: FRED/NY Fed daily SOFR–IORB H1 2026]
+- **Data đã ingest H1 2026:** Chuỗi monthly SOFR H1 2026 + June daily đã ingest → `SOFR_IORB_Spread_H1_2026.md`. Xác nhận không có SRF breach. Khoảng trống còn lại: daily Jan–May (chưa có ngày cụ thể), và IORB timeline chi tiết nếu có thay đổi Fed funds target trong H1.
 
 ---
 

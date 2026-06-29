@@ -20,7 +20,7 @@ school: ''
 superseded_by: null
 superseded_date: null
 expert_lens: "Darrell Duffie | John H. Cochrane"
-provenance: "TBAC framework; Cochrane (2026-02-17); LLM-E for H1 2026 specifics"
+provenance: "TBAC framework; Cochrane (2026-02-17); Treasury Q2 refunding sb0489 (May 2026); H.15 Fed; PGPF refunding summary"
 thesis: "Quản lý nợ Kho bạc là quy trình tối ưu hóa chi phí tài chính dài hạn thông qua
   lựa chọn kỳ hạn (bills vs coupons), quy mô đấu thầu, và tần suất phát hành. Nguyên
   tắc cốt lõi là 'regular and predictable' nhằm duy trì thanh khoản thị trường. Trong
@@ -123,11 +123,12 @@ Quy mô nhỏ ($3–5B/phiên) nhưng signal quan trọng về Treasury's liquid
 
 ## Evidence / Source Anchors
 
-- TBAC recommendation framework: [LLM-ref: TBAC quarterly reports — cần ingest]
+- Q2 2026 refunding (3Y $58B / 10Y $42B / 30Y $25B; net new cash $41.7B): [RAW-OFFICIAL: sb0489 May 6 2026] → `Treasury_Q2_2026_Refunding_Details.md`
+- Gross H1+Q3 borrowing $683B (+$249B YoY); 4-week bill avg $101B/issuance: [RAW-OFFICIAL: PGPF Q2 refunding summary]
 - Maturity structure ownership — Warsh/Cochrane framework: [[Fed_Treasury_Accord_1951_And_Warsh_Proposal]] [WEB-2026-02-17]
-- Gross H1 borrowing $683B: [RAW-OFFICIAL: Treasury Q2 2026 Refunding]
-- Extraordinary measures mechanics: [LLM-E — cần ingest Treasury MSPD]
-- H1 2026 yields, WAM estimates: [LLM-E — cần ingest FRED + MSPD]
+- TIPS Q2-Q3 2026 sizes: 10Y $19B, 5Y $24B, 10Y new $21B [RAW-OFFICIAL: sb0489]
+- H1 2026 yield curve confirmed: 2Y 4.09% / 10Y 4.40% / 30Y 4.86% [RAW-OFFICIAL: H.15 Jun 25] → `Treasury_Yield_Curve_H15_June2026.md`
+- Bills 21.44% > TBAC target 15-20%; WAM 70m = 5.83yr [WEB-2026-06-04: MSPD]
 
 ## Related
 
