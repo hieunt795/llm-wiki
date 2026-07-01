@@ -4,10 +4,10 @@ Knowledge infrastructure refactored for atomic retrieval and scalability.
 
 | Category | Sub-Index | Node Count |
 | :--- | :--- | :--- |
-| Mechanisms | [Link](index/index_mechanisms.md) | 483 |
+| Mechanisms | [Link](index/index_mechanisms.md) | 501 |
 | Definitions | [Link](index/index_definitions.md) | 100 |
 | Relationships | [Link](index/index_relationships.md) | 29 |
-| Concepts | [Link](index/index_concepts.md) | 136 |
+| Concepts | [Link](index/index_concepts.md) | 152 |
 | Conventions | [Link](index/index_conventions.md) | 18 |
 | Evidence | [Link](index/index_evidence.md) | 24 |
 | Perspectives | [Link](index/index_perspectives.md) | 42 |
