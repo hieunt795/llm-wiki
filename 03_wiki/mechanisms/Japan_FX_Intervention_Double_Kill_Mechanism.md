@@ -53,3 +53,4 @@ Chuỗi truyền dẫn vận hành qua 4 giai đoạn:
 - [[Money_Base_MB_Dynamics]]
 - [[Japan_FX_Intervention_May_2026_Event]]
 - [[JP_Domain]]
+- [[Japanese_Premium_Synthetic_Loans]]

@@ -63,3 +63,5 @@ Lãi suất cao → [Lỗ chưa thực hiện danh mục AFS] → Quy định AO
 - [[Capital_Flow_Management_CFM_Instruments]]
 - [[Bank_Lending_and_Capital_Channels_Perry]]
 - [[Foreign_Capital_Flows_Determinants]]
+- [[Capital_Flows_BOP_Macroeconomic_Impact]]
+- [[Paradox_of_Foreign_Capital_Flows]]

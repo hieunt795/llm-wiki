@@ -75,3 +75,5 @@ This analogy supports the **Minsky theory of the business cycle**: "Stability is
 - [[Inflation_Targeting_Economic_Performance_Evaluation]]
 - [[FRN_Market_Risk_Duration]]
 - [[ITF_Conceptual_Theoretical_Models]]
+- [[Currency_Substitution_Dollarization]]
+- [[Inflation_Taxonomy]]

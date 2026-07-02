@@ -22133,6 +22133,24 @@
       "id": "Capital_Flows_BOP_Macroeconomic_Impact_thesis",
       "community": 10,
       "norm_label": "Capital inflows generate four macroeconomic policy"
+    },
+    {
+      "label": "Stock vs. Flow Distinction",
+      "file_type": "document",
+      "source_file": "03_wiki\\concepts\\Stock_Flow_Distinction.md",
+      "source_location": "L1",
+      "id": "Stock_Flow_Distinction",
+      "community": 10,
+      "norm_label": "Stock vs. Flow Distinction"
+    },
+    {
+      "label": "A flow variable measures a transaction or quantity per unit of time (recorded during a period); a stock variable measures a quantity at a point in time; the two are connected by the three-part accumulation identity \u2014 Stock(t) = Stock(t-1) + Net Flows(t) + Other Changes in Assets(t) \u2014 where the OCA term (valuation effects, write-offs, volume changes) is the component most frequently omitted in practice, causing systematic mismeasurement of stock trajectories from flow data alone.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\concepts\\Stock_Flow_Distinction.md",
+      "source_location": "L1",
+      "id": "Stock_Flow_Distinction_thesis",
+      "community": 10,
+      "norm_label": "A flow variable measures a transaction or quantity"
     }
   ],
   "links": [
@@ -98792,6 +98810,66 @@
     {
       "source": "Capital_Flows_BOP_Macroeconomic_Impact",
       "target": "Monetary_Survey_Identity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Stock_Flow_Distinction_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Stock_Flow_Distinction",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Monetary_Survey_Identity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "External_Debt_Stocks_and_Flows",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "System_of_National_Accounts_SNA",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Flow_of_Funds_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Macroeconomic_Accounting_Identities",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Quasi_Fiscal_Operations",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "GFS_Fiscal_Deficit_Measures",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Stock_Flow_Distinction",
+      "target": "Money_Multiplier_IMF_Framework",
       "label": "links_to",
       "type": "reference"
     }

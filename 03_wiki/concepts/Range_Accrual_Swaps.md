@@ -41,3 +41,5 @@ updated: '2026-05-07'
 - [[Interest_Rate_Swap_IRS]]
 - [[Credit_Default_Swaps_CDS]]
 - [[Credit_Default_Swaps_Schofield]]
+- [[Forward_ASW_And_Inflation_Swaps]]
+- [[Asset_Swap_Structure]]

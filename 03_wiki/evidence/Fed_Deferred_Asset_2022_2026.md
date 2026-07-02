@@ -114,3 +114,5 @@ Nếu Warsh triển khai "bills-only RMP":
 - [[Reserve_Management_Purchases_RMP]] — RMP đang dần đổi composition portfolio, tăng income
 - [[Unconventional_Monetary_Policy_Taxonomy]] — QE là nguồn gốc của deferred asset
 - [[TOMO_Reserve_Supply_Sterilization]] — Công cụ vận hành không liên quan đến P&L
+- [[QE_Empirical_Evidence]]
+- [[Asset_Price_Transmission_Channel]]

@@ -606,6 +606,8 @@ def main():
     parser.add_argument("--no-wiki", action="store_true",      help="Search raw only")
     parser.add_argument("--no-semantic", action="store_true",
                         help="Disable semantic merge (keyword BM25 only)")
+    parser.add_argument("--semantic",    action="store_true",
+                        help="Prefer semantic/RRF mode (requires vector index; warns if missing)")
     args = parser.parse_args()
 
     # Query routing + synonym expansion
@@ -622,6 +624,8 @@ def main():
     query_str       = " | ".join(expanded_phrases)
 
     index_exists = (WIKI_ROOT / ".cache" / "wiki_embed.index").exists()
+    if getattr(args, "semantic", False) and not index_exists:
+        print("[WARN] --semantic specified but vector index not found; falling back to BM25-only", file=sys.stderr)
     use_semantic = not args.no_semantic and index_exists
     mode_label   = "RRF(keyword+semantic)" if use_semantic else "keyword-only"
     if not args.json:

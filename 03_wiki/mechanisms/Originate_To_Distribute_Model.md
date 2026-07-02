@@ -96,3 +96,5 @@ graph LR
 - [[Portfolio_Rebalancing_Strategies]]
 - [[FRN_Market_Risk_Duration]]
 - [[LSOC_Mechanism]]
+- [[Margin_Procyclicality]]
+- [[Portfolio_Volatility_MultiFactor]]

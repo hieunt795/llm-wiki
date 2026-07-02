@@ -71,3 +71,4 @@ Sự dịch chuyển này làm giảm rủi ro tập trung tại các ngân hàn
 - [[Private_Credit_Valuation_Mark_To_Model]]
 - [[Vietnam_Private_Credit_Outlook_2025]]
 - [[Private_Credit_Stress_Transmission]]
+- [[Retailization_of_Private_Credit]]

@@ -213,11 +213,16 @@ def deep_dive(query: str, threshold: int = 2) -> None:
     print(f"Draft saved → {out_file}")
 
 
-if __name__ == "__main__":
+def main():
     parser = argparse.ArgumentParser(description="DeepDive Search v2.1 — Detect → Drill → Draft")
     parser.add_argument("query",                           help="Research query")
     parser.add_argument("--threshold", type=int, default=2, help="Thin-node confidence threshold (default: 2)")
+    parser.add_argument("--top",       type=int, default=8, help=argparse.SUPPRESS)  # forwarded by pipeline, ignored here
     args = parser.parse_args()
     deep_dive(args.query, threshold=args.threshold)
+
+
+if __name__ == "__main__":
+    main()
 
 

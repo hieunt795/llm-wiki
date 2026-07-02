@@ -136,3 +136,9 @@ Four principal factors determining the overall incentive structure for exportabl
 3. **ERP vs. nominal tariff:** The effective rate of protection diverges significantly from nominal tariff rates when inputs are taxed differently from outputs. A high nominal tariff on final goods with zero tariff on inputs creates very high ERPs; a modest nominal tariff with high input tariffs can produce negative ERPs (penalizing domestic value-added). For transition economy analysis, constructing ERP maps is essential to identify which sectors are genuinely competitive at world prices.
 
 4. **Four-indicator RER assessment in practice:** None of the four indicators dominates. Practitioners typically weight them by context: in a capital-account-liberalized economy, capital flight (indicator 2) and parallel market premium (indicator 4) are more informative than the current account (slow-reacting, indicator 3). In a controlled economy with multiple exchange rates, the parallel premium is the primary signal.
+
+
+## Related
+
+- [[International_Reserve_Adequacy]]
+- [[Capital_Flows_BOP_Macroeconomic_Impact]]

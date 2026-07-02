@@ -61,3 +61,5 @@ updated: '2026-04-28'
 - [[Fiscal_Dominance]]
 - [[Fiscal_Space]]
 - [[Fiscal_Space_Concept]]
+- [[Flow_of_Funds_Framework]]
+- [[Functional_Finance_Framework]]

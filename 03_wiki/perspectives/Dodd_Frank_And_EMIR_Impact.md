@@ -65,3 +65,5 @@ updated: '2026-04-22'
 - [[LIBOR_And_Term_Benchmark_Fragility]]
 - [[Asset_Swap_Structure]]
 - [[Barrier_Options]]
+- [[Binary_Options_Digital]]
+- [[Credit_Default_Swaps_Schofield]]

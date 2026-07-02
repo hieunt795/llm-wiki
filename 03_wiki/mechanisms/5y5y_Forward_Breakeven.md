@@ -87,3 +87,5 @@ By isolating this specific curve segment, a trader can execute a Forward Breakev
 - [[Asymmetric_Phillips_Curve_Dynamics]]
 - [[Forward_ASW_And_Inflation_Swaps]]
 - [[Inflation_Linked_Bond_Trading_Strategies]]
+- [[Inflation_Taxonomy]]
+- [[Seigniorage_and_Inflation_Tax]]

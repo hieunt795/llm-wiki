@@ -77,3 +77,5 @@ Thông qua [[Significant_Risk_Transfer_Structures]], rủi ro được chuyển 
 - [[Exogenous_Risk_LOLR]]
 - [[ELTIF_And_AIFMD_Framework]]
 - [[European_Private_Credit_Market]]
+- [[FRN_Market_Risk_Duration]]
+- [[Herstatt_Risk]]

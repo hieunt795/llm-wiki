@@ -71,3 +71,4 @@ Thị trường [[Private_Credit]] tại khu vực Châu Á - Thái Bình Dươn
 - [[Private_Credit_Valuation_Mark_To_Model]]
 - [[Regulatory_Arbitrage_In_Private_Credit]]
 - [[Vietnam_Private_Credit_Outlook_2025]]
+- [[Global_Drivers_Of_Private_Credit]]

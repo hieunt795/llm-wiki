@@ -214,3 +214,5 @@ This glossary contains essential terminology and dealing jargon used in the trea
 - [[Central_Bank_Definition]]
 - [[Central_Bank_Definition_And_Mandates]]
 - [[Central_Bank_Evolutionary_Episodes]]
+- [[Central_Bank_Independence_Dimensions]]
+- [[Central_Bank_Independence_Framework]]

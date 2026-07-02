@@ -62,3 +62,5 @@ Khi người dùng thực hiện truy vết các ô [[Money|tiền]] tố (trace
 - [[Collateral_Scarcity_And_Effective_Term_Funding_Costs]]
 - [[Asset_Swap_Structure]]
 - [[Credit_Default_Swaps_Schofield]]
+- [[Monetary_Survey_Banking_System_Structure]]
+- [[Credit_Trading_Applications_Term_Structure_And_Single_Entity]]

@@ -20,10 +20,13 @@ tags:
 | End-Sep 2024 | -0.10% | Near zero, approaching positive |
 | End-Jan 2025 | +0.49% | **First turn positive after multi-year negative regime** |
 | ~Q1 2026 | ~+0.60–0.70% [interpolated] | Continued normalization |
-| April 2026 | **+0.73%** | Confirmed positive |
-| May 15, 2026 | **+0.83%** | Most recent sourced data point |
+| April 30, 2026 | **+0.73%** | Confirmed positive |
+| May 15, 2026 | **+0.83%** | H1 peak so far |
+| May 28, 2026 | **+0.67%** | Pullback from May 15 peak |
 
-**Most recent sourced value: +0.83% (May 15, 2026)** [WEB-2026-05-15: eco3min.fr citing NY Fed ACM series]
+**Most recent sourced value: +0.67% (May 28, 2026)** [WEB-2026-06: MacroMicro/streetstats citing NY Fed ACM series]. June 2026 daily/monthly value not obtained — NY Fed direct page (403) and secondary aggregators did not surface a June print as of this ingest (2026-07-02).
+
+**Revised H1 2026 pattern:** not a monotonic climb — ACM 10Y oscillates in a **+0.6% to +0.8% band**, peaking mid-May then pulling back. Still well below the 65-year median (+1.41%).
 
 ---
 

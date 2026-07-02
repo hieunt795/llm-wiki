@@ -126,3 +126,5 @@ The mechanism operates through **three explicit bargains**:
 - [[Financial_Stability_Vs_Price_Stability_Tradeoff]] — The core tension in any Fed-Treasury framework
 - [[Central_Bank_Coordination_Framework]]
 - [[Monetary_Policy_Strategic_Framework]]
+- [[Indonesia_Monetary_Operational_Framework]]
+- [[Inflation_Targeting_Framework_And_Price_Stability]]

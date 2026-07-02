@@ -200,3 +200,5 @@ Once nominal interest rates hit zero, inflation targets below zero become mechan
 - [[Inflation_Targeting_Economic_Performance_Evaluation]]
 - [[Indonesia_Inflation_Targeting_Framework_Legal_Foundation]]
 - [[Flexible_Inflation_Targeting_Framework]]
+- [[Headline_vs_Core_Inflation_Targeting]]
+- [[Inflation_Targeting_Framework_Institutional_Evolution]]

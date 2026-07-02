@@ -121,3 +121,5 @@ WRITEBACK
 - [[Eurodollar_Futures]]
 - [[Basis_Trading_Mechanics_And_Options]]
 - [[Forward_Swap_Relative_Value]]
+- [[FX_Forward_Engineering]]
+- [[Cross_Currency_Rates_Synthetics]]

@@ -25,7 +25,7 @@ thesis: Luận điểm trung tâm của Duffie (BPEA 2026): quy mô tối thiể
 source_refs:
 - file: Duffie_BPEA_Payments_Liquidity_2026.md
 created: '2026-06-27'
-updated: '2026-06-27'
+updated: '2026-07-02'
 ---
 
 # [[Payment_System_Floor_On_Fed_Balance_Sheet]]
@@ -52,6 +52,8 @@ Ba động lực (Duffie §I.D):
 - Khi reserves tụt quá sàn → một số ngân hàng **throttle thanh toán ra** ([[Receipt_Reactive_Payment_Throttling]]) → shadow price của reserves vọt → repo rate bật trên IORB.
 - **29/10/2025:** FOMC tuyên bố ngừng thu hẹp bảng cân đối — kích hoạt bởi đà nới rộng SOFR–IORB (xem [[SOFR_IORB_Spread_Stress_Gauge]]).
 - **10/12/2025:** Fed khởi động RMP (~$40B reserves/tháng đến 5/2026) — *"hoàn toàn tách biệt khỏi chính sách tiền tệ"* (Powell), chỉ để giữ ample reserves.
+
+**Cập nhật thực nghiệm (weekly H.4.1, 23 điểm, 2026-07-02):** Đáy reserves thực tế của H1 2026 là **$2,901.8B (22/04/2026)** [RAW-OFFICIAL: Fed_H41_Weekly_Flow_H1_2026.md] — **thấp hơn ~$100B** so với mốc "~$3,000B" thường được trích dẫn làm sàn ample [WEB-2026-04-11: Andreopoulos]. Đáy này rơi đúng vào mùa quyết toán thuế cá nhân (15/04): hai tuần 08/04→22/04, TGA tăng $310.1B trong khi reserves giảm $214.4B — một thí nghiệm tự nhiên khép kín xác nhận trực tiếp identity ΔReserves≈RMP−ΔTGA (residual "other factors" chỉ +$62.9B). Đối chiếu SOFR–IORB tháng 4/2026: trung bình -11bp, không có tín hiệu stress [RAW-OFFICIAL: SOFR_IORB_Spread_H1_2026.md]. Tức là sàn "binding" thực sự (nơi payment throttling bắt đầu kích hoạt) **vẫn chưa được test** dù đã hấp thụ cú sốc tài khóa lớn nhất H1 — $3,000B nên được coi là ước tính biên trên, không phải ngưỡng kích hoạt chính xác. Cần một cú sốc TGA lớn hơn $310B/2 tuần hoặc trùng FBO cuối quý để xác định sàn thật.
 
 ---
 

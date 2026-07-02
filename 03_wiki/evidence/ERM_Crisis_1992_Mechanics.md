@@ -90,3 +90,4 @@ This statement encapsulates the **reflexivity principle**: market participants' 
 - [[Turkish_Hyperinflation_Crisis]]
 - [[Basis_Trade_Crisis_2020]]
 - [[Cross_Currency_Rates_Synthetics]]
+- [[FX_Forward_Quoting_Conventions]]

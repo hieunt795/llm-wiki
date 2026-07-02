@@ -83,3 +83,5 @@ Because of this bias, receiving fixed on a swap is fundamentally safer than hold
 - [[Basis_Swap_Spreads_Valuation]]
 - [[Interest_Rate_Swap_IRS]]
 - [[Forward_Swap_Relative_Value]]
+- [[Swap_Spread_Dynamics]]
+- [[Credit_Default_Swaps_Schofield]]

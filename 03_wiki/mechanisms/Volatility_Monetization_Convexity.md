@@ -72,3 +72,5 @@ updated: '2026-04-22'
 - [[Interest_Rate_Swap_Plain_Vanilla]]
 - [[Basis_Trading_Mechanics_And_Options]]
 - [[Credit_Instrument_Market_Risk_PV01_DV01]]
+- [[Forward_Risk_Basis_Risk]]
+- [[Asset_Swap_Structure]]

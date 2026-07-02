@@ -90,3 +90,5 @@ Perry Warjiyo bóc tách ranh giới của việc bãi bỏ MCI (Canada giảm v
 - [[monetary_policy_transparency]]
 - [[PBOC_Monetary_Policy_Transmission]]
 - [[Unconventional_Monetary_Policy_Taxonomy]]
+- [[Fiscal_Dominance]]
+- [[International_Reserve_Adequacy]]

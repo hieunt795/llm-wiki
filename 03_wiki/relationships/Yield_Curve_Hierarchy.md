@@ -38,3 +38,5 @@ updated: '2026-04-22'
 - [[Curve_Outlier_Treatment]]
 - [[Par_Yield_Curve]]
 - [[Yield_Curve_Construction_Modeling]]
+- [[Yield_Curve_Factor_Analysis_PCA]]
+- [[Forward_Yield_Curves]]

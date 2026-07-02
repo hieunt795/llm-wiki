@@ -80,3 +80,5 @@ When spreads widen due to systemic risk:
 - [[Indonesia_ITF_Post_Adoption_Transmission]]
 - [[Monetary_Policy_Transmission_Mechanism_MPTM_Indonesia_Edition]]
 - [[Bank_Lending_Transmission_Channel]]
+- [[Government_Subsidies_Taxonomy]]
+- [[Inflation_Taxonomy]]

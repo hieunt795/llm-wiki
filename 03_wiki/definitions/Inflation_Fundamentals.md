@@ -39,3 +39,5 @@ updated: '2026-05-07'
 - [[Inflation_Linked_Bond_Pricing]] — Valuation of linker instruments
 - [[Indonesia_ITF_Post_Adoption_Transmission]]
 - [[Inflation_Targeting_Economic_Performance_Evaluation]]
+- [[Inflation_Taxonomy]]
+- [[Inflation_Target_Formulation]]

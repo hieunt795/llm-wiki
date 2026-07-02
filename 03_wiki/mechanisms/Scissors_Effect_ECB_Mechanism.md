@@ -72,3 +72,5 @@ Hiệu ứng cái kéo đạt đỉnh khi **Lượng rút lui của ECB > Lượ
 - [[Global_Sovereign_Bond_Markets]]
 - [[ECB_Institutional_Architecture]]
 - [[Fiscal_Dominance]]
+- [[Inflation_Indexed_Bonds]]
+- [[Sovereign_Debt_Risk_Dynamics]]

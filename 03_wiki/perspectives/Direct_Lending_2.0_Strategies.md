@@ -77,3 +77,5 @@ Sự chuyển dịch này cho thấy Private Credit không còn là "lựa chọ
 - [[Bank_Lending_and_Capital_Channels_Perry]]
 - [[Option_Directional_Volatility_Strategies]]
 - [[Bank_Lending_Transmission_Channel]]
+- [[Bank_Private_Credit_Partnership]]
+- [[Basel_III_Impact_On_Private_Credit]]

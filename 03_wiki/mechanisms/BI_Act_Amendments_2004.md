@@ -56,3 +56,5 @@ chapter: 9
 - [[Dodd_Frank_And_JOBS_Act]]
 - [[Central_Bank_Independence_Dimensions]]
 - [[Central_Bank_Operational_Frameworks]]
+- [[Central_Bank_Operational_Framework_Design]]
+- [[Indonesia_Inflation_Targeting_Framework_Legal_Foundation]]

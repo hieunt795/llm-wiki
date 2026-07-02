@@ -75,3 +75,5 @@ The relatively high offset (0.7) vs. low sterilization (0.5) proves that Indones
 - [[Fiscal_Dominance]]
 - [[Indonesia_ITF_Post_Adoption_Transmission]]
 - [[Inflation_Targeting_Economic_Performance_Evaluation]]
+- [[Capital_Flows_BOP_Macroeconomic_Impact]]
+- [[Currency_Substitution_Dollarization]]
