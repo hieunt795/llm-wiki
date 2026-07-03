@@ -1,6 +1,7 @@
 # Fed Balance Sheet H1 2026 — Tổng Hợp
 > MODE DEEP | 2026-06-29 | Analyst: Claude (claude-sonnet-4-6)
 > Nguồn: [RAW-OFFICIAL: H.4.1 24/06/2026] · [RAW-BOOK: Duffie BPEA 2026] · [RAW-OFFICIAL: Perli NY Fed 26/03/2026] · [WEB-2026-02-17: Cochrane] · [WEB-2026-04-11: Andreopoulos] · [RAW-BOOK: Copeland–Duffie–Yang 2025]
+> **Ghi chú (2026-07-03):** Đã hợp nhất vào `2026-07-03_fed-balance-sheet-h1-2026-unified-mode-deep.md` — xem file đó để có kết luận hiện hành (bao gồm số liệu đã tinh chỉnh từ chuỗi flow thực nghiệm). File này giữ nguyên để tham khảo chi tiết gốc.
 
 ---
 

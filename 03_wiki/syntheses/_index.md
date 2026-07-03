@@ -4,9 +4,3 @@
 - [[2026-04-29_monetary_policy_synthesis]] — Wisdom synthesis of 148 nodes tagged [monetary-policy]: top hubs Inflation_Targeting_Frame...
 - [[Fixed_Income_Synthesis]] — Canonical wisdom synthesis of the Fixed Income domain, focusing on inflation metrics, bond...
 - [[Monetary_Policy_Synthesis]] — Canonical wisdom synthesis of the Monetary Policy domain, tracking core hubs (ITF, MPTM) a...
-
-
-## Related
-
-- [[Bond_Index_Principles]]
-- [[Overnight_Index_Swap_OIS]]

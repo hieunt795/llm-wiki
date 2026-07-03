@@ -28,7 +28,7 @@ source_refs:
 - file: During_Fixed_Income_Ch21.md
   page: 212
 created: '2026-06-29'
-updated: '2026-06-29'
+updated: '2026-07-03'
 ---
 
 ## Thesis
@@ -80,6 +80,10 @@ Nếu RMP chuyển sang chỉ mua T-bill: notes/bonds chạy off theo WAM ~7–8
 
 Kênh cung là độc lập với kênh kỳ vọng (forward guidance). Nếu Fed pivot sang nới lỏng, kỳ vọng đường đi giảm có thể bù đắp term premium nới rộng, giữ tổng 10Y yield ổn định. Phân tách ACM là cần thiết để tách biệt hai lực này.
 
+## Cập Nhật 2026-07-03 — Driver Đã Xác Định Cho Kỳ Vọng Đường Đi
+
+Nghiên cứu yield curve trước đó (xem `06_publish/2026-06-29_us-treasury-balance-sheet-yield-curve-h1-2026.md`) đã ghi nhận bear-flattening H1 2026 (2s10s thu hẹp +72bp→+31-35bp, front-end dẫn dắt) và ACM term premium tăng, nhưng chưa xác định rõ nguyên nhân kỳ vọng đường đi thay đổi. [RAW-OFFICIAL: FOMC minutes 2026-01/03/04, SEP 2026-06-17] Fed đã bỏ tín hiệu cắt lãi suất trước đó, chuyển sang ngôn ngữ "deliver price stability" sau 5 năm trên mục tiêu 2%, và phát tín hiệu khả năng tăng lãi suất — được kích hoạt bởi cú sốc năng lượng Trung Đông (Hormuz, headline CPI 4.2%/PCE 4.1% YoY) và bằng chứng broadening ở cấp độ producer (PPI core +0.8% MoM, Stage-1/Stage-4 gap nới rộng). Xem [[US_CPI_PPI_PCE_H1_2026]] và [[PPI_Stage_Differential_IO_Cascade_Diagnostic]] — kênh kỳ vọng (hawkish pivot) và kênh cung (duration extraction đảo ngược) đang cùng chiều trong H1 2026, khuếch đại thay vì bù trừ lẫn nhau.
+
 ## Evidence / Source Anchors
 
 - ACM model và phân tách lợi suất: [[ACM_Curve_Decomposition]] [RAW-BOOK: During_Fixed_Income_Ch21.md]
@@ -100,3 +104,5 @@ Kênh cung là độc lập với kênh kỳ vọng (forward guidance). Nếu Fe
 - [[Unconventional_Monetary_Policy_Taxonomy]] — Vị trí QE trong bức tranh UMP
 - [[Quantitative_Tightening_Mechanism]] — QT đảo ngược supply channel: trả duration về thị trường
 - [[Fed_Deferred_Asset_2022_2026]] — P&L mismatch: chi phí tài khóa của duration extraction
+- [[US_CPI_PPI_PCE_H1_2026]] — Dữ liệu lạm phát xác định driver cho hawkish pivot H1 2026
+- [[PPI_Stage_Differential_IO_Cascade_Diagnostic]] — Chỉ báo broadening ở cấp độ producer, tiền đề cho kỳ vọng lãi suất

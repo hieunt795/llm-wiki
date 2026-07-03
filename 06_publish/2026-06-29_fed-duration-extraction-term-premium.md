@@ -2,6 +2,8 @@
 
 **MODE DEEP | 2026-06-29**
 
+> **Ghi chú (2026-07-03):** Đã hợp nhất vào `2026-07-03_fed-balance-sheet-h1-2026-unified-mode-deep.md` — xem file đó để có kết luận hiện hành. File này giữ nguyên để tham khảo chi tiết gốc (kịch bản Warsh A/B/C, mức ACM term premium theo từng năm, bộ khuếch đại convexity).
+
 **Thesis:** Các chương trình QE của Fed (2008–2021) đã hút duration risk ra khỏi thị trường tư nhân ở quy mô lớn, nén ACM 10Y term premium xuống khoảng -100bp ở đỉnh. Với QT kết thúc 01/12/2025 và RMP giữ bảng cân đối phẳng, hiệu ứng "stock" bị đóng băng tại mức hiện tại — nhưng phát hành trái phiếu Kho bạc H1 2026 đạt $683B ($+249B so với cùng kỳ) đang cộng thêm cung duration vào thị trường tư nhân mỗi tuần mà không có Fed bù đắp. Kết quả cấu trúc là quá trình đảo ngược từ từ của kênh truyền dẫn chủ đạo trong QE: term premium nới rộng dần khi hiệu ứng kìm nén nhân tạo thoái lui.
 
 ## Top-Down Entry

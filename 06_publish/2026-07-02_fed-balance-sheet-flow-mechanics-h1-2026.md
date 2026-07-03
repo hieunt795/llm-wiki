@@ -1,6 +1,7 @@
 # Fed Balance Sheet H1 2026 — Flow Mechanics (Chuỗi Tuần Thực Nghiệm)
 > MODE DEEP | 2026-07-02 | Analyst: Claude (claude-sonnet-5)
 > Nguồn: [RAW-OFFICIAL: Fed H.4.1 weekly 23 điểm Jan–Jun 2026] · [RAW-OFFICIAL: Treasury Fiscal Data auctions_query — notes/bonds/bills] · [RAW-OFFICIAL: SOFR_IORB_Spread_H1_2026] · [WEB-2026-06: ACM 10Y term premium] · [RAW-BOOK: Duffie BPEA 2026]
+> **Ghi chú (2026-07-03):** Đã hợp nhất vào `2026-07-03_fed-balance-sheet-h1-2026-unified-mode-deep.md` — xem file đó để có kết luận hiện hành. File này giữ nguyên để tham khảo walkthrough đầy đủ của identity check 23 điểm.
 
 ---
 

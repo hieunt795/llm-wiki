@@ -90,7 +90,7 @@ The mechanism operates through **three explicit bargains**:
 
 ## Worked Example: Interpreting Warsh's 2026 Proposal
 
-**Context:** Kevin Warsh (Trump-era Fed governor, 2023–2026) published commentary in Feb 2026 invoking a "new Fed-Treasury Accord" to resolve tensions over Fed bond holdings and maturity structure.
+**Context:** Kevin Warsh published commentary in Feb 2026 invoking a "new Fed-Treasury Accord" to resolve tensions over Fed bond holdings and maturity structure. **Update (2026-07-03):** Warsh was confirmed and sworn in as Federal Reserve Chairman, holding his first FOMC press conference as Chair on 2026-06-17 [RAW-OFFICIAL: Warsh_FOMC_PressConf_20260617_And_Sintra.md] — the Feb 2026 commentary below should now be read as the sitting Chair's own prior position, not an external proposal he might later be pressured to adopt. His first press conference announced a balance-sheet task force to "review the benefits and risks of the current ample-reserves regime and the composition of the Fed's balance sheet," directly consistent with the maturity-structure-ownership pillar described below — this is no longer speculative pressure but an active internal review under his own chairmanship.
 
 **Market Interpretation (Naive):** "Warsh wants Treasury to control Fed policy" → Fear that Fed will print money to finance deficits.
 
