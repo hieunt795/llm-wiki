@@ -22241,6 +22241,123 @@
       "id": "PPI_Stage_Differential_IO_Cascade_Diagnostic_thesis",
       "community": 10,
       "norm_label": "When a supply shock exceeds production-network buf"
+    },
+    {
+      "label": "Warsh FOMC PressConf 20260617 And Sintra",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\Warsh_FOMC_PressConf_20260617_And_Sintra.md",
+      "source_location": "L1",
+      "id": "Warsh_FOMC_PressConf_20260617_And_Sintra",
+      "community": 20,
+      "norm_label": "Warsh_FOMC_PressConf_20260617_And_Sintra"
+    },
+    {
+      "label": "BOJ June 2026 Rate Hike \u2014 1.00% Amid Ueda's Absence and Yen Non-Response",
+      "file_type": "document",
+      "source_file": "03_wiki\\evidence\\BOJ_June_2026_Rate_Hike_Ueda_Absence.md",
+      "source_location": "L1",
+      "id": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "community": 10,
+      "norm_label": "BOJ June 2026 Rate Hike \u2014 1.00% Amid Ueda's Absence and Yen Non-Response"
+    },
+    {
+      "label": "The BOJ raised its policy rate 25bp to 1.00% on June 16, 2026 \u2014 its highest since 1995 \u2014 with Governor Ueda absent due to hospitalization, but the hike failed to stabilize USD/JPY, which reached fresh 40-year lows within two weeks, confirming that a single data-dependent hike cannot substitute for a materially narrower US-Japan rate differential.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\evidence\\BOJ_June_2026_Rate_Hike_Ueda_Absence.md",
+      "source_location": "L1",
+      "id": "BOJ_June_2026_Rate_Hike_Ueda_Absence_thesis",
+      "community": 10,
+      "norm_label": "The BOJ raised its policy rate 25bp to 1.00% on Ju"
+    },
+    {
+      "label": "FX Intervention \u2014 Ambush Tactic (Silence as Signal)",
+      "file_type": "document",
+      "source_file": "03_wiki\\mechanisms\\FX_Intervention_Ambush_Tactic.md",
+      "source_location": "L1",
+      "id": "FX_Intervention_Ambush_Tactic",
+      "community": 10,
+      "norm_label": "FX Intervention \u2014 Ambush Tactic (Silence as Signal)"
+    },
+    {
+      "label": "When telegraphed verbal intervention ('bold action' rhetoric) has been repeatedly arbitraged away by markets that learn to fade it, the monetary authority's rational response is to withdraw the signal itself \u2014 withholding customary warning language becomes the tactic, since predictable warnings let short-sellers price in and outlast a single intervention window, while genuine unpredictability raises the cost of holding a one-directional position.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\mechanisms\\FX_Intervention_Ambush_Tactic.md",
+      "source_location": "L1",
+      "id": "FX_Intervention_Ambush_Tactic_thesis",
+      "community": 10,
+      "norm_label": "When telegraphed verbal intervention ('bold action"
+    },
+    {
+      "label": "Benigno Japan May 2026 CPI Report",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\Benigno_Japan_May_2026_CPI_Report.md",
+      "source_location": "L1",
+      "id": "Benigno_Japan_May_2026_CPI_Report",
+      "community": 20,
+      "norm_label": "Benigno_Japan_May_2026_CPI_Report"
+    },
+    {
+      "label": "Japan May 2026 CPI Report",
+      "file_type": "document",
+      "source_file": "03_wiki\\evidence\\Japan_May_2026_CPI_Report.md",
+      "source_location": "L1",
+      "id": "Japan_May_2026_CPI_Report",
+      "community": 10,
+      "norm_label": "Japan May 2026 CPI Report"
+    },
+    {
+      "label": "Japan's May 2026 CPI printed below consensus on headline (1.5% YoY vs 1.6% forecast) and decelerated on core-core (1.8% vs 1.9% in April), even as goods inflation accelerated to 2.0% and wages rose in the high-2%-to-3% range, creating a soft-headline/hardening-underlying divergence that the BOJ's June 15-16 hike had already been priced against rather than confirmed by.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\evidence\\Japan_May_2026_CPI_Report.md",
+      "source_location": "L1",
+      "id": "Japan_May_2026_CPI_Report_thesis",
+      "community": 10,
+      "norm_label": "Japan's May 2026 CPI printed below consensus on he"
+    },
+    {
+      "label": "Japan Inflation Three-Force Decomposition",
+      "file_type": "document",
+      "source_file": "03_wiki\\mechanisms\\Japan_Inflation_Three_Force_Decomposition.md",
+      "source_location": "L1",
+      "id": "Japan_Inflation_Three_Force_Decomposition",
+      "community": 10,
+      "norm_label": "Japan Inflation Three-Force Decomposition"
+    },
+    {
+      "label": "Under a soft headline CPI print, the author reads Japan's inflation trajectory by decomposing it into three forces \u2014 a fading food-price impulse, an active energy pass-through channel, and an increasingly entrenched wage-price channel \u2014 and argues the BOJ weights the latter two more heavily as inflation nears 2%, which justifies tightening even when the headline print misses consensus.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\mechanisms\\Japan_Inflation_Three_Force_Decomposition.md",
+      "source_location": "L1",
+      "id": "Japan_Inflation_Three_Force_Decomposition_thesis",
+      "community": 10,
+      "norm_label": "Under a soft headline CPI print, the author reads "
+    },
+    {
+      "label": "China May-26 CPI Inflation Report",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\China May-26 CPI Inflation Report.md",
+      "source_location": "L1",
+      "id": "China May-26 CPI Inflation Report",
+      "community": 20,
+      "norm_label": "China May-26 CPI Inflation Report"
+    },
+    {
+      "label": "Japan May-26 CPI Inflation Report",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\Japan May-26 CPI Inflation Report.md",
+      "source_location": "L1",
+      "id": "Japan May-26 CPI Inflation Report",
+      "community": 20,
+      "norm_label": "Japan May-26 CPI Inflation Report"
+    },
+    {
+      "label": "US May-26 CPI Inflation Report",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\US May-26 CPI Inflation Report.md",
+      "source_location": "L1",
+      "id": "US May-26 CPI Inflation Report",
+      "community": 20,
+      "norm_label": "US May-26 CPI Inflation Report"
     }
   ],
   "links": [
@@ -99998,6 +100115,1092 @@
     {
       "source": "PPI_Stage_Differential_IO_Cascade_Diagnostic",
       "target": "GDP_Deflator_vs_CPI",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_April_2026_Rate_Decision",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_April_2026_Rate_Decision",
+      "target": "FX_Intervention_Ambush_Tactic",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "BOJ_April_2026_Rate_Decision",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "Japan_FX_Intervention_May_2026_Event",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "Japan_FX_Intervention_MOF_BOJ_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "BoJ_QE_2013_Case_Study",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "FX_Intervention_Ambush_Tactic",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "Japan_FX_Intervention_Double_Kill_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_FX_Intervention_May_2026_Event",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_FX_Intervention_May_2026_Event",
+      "target": "FX_Intervention_Ambush_Tactic",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FX_Intervention_Ambush_Tactic",
+      "target": "FX_Intervention_Ambush_Tactic_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "FX_Intervention_Ambush_Tactic",
+      "target": "Japan_FX_Intervention_Double_Kill_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FX_Intervention_Ambush_Tactic",
+      "target": "Japan_FX_Intervention_May_2026_Event",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FX_Intervention_Ambush_Tactic",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FX_Intervention_Ambush_Tactic",
+      "target": "Japan_FX_Intervention_MOF_BOJ_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_FX_Intervention_Double_Kill_Mechanism",
+      "target": "FX_Intervention_Ambush_Tactic",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_FX_Intervention_Double_Kill_Mechanism",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "Japan_May_2026_CPI_Report_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "BOJ_April_2026_Rate_Decision",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "US_CPI_PPI_PCE_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "Japan_FX_Intervention_May_2026_Event",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "target": "Japan_Inflation_Three_Force_Decomposition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_May_2026_CPI_Report",
+      "target": "Japan_Inflation_Three_Force_Decomposition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "Japan_Inflation_Three_Force_Decomposition_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "Japan_Inflation_Three_Force_Decomposition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "PPI_Stage_Differential_IO_Cascade_Diagnostic",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "BOJ_April_2026_Rate_Decision",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Inflation_Three_Force_Decomposition",
+      "target": "Headline_vs_Core_Inflation_Targeting",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PPI_Stage_Differential_IO_Cascade_Diagnostic",
+      "target": "Japan_Inflation_Three_Force_Decomposition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Range_Accrual_Swaps",
+      "target": "Barrier_Options",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Range_Accrual_Swaps",
+      "target": "Binary_Options_Digital",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Selected_Global_Bond_Markets",
+      "target": "Bond_Spread_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Selected_Global_Bond_Markets",
+      "target": "Bond_Syndication_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Fed_Duration_Extraction_Term_Premium",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Foreign_Capital_Flows_Determinants",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tri_Party_Repo",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Backed_Securities_SPV_Architecture",
+      "target": "I_Spread_Vs_ASW",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Bond_Fundamentals",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Indonesia_Inflation_Targeting_Framework_Legal_Foundation",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "Inflation_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Monetary_Policy_Strategic_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Monetary_Policy_Transmission_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "KY_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "KY_Domain",
+      "target": "LU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "LU_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "LU_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MX_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MX_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MY_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MY_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NG_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NG_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NO_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NO_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "QA_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "QA_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "RU_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "RU_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "KR_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "KY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BOJ_April_2026_Rate_Decision",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ERM_Crisis_1992_Mechanics",
+      "target": "Exchange_Rate_Determination_Theories",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Deferred_Asset_2022_2026",
+      "target": "Quantitative_Easing_Channels",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Deferred_Asset_2022_2026",
+      "target": "Fed_Put_Theory",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_FX_Intervention_May_2026_Event",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_CPI_PPI_PCE_H1_2026",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_CPI_PPI_PCE_H1_2026",
+      "target": "Japan_Inflation_Three_Force_Decomposition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "US_CPI_PPI_PCE_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "Central_Bank_Balance_Sheet_Trilemma",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Bank_Treasury_Glossary",
+      "target": "Central_Bank_Operational_Frameworks",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Bank_Treasury_Glossary",
+      "target": "Central_Bank_Operational_Framework_Design",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "5y5y_Forward_Breakeven",
+      "target": "Japan_Inflation_Three_Force_Decomposition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "5y5y_Forward_Breakeven",
+      "target": "Currency_Substitution_Dollarization",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "AOCI_Capital_Cliff",
+      "target": "Push_and_Pull_Determinants_of_Capital_Flows",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "AOCI_Capital_Cliff",
+      "target": "Supranational_Capital_Structure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Benchmark_Spread_Distortions",
+      "target": "Financial_Deepening",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Benchmark_Spread_Distortions",
+      "target": "Herstatt_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Indonesia_ITF_Transition_Period",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Indonesia_Monetary_Regime_Evolution",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Corporate_Trade_Credit",
+      "target": "BOP_Standard_Classification",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "BOP_Framework_and_Conventions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "BOP_Standard_Classification",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "BOP_Standard_Classification",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "GDP_Measurement_Problems_Transition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Herstatt_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "Fiscal_Dominance",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "Mean_Variance_Optimisation_Theory",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Interest_Rate_Corridor_And_Standing_Facilities",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Interest_Rate_Option_Models",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Inflation_Targeting_Framework_ITF",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Japan_FX_Intervention_MOF_BOJ_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Yield_Curve_Model_Hedges",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Yield_Curve_Structure_And_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Lender_of_Last_Resort_LoLR_Evolution",
+      "target": "Tax_Elasticity_and_Buoyancy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Conditions_Index_MCI",
+      "target": "Monetary_Analysis_Transition_Economy_Issues",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Conditions_Index_MCI",
+      "target": "Monetary_Survey_Banking_System_Structure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "Monetary_Survey_Identity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "Money_Multiplier_IMF_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Nominal_Income_Targeting",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "ITF_Empirical_Performance_Success_Stories",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Mundell_Fleming_Model_Policy_Analysis",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Mundell_Fleming_Model_Policy_Analysis",
+      "target": "Commodity_Money",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Inflation_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "collateral_scarcity_transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "Indonesia_Monetary_Operational_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "Yield_Curve_Trading_Strategies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "Agency_Vs_Principal_Clearing_Models",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Outright_Purchase_Programmes_And_Balance_Sheet_Expansion",
+      "target": "QE_Balance_Sheet_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PIK_Interest_Mechanics",
+      "target": "BOP_Standard_Classification",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PIK_Interest_Mechanics",
+      "target": "Direct_Lending",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Policy_Mix_Modelling_Structural_vs_DSGE",
+      "target": "Case_Study_Monetary_Policy_Credibility_in_Indonesia",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Policy_Mix_Modelling_Structural_vs_DSGE",
+      "target": "collateral_scarcity_transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Negative_Convexity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Portfolio_Volatility_MultiFactor",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Sovereign_Wealth_Fund",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Joint_Liability_In_Sovereign_Bonds",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Portfolio_Volatility_MultiFactor",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Yield_Curve_Trading_Strategies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "Unemployment_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "SOFR_IORB_Spread_Stress_Gauge",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Asset_Swap_Structure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Interest_Rate_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Liquidity_Measurement_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Margining",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Inflation_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Stock_Flow_Distinction",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Nostro_Account",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Barrier_Options",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Binary_Options_Digital",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Direct_Lending_2.0_Strategies",
+      "target": "Circular_06_2023_Vietnam_Lending_Restrictions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Direct_Lending_2.0_Strategies",
+      "target": "Hidden_Leverage_and_Liquidity_Mismatch",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Exotic_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Interest_Rate_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Financial_System_Stability_FSS_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Free_Banking_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Japanese_Premium_Synthetic_Loans",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "Case_Study_Monetary_Policy_Credibility_in_Indonesia",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "collateral_scarcity_transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Market_Liquidity_Regulative_Impact",
+      "target": "Basel_III_Impact_On_Private_Credit",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Market_Liquidity_Regulative_Impact",
+      "target": "BI_Act_Amendments_2004",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Keynesian_Post_Keynesian_Crisis_Theory",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "BOP_Framework_and_Conventions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Indonesia_Monetary_Operational_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Intraday_Credit_and_Liquidity_Gridlock",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NBFI_Surveillance_Priorities",
+      "target": "Circular_06_2023_Vietnam_Lending_Restrictions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NBFI_Surveillance_Priorities",
+      "target": "Circular_16_2021_Vietnam_Banking_Bond_Rules",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Structural_Vs_Reduced_Form_Curves",
+      "target": "Money_Multiplier_Formula",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Structural_Vs_Reduced_Form_Curves",
+      "target": "OIS_And_Benchmark_Reform",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "GFS_Government_Sector_Definition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Government_Subsidies_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "APAC_Private_Credit_Landscape",
+      "target": "Private_Credit_Stress_Transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Narrow_Banking_Vs_Positive_Money",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Agency_Vs_Principal_Clearing_Models",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Credibility_Growth_Trade_off",
+      "target": "Financial_Repression",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Interest_Rate_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Margin_Procyclicality",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Fiscal_Space_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Functional_Finance_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Yield_Curve_Hierarchy",
+      "target": "Zero_Coupon_Yield_Curves",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Yield_Curve_Hierarchy",
+      "target": "Poole_Curve_Reserve_Demand",
       "label": "links_to",
       "type": "reference"
     }

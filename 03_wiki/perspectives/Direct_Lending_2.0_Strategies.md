@@ -79,3 +79,6 @@ Sự chuyển dịch này cho thấy Private Credit không còn là "lựa chọ
 - [[Bank_Lending_Transmission_Channel]]
 - [[Bank_Private_Credit_Partnership]]
 - [[Basel_III_Impact_On_Private_Credit]]
+- [[Circular_06_2023_Vietnam_Lending_Restrictions]]
+- [[Hidden_Leverage_and_Liquidity_Mismatch]]
+- [[Inflation_Linked_Bond_Trading_Strategies]]

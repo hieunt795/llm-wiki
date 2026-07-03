@@ -89,3 +89,7 @@ By isolating this specific curve segment, a trader can execute a Forward Breakev
 - [[Inflation_Linked_Bond_Trading_Strategies]]
 - [[Inflation_Taxonomy]]
 - [[Seigniorage_and_Inflation_Tax]]
+- [[Japan_Inflation_Three_Force_Decomposition]]
+- [[Currency_Substitution_Dollarization]]
+- [[Japan_May_2026_CPI_Report]]
+- [[Bond_Carry_And_Forward_Pricing]]

@@ -77,3 +77,4 @@ updated: 2026-04-21
 - [[Counterparty_Credit_Risk]]
 - [[Standing_Repo_Facility_SRF_Mechanics]]
 - [[Treasury_Central_Clearing_Repo_Netting]]
+- [[Japan_May_2026_CPI_Report]]

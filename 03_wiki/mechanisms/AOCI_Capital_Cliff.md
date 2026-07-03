@@ -65,3 +65,5 @@ Lãi suất cao → [Lỗ chưa thực hiện danh mục AFS] → Quy định AO
 - [[Foreign_Capital_Flows_Determinants]]
 - [[Capital_Flows_BOP_Macroeconomic_Impact]]
 - [[Paradox_of_Foreign_Capital_Flows]]
+- [[Push_and_Pull_Determinants_of_Capital_Flows]]
+- [[Supranational_Capital_Structure]]

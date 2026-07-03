@@ -42,3 +42,5 @@ updated: '2026-04-22'
 - [[Forward_ASW_And_Inflation_Swaps]]
 - [[Fed_Deferred_Asset_2022_2026]]
 - [[International_Asset_Pricing_Model_IAPM]]
+- [[I_Spread_Vs_ASW]]
+- [[QE_Asset_Choice]]

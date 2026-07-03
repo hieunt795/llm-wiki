@@ -77,3 +77,5 @@ Authorities đang hướng tới một phương pháp giám sát "Intrusive" (Ca
 - [[Financial_System_Stability_FSS_Concept]]
 - [[Asset_Fire_Sales_Mechanism]]
 - [[Bank_Run_Mechanics]]
+- [[Circular_06_2023_Vietnam_Lending_Restrictions]]
+- [[Circular_16_2021_Vietnam_Banking_Bond_Rules]]

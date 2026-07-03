@@ -95,3 +95,7 @@ Interest Coverage Ratio (ICR) < 1.0x
 - [[Private_Credit_Valuation_Mark_To_Model]]
 - [[The_PIK_Masking_Cycle]]
 - [[BOP_Framework_and_Conventions]]
+- [[BOP_Standard_Classification]]
+- [[Direct_Lending]]
+- [[ELTIF_And_AIFMD_Framework]]
+- [[European_Private_Credit_Market]]

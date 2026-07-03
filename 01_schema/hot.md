@@ -81,3 +81,36 @@
     - Updated [[Central_Bank_Balance_Sheet_Trilemma]] (Armenter logic).
     - Updated [[Treasury_General_Account_Mechanism]] (Armenter TGA identity).
     - Spawned [[Scissors_Effect_ECB_Mechanism]] (Fi
+
+- **Session 2026-07-03 (USD/JPY, MOF, BOJ cập nhật):**
+  - [x] Rule 0 pre-check: `deepdive_search` xác nhận 8 wiki hits hiện có (Japan_FX_Intervention_May_2026_Event, Japan_FX_Intervention_MOF_BOJ_Framework, Japan_FX_Intervention_Double_Kill_Mechanism, BOJ_April_2026_Rate_Decision đều SOLID) — không trùng lặp, chỉ cần cập nhật outcome.
+  - [x] Web research: BOJ hike +25bp → 1,00% (16/6, vote 7-1, Asada dissent, Ueda nhập viện — Himino chủ trì/Uchida họp báo); MOF spend xác nhận ¥11,73 nghìn tỷ (28/4–27/5, kỷ lục); USD/JPY đáy 40 năm ~162,6–162,8 đầu 7/2026; Fed dưới Warsh giữ 3,50–3,75% diều hâu (không cắt như kịch bản tháng 5 giả định); Iran ceasefire framework hạ nhiệt giá dầu; MOF chuyển sang "ambush intervention" (Mimura từ chối bình luận 2/7).
+  - [x] UPDATE [[BOJ_April_2026_Rate_Decision]] — outcome confirmed section (hike đến sớm hơn 1 tháng so với baseline).
+  - [x] UPDATE [[Japan_FX_Intervention_May_2026_Event]] — outcome confirmed (Scenario B thực tế, không phải Scenario A; Fed dependency resolved against Japan).
+  - [x] SPAWN [[BOJ_June_2026_Rate_Hike_Ueda_Absence]] — evidence node, đợt tăng lãi suất + Ueda vắng mặt + Yên không ổn định.
+  - [x] SPAWN [[FX_Intervention_Ambush_Tactic]] — mechanism node, chiến thuật can thiệp không báo trước (silence as signal).
+  - [x] Published `06_publish/2026-07-03_usdjpy-mof-boj-intervention-h1-2026-update.md` — MODE DEEP đầy đủ 5 lens, tuân thủ hard rules (6 separators, Plumbing prose, Treasury prose+bullet, 1 diagram, Rule-11 word-list check applied — fixed 1 "khuếch đại" instance).
+  - [x] `librarian.py sync` — 5 nodes/6103 edges injected; `embed --incremental` chạy nền.
+  - [ ] Next: theo dõi FOMC 29/7 + BOJ 30–31/7 (Ueda dự kiến quay lại) để cập nhật cluster.
+  - [x] User đưa link Substack "Japan May '26 CPI Inflation Report" (Benigno, 2026-06-19) gắn nhãn "US inflation" — bài thực chất 100% về Japan CPI, không có US content. Đã hỏi user và chốt: tạo research riêng cho Japan CPI (không ép vào US inflation cluster).
+  - [x] Rule 0: `deepdive_search "Japan CPI inflation"` → 8 wiki hits SOLID, không có node CPI-specific cho Japan → SPAWN.
+  - [x] SPAWN raw clip `02_sources/Clipping/Benigno_Japan_May_2026_CPI_Report.md` + wiki evidence node [[Japan_May_2026_CPI_Report]] (May 2026 CPI: headline 1.5% miss vs 1.6% forecast, core-core decelerated 1.9%→1.8%, goods hardened 1.7%→2.0%, wages high-2%-to-3%).
+  - [x] Key finding: bài xuất bản 19/6/2026 — 3 ngày SAU đợt hike 15-16/6 — nên CPI này KHÔNG phải input cho quyết định hike (hike dựa trên PPI +6.3% YoY), mà là post-hoc test. Đã BRIDGE rõ vào [[BOJ_June_2026_Rate_Hike_Ueda_Absence]] để tránh đọc nhầm quan hệ nhân quả.
+  - [x] `librarian.py sync` (3 nodes/6114 edges) + `embed --incremental` (chạy nền).
+  - [x] User yêu cầu đọc lại sâu bài Benigno + liệt kê chi tiết cách đánh giá CPI/PPI. Phát hiện: bài KHÔNG có số liệu PPI (chỉ định tính "intermediate stages of production"), có thêm MoM data đầy đủ, và khung "3-force decomposition" (food fading / energy pass-through / wage-price, BOJ weight tăng dần lên 2 lực sau).
+  - [x] SPAWN [[Japan_Inflation_Three_Force_Decomposition]] (mechanism, confidence=2) — hóa khung 3-force thành node, kèm đánh giá phản biện: so với framework Mỹ (PPI Stage Differential, có τ*, r=0.81, falsification condition) thì bản Japan hoàn toàn định tính, không ngưỡng, không falsification condition, dễ self-confirming.
+  - [x] Cross-link [[PPI_Stage_Differential_IO_Cascade_Diagnostic]] ↔ [[Japan_Inflation_Three_Force_Decomposition]] để tương phản mức độ rigor cùng 1 tác giả.
+  - [x] `librarian.py sync` (2 nodes/6124 edges) + `embed --incremental` (chạy nền).
+  - [x] User clip verbatim đầy đủ bài Benigno vào `02_sources/Clipping/Japan May-26 CPI Inflation Report.md` (Obsidian), yêu cầu "ingest clipping" chính thức → chạy đúng pipeline W5_secondary_ingest.md (Plan Mode, đã approve):
+    - Phase A: tạo Concept Map `04_outputs/temp/Japan_May-26_CPI_Inflation_Report_concept_map.md` (claims table đầy đủ).
+    - Phase B: Adversarial Audit — toàn bộ claim AGREE với 2 node đã có, không có CONFLICT/NEW-TERRITORY.
+    - Phase C: 2× UPDATE — [[Japan_May_2026_CPI_Report]] (thêm bảng MoM, services-ex-imputed-rents, e-Stat sourcing) + [[Japan_Inflation_Three_Force_Decomposition]] (nâng cấp trích dẫn từ paraphrase → verbatim paragraph gốc); source_refs cả 2 chuyển sang file clip verbatim chính thức.
+    - Xóa file tóm tắt trùng lặp `Benigno_Japan_May_2026_CPI_Report.md` (user xác nhận).
+    - Phase D: **sửa lỗi quy trình phiên trước** — dùng đúng `librarian.py ingest` (build_graph→gen_index→auto_bridge→staleness) thay vì `sync` (thiếu auto_bridge/auto_synthesis). auto_bridge tự thêm vài wikilink trùng ở cuối "Related" của 2 node — chấp nhận, không revert (hành vi tool).
+    - `embed --incremental` chạy nền sau ingest.
+  - [x] User clip thêm bài Benigno song song cho US: `02_sources/Clipping/US May-26 CPI Inflation Report.md` (published 2026-06-10) → yêu cầu "ingest clipping" → chạy lại pipeline W5 (Plan Mode, đã approve):
+    - Phase A: Concept Map `04_outputs/temp/US_May-26_CPI_Inflation_Report_concept_map.md`.
+    - Phase B: node đã có sẵn ([[US_CPI_PPI_PCE_H1_2026]]) → AGREE headline/core (kèm note reconcile 2.85% computed vs 2.9% BLS-rounded); phần core-services/goods split, shelter/OER, supercore, gasoline, apparel là NEW granularity chưa có; Warsh/June-FOMC → chỉ cross-link [[Fed_Duration_Extraction_Term_Premium]], KHÔNG spawn node Warsh riêng (out of scope, để phiên sau).
+    - Phase C: 1× UPDATE [[US_CPI_PPI_PCE_H1_2026]] — thêm bảng breakdown, note reconcile, caveat Oct-2025 shutdown distortion (mới, chưa từng ghi ở đâu trong wiki), flag 1 inconsistency nội tại của nguồn (shelter MoM 0.4% vs 0.3% trong cùng bài).
+    - Phase D: `librarian.py ingest` (đúng lệnh SOP) + `embed --incremental` (chạy nền).
+    - Việc còn tồn đọng: 2 clip Warsh (`Warsh_FOMC_PressConf_20260617_And_Sintra.md`, `Warsh and the Fed's Balance Sheet.md`) vẫn chưa ingest — cần 1 phiên riêng.

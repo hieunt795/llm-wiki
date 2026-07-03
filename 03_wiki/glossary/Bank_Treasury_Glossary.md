@@ -216,3 +216,7 @@ This glossary contains essential terminology and dealing jargon used in the trea
 - [[Central_Bank_Evolutionary_Episodes]]
 - [[Central_Bank_Independence_Dimensions]]
 - [[Central_Bank_Independence_Framework]]
+- [[Central_Bank_Operational_Frameworks]]
+- [[Central_Bank_Operational_Framework_Design]]
+- [[Exchange_Rate_Determination_Theories]]
+- [[Interest_Rate_Parity]]

@@ -119,3 +119,4 @@ The computed trajectory matches his cited reference points within ~0.1-0.3pp at 
 - [[Headline_vs_Core_Inflation_Targeting]] — conceptual headline/core framework this episode stress-tests
 - [[Fed_Duration_Extraction_Term_Premium]] — the hawkish pivot this cascade evidence helps explain
 - [[GDP_Deflator_vs_CPI]] — adjacent price-index measurement-choice node
+- [[Japan_Inflation_Three_Force_Decomposition]] — same author's unquantified Japan counterpart; contrast in rigor (no threshold, no falsification condition)

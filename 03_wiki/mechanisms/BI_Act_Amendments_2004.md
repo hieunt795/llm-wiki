@@ -58,3 +58,7 @@ chapter: 9
 - [[Central_Bank_Operational_Frameworks]]
 - [[Central_Bank_Operational_Framework_Design]]
 - [[Indonesia_Inflation_Targeting_Framework_Legal_Foundation]]
+- [[Indonesia_ITF_Transition_Period]]
+- [[Indonesia_Monetary_Regime_Evolution]]
+- [[Monetary_Policy_Transmission_Mechanism_MPTM_Indonesia_Edition]]
+- [[ID_Domain]]

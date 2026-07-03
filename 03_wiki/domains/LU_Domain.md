@@ -77,3 +77,5 @@ updated: '2026-04-28'
 - [[IE_Domain]]
 - [[IN_Domain]]
 - [[JP_Domain]]
+- [[KR_Domain]]
+- [[KY_Domain]]

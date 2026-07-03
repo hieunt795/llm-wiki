@@ -74,3 +74,7 @@ updated: '2026-04-22'
 - [[Credit_Instrument_Market_Risk_PV01_DV01]]
 - [[Forward_Risk_Basis_Risk]]
 - [[Asset_Swap_Structure]]
+- [[Barrier_Options]]
+- [[Binary_Options_Digital]]
+- [[Credit_Default_Swaps_Schofield]]
+- [[Exotic_Options_Schofield]]

@@ -77,3 +77,7 @@ Key factors driving the choice of currency include:
 - [[MMT_Operational_Reality]]
 - [[Currency_Substitution_Dollarization]]
 - [[BOP_Framework_and_Conventions]]
+- [[BOP_Standard_Classification]]
+- [[International_Reserve_Adequacy]]
+- [[BOP_Identities_and_Current_Account_Analysis]]
+- [[External_Debt_Stocks_and_Flows]]

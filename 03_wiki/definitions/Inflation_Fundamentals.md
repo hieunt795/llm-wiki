@@ -41,3 +41,7 @@ updated: '2026-05-07'
 - [[Inflation_Targeting_Economic_Performance_Evaluation]]
 - [[Inflation_Taxonomy]]
 - [[Inflation_Target_Formulation]]
+- [[Bond_Fundamentals]]
+- [[Indonesia_Inflation_Targeting_Framework_Legal_Foundation]]
+- [[5y5y_Forward_Breakeven]]
+- [[BI_Inflation_Target_Formulation]]

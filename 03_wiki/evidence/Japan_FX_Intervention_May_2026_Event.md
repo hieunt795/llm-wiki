@@ -22,7 +22,13 @@ thesis: "Japan's $34.5B (¥5.4T) FX intervention on May 1–3, 2026 was not a st
 source_refs:
 - file: "Fed, ECB, and BoJ_ A Matter of Credibility.md"
 created: '2026-05-07'
-updated: '2026-05-07'
+updated: '2026-07-03'
+---
+
+## Outcome Confirmed (2026-07-03 update)
+
+[WEB-2026-06-30][WEB-2026-07-01] Total spend for the April 28–May 27, 2026 intervention window was finalized at **¥11.73 trillion (~$72–74B)** — larger than the $34.5B first-tranche estimate in this node, and the largest FX intervention spend on record for Japan. The result matches Scenario B (intervention fails) rather than Scenario A: USD/JPY's initial retreat to ~145 fully reversed, and the pair reached a fresh 40-year low of ~162.6–162.8 by late June/early July — worse than the pre-intervention starting point. The Fed dependency this node flagged resolved against Japan: incoming Chair Kevin Warsh's first FOMC (June 17) held the funds rate at 3.50–3.75% with a hawkish "inflation is a choice" framing and a dot plot showing 9/18 members leaning toward a hike by year-end — the opposite of the rate-cut path Scenario A required to narrow the differential. BOJ did hike 25bp to 1.00% on June 16 (see [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]), but this did not restore currency stability, confirming Katz's structural-misalignment argument [WEB-2026-06] that intervention (and a single rate hike) cannot substitute for a materially narrower rate differential. MOF has since shifted tactics — see [[FX_Intervention_Ambush_Tactic]] — moving from telegraphed intervention toward unannounced operations, an implicit admission that forward guidance on intervention "had been arbitraged away."
+
 ---
 
 ## Event Summary
@@ -224,3 +230,6 @@ Oil shock (Middle East war)
 - [[BOJ_April_2026_Rate_Decision]]
 - [[Financial_Repression]]
 - [[SOFR_IORB_Spread_Stress_Gauge]]
+- [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]
+- [[FX_Intervention_Ambush_Tactic]]
+- [[Japan_May_2026_CPI_Report]]

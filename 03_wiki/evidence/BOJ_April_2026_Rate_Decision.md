@@ -22,7 +22,13 @@ source_refs:
 - "[RAW-CLIP: Zhennan Li (2026-04-28) April BOJ: onhold as expected, hawkish statement but cautious Ueda; maintain July hike call, https://zhennanli.substack.com/p/195756596]"
 - "[RAW-BOOK: Referenced analysis on oil shocks and BOJ; referenced regional economic survey and Shunto wage data]"
 created: '2026-04-29'
-updated: '2026-04-29'
+updated: '2026-07-03'
+---
+
+## Outcome Confirmed (2026-07-03 update)
+
+[WEB-2026-06-16] The upside-risk scenario (20% probability, June hike) materialized: BOJ raised the policy rate 25bp to **1.00%** at the June 15–16, 2026 meeting — one month ahead of the analyst's 70%-probability July baseline. Vote was 7-1 (Asada Toichiro dissenting, citing downside risk to production/employment from the Middle East situation outweighing inflation upside — the same growth-vs-inflation tension flagged in this node's Section 2). Governor Ueda was hospitalized June 10 for an infected liver cyst and did not vote; Deputy Governor Ryozo Himino chaired the meeting and Deputy Governor Shinichi Uchida held the press conference. See [[BOJ_June_2026_Rate_Hike_Ueda_Absence]] for full detail, including the critical follow-on finding: **the hike did not stabilize USD/JPY** — the pair reached fresh 40-year lows (~162.6–162.8) in the weeks after the hike, confirming this node's Section 3 caveat that data-dependent hiking, once delivered, does not automatically restore currency credibility if the US-Japan rate differential itself is not compressing (see [[Japan_FX_Intervention_May_2026_Event]] Fed-dependency scenario — Fed turned hawkish under Warsh rather than cutting, keeping the differential wide).
+
 ---
 
 ## Key Decision & Immediate Context
@@ -187,3 +193,6 @@ Despite the hold, Ueda left a door open:
 - [[Japan_FX_Intervention_May_2026_Event]]
 - [[Board_of_Governors_Decision_Making]]
 - [[Interest_Rate_Corridor_And_Standing_Facilities]]
+- [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]
+- [[FX_Intervention_Ambush_Tactic]]
+- [[Japan_May_2026_CPI_Report]]

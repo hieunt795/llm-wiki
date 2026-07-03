@@ -30,6 +30,7 @@ thesis: US headline CPI (4.2% YoY) and PCE (4.1% YoY) in H1 2026 diverge sharply
 source_refs:
 - file: "US_CPI_PPI_PCE_H1_2026_BLS_BEA.md"
 - file: "Benigno_Nonlinear_Inflation_IO_Cascade_2026.md"
+- file: "US May-26 CPI Inflation Report.md"
 created: '2026-07-03'
 updated: '2026-07-03'
 ---
@@ -47,7 +48,32 @@ updated: '2026-07-03'
 | CPI-U | **4.2%** | 2.85% |
 | PCE (Fed's target gauge) | **4.1%** | **3.4%** (highest since Oct 2023) |
 
-[RAW-OFFICIAL: BLS] CPI energy index (NSA) rose from 272.668 (Jan) to 346.042 (May) — **+26.9% in four months**, the dominant arithmetic driver of the headline-core gap. CPI food (+1.1%) and shelter (+1.7%) moved modestly over the same window — shelter disinflation trend continuing, not reversing.
+[RAW-OFFICIAL: BLS] CPI energy index (NSA) rose from 272.668 (Jan) to 346.042 (May) — **+26.9% in four months**, the dominant arithmetic driver of the headline-core gap. CPI food (+1.1%) and shelter (+1.7%) moved modestly over the same window (this is cumulative Jan→May index-level change, not a YoY rate) — shelter disinflation trend continuing, not reversing.
+
+**Reconciliation note on core CPI precision:** this node's 2.85% core-CPI figure is independently computed from BLS index levels; [RAW-CLIP: Benigno 2026-06-10] reports BLS's own published, rounded release figure of **2.9% YoY** for the same May 2026 print. Both are correct readings of the same underlying data at different rounding stages — not a contradiction.
+
+### CPI Component Breakdown (May 2026, per [RAW-CLIP: Benigno 2026-06-10])
+
+This granularity is not otherwise captured above; the headline/core numbers agree with this node's independent BLS computation (see reconciliation note).
+
+| Measure | May YoY | April YoY | May MoM | April MoM |
+|---|---|---|---|---|
+| Core services (ex energy) | 3.4% | 3.3% | — | — |
+| Core goods (ex food/energy) | 1.1% | 1.1% | 0.0% (n.s.a.) | 0.1% (n.s.a.) |
+| Shelter (rent of shelter) | 3.3% | 3.3% | 0.3-0.4% (s.a.)* | 0.6% (s.a.) |
+| Supercore services (core services ex shelter) | 3.7% | 3.5% | 0.5% | 0.5% |
+| Rent subcomponent | 2.9% | 2.8% | — | — |
+| Owners' equivalent rent (OER) | 3.3% | 3.3% | — | — |
+| Gasoline | +40.5% (level vs. year-ago) | — | +7.0% (s.a.) / +8.6% (n.s.a.) | — |
+| Apparel (tariff-sensitive) | +4.8% | — | — | — |
+
+*Source inconsistency, not resolved in this pass: the clip's "Key takeaways" section states May shelter MoM at 0.4% (s.a.), while its body text states 0.3% (s.a.) for the same figure — both cite April at 0.6%. Flagged, not adjudicated; do not cite a single precise May shelter MoM value from this source without checking BLS directly.
+
+[RAW-CLIP: Benigno 2026-06-10] Energy contributed over 60% of the May monthly all-items increase — consistent with this node's energy-shock driver (see Three Distinct Drivers §1). Apparel's tariff-linked acceleration is the clearest goods-side confirmation of driver §2 (tariff pass-through) at the sub-category level. Core services and shelter/OER/rent remain "substantially below their post-pandemic highs," per the source, functioning as a disinflationary offset to the goods/energy pressure — this is new sub-component evidence for the "narrower, not broad-based" reading already implicit in this node's three-driver framing.
+
+**New context — October 2025 shutdown distortion:** [RAW-CLIP: Benigno 2026-06-10] "Temporary shelter-related distortions associated with the October 2025 government shutdown have now largely passed through the CPI calculation process" by the May 2026 release — not previously documented anywhere in this wiki. This means shelter/OER readings from earlier in H1 2026 (Jan-Apr) may carry a shutdown-related artifact not yet audited in this node; treat pre-May H1 2026 shelter figures with that caveat until independently checked against BLS methodology notes.
+
+**Policy context — Warsh's first CPI report as Fed Chair:** [RAW-CLIP: Benigno 2026-06-10] This was the first CPI release of Kevin Warsh's tenure as Fed Chair, ahead of the June FOMC meeting. The source describes Fed communication as framing the inflation overshoot as "primarily a supply-driven phenomenon" (energy + tariffs, not demand), consistent with the "deliver price stability" hawkish-but-non-demand-driven framing already documented below in Policy Response Linkage. No dedicated wiki node yet exists for Warsh's June FOMC/Sintra communication specifically — see [[Fed_Duration_Extraction_Term_Premium]] for the closest existing treatment; ingesting the Warsh-specific clips is a separate task.
 
 ### PPI (headline, verified via BLS release text after a series-ID correction — see below)
 [WEB-2026-06-11:bls.gov/news.release/ppi.nr0.htm] Final demand +1.1% MoM SA (May), +6.5% YoY NSA (largest since Nov 2022). Final demand goods +2.8% MoM — largest since the FD-ID series began (Dec 2009), **80% traced to final-demand energy +10.7% MoM**. Core (ex food/energy/trade services) **+0.8% MoM — largest since March 2022**, a genuine broadening signal beyond pure energy pass-through.
@@ -71,7 +97,10 @@ An initial attempt to reconstruct PPI final-demand MoM directly from guessed FD-
 
 ## Related
 
-- [[PPI_Stage_Differential_IO_Cascade_Diagnostic]] — the leading-indicator diagnostic built on this node's PPI stage data
-- [[Fed_Duration_Extraction_Term_Premium]] — the H1 2026 hawkish pivot and term-premium move this data helps explain
+- [[PPI_Stage_Differential_IO_Cascade_Diagnostic]] — the leading-indicator diagnostic built on this node's PPI stage data; note the May-26 CPI clip contains no PPI content, so it doesn't interact with this diagnostic directly
+- [[Fed_Duration_Extraction_Term_Premium]] — the H1 2026 hawkish pivot and term-premium move this data helps explain; also the closest existing treatment of the June FOMC that Warsh chaired as new Fed Chair
 - [[Headline_vs_Core_Inflation_Targeting]] — the general credibility/controllability trade-off this episode is a live case of
 - [[GDP_Deflator_vs_CPI]] — adjacent price-index measurement-choice node
+- [[Japan_May_2026_CPI_Report]]
+- [[Japan_Inflation_Three_Force_Decomposition]]
+- [[Currency_Substitution_Dollarization]]

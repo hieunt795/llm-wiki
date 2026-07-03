@@ -95,3 +95,7 @@ The Mundell-Fleming model provides the mathematical proof for the **Monetary Pol
 - [[ITF_Conceptual_Theoretical_Models]]
 - [[BOP_Framework_and_Conventions]]
 - [[BOP_Standard_Classification]]
+- [[International_Reserve_Adequacy]]
+- [[Commodity_Money]]
+- [[Commodity_Vs_Fiat_Money]]
+- [[Fiat_Money]]

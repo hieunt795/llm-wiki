@@ -39,3 +39,4 @@ updated: '2026-04-22'
 - [[Indonesia_ITF_Evolution_Transition_to_Full_Implementation]]
 - [[Inflation_Targeting_Framework_Institutional_Evolution]]
 - [[International_LOLR_Foreign_Reserves_Origin]]
+- [[Tax_Elasticity_and_Buoyancy]]

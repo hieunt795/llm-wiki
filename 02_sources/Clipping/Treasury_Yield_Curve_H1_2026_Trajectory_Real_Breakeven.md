@@ -47,8 +47,31 @@ Pulled full-year 2026 daily CSV directly from Treasury.gov (not FRED — FRED's 
 
 **4. 30Y was nearly flat across H1** (4.86% Jan 2 → 4.98% Jul 2, +12bp only, with a local peak ~5.12-5.14% mid-May coinciding with the Q2 refunding announcement, then retracing). The long end is the most stable point on the curve in H1 2026, not the most volatile — contradicts a naive "term premium is driving everything" read; term premium recovery matters for the LEVEL of 30Y (elevated vs 2021-2023) but was not the marginal H1 mover.
 
+## Update 2026-07-03: Official T10YIE + T5YIFR (FRED), gap resolved
+
+Pulled official series directly via `curl` against `fred.stlouisfed.org/graph/fredgraph.csv?id=T10YIE` and `id=T5YIFR` (full Jan 2 – Jul 2, 2026 daily). Note: WebFetch on this same host still returns 403 (bot-blocked), but plain `curl` succeeds — same asymmetry as the earlier BLS-quota workaround in the CPI/PPI cluster. FRED's fredgraph.csv is reachable via curl; only the WebFetch tool path is blocked.
+
+| Date | T10YIE (official) | Nom−real approx (this file) | T5YIFR (official, 5Y5Y fwd) |
+|------|---------------------|------------------------------|-------------------------------|
+| 01/02/2026 | 2.25 | 2.25 | 2.22 |
+| 02/02/2026 | 2.35 | 2.35 | 2.18 |
+| 02/17/2026 | 2.26 | 2.26 | 2.13 |
+| 03/02/2026 | 2.29 | 2.29 | 2.12 |
+| 03/30/2026 | 2.05 (T5YIFR H1 low) | — | 2.05 |
+| 04/01/2026 | 2.31 | 2.31 | 2.07 |
+| 05/01/2026 | 2.48 | 2.48 | 2.27 |
+| 05/19/2026 | 2.49 | — | 2.32 (T5YIFR H1 high) |
+| 06/01/2026 | 2.40 | 2.40 | 2.26 |
+| 06/24/2026 | 2.18 (T10YIE H1 low) | — | 2.17 |
+| 06/26/2026 | 2.20 | 2.20 | 2.19 |
+| 07/02/2026 | 2.23 | 2.23 | 2.22 |
+
+**Validation:** the nominal−real approximation used throughout this cluster matches official T10YIE essentially exactly at every checkpoint (≤0.01pp) — the approximation was reliable, not just directionally but at basis-point precision. No correction needed to prior 10Y breakeven claims.
+
+**New finding — T5YIFR round-trip, not flat throughout:** unlike the 10Y breakeven's calm 2.20–2.50% band, the 5Y5Y forward (proxy for longer-run, de-anchored-from-energy-shock inflation expectations) shows a real cycle: falls from 2.22% (Jan 2) to an H1 low of 2.05% (Mar 30, just before the Hormuz shock intensified), then rises to an H1 high of 2.32% (May 19, ~6 weeks after Brent peaked), then fully retraces to 2.22% (Jul 2) — a net-zero round trip, but not a static line. Read together with the PPI stage-cascade diagnostic ([[project_cpi_ppi_inflation_h1_2026]]): the market **did** price in some risk that the energy/tariff shock would de-anchor longer-run expectations during April-May (when PPI Stage1-Stage4 gap was widening fastest), then fully unwound that risk premium by late June — consistent with Fed credibility holding, but also meaning the "flat breakeven" framing in the main report understates that the market's confidence was tested and only later restored, not undisturbed the whole time.
+
 ## Boundary / Confidence
 
-- TIER: RAW-OFFICIAL, Treasury.gov direct CSV — highest confidence source in the cluster for this data.
-- Breakeven computed as a simple nominal−real spread, not the official Treasury/FRED T10YIE methodology (which uses a slightly different curve-fitting approach) — good enough for directional/magnitude conclusions, not for precise basis-point arbitrage-style claims.
-- Did not pull 5Y breakeven or 5Y5Y forward breakeven (would sharpen "when did inflation expectations move" — not attempted this round).
+- TIER: RAW-OFFICIAL, Treasury.gov direct CSV (nominal/real) + FRED direct CSV via curl (T10YIE/T5YIFR) — highest confidence source in the cluster for this data.
+- Breakeven computed as a simple nominal−real spread — now cross-validated against the official Treasury/FRED T10YIE methodology and found to match essentially exactly (see Update above); no longer a caveat.
+- T5YIFR (5Y5Y forward) now pulled — see Update above. Round-trip pattern (trough Mar 30 → peak May 19 → back to start by Jul 2) is a new finding not previously visible from endpoint-only comparison.

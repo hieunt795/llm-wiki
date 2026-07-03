@@ -54,3 +54,5 @@ Chuỗi truyền dẫn vận hành qua 4 giai đoạn:
 - [[Japan_FX_Intervention_May_2026_Event]]
 - [[JP_Domain]]
 - [[Japanese_Premium_Synthetic_Loans]]
+- [[FX_Intervention_Ambush_Tactic]]
+- [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]

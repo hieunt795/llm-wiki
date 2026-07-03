@@ -128,3 +128,7 @@ The mechanism operates through **three explicit bargains**:
 - [[Monetary_Policy_Strategic_Framework]]
 - [[Indonesia_Monetary_Operational_Framework]]
 - [[Inflation_Targeting_Framework_And_Price_Stability]]
+- [[Inflation_Targeting_Framework_ITF]]
+- [[Japan_FX_Intervention_MOF_BOJ_Framework]]
+- [[Operational_Framework_Principles]]
+- [[PBOC_Monetary_Policy_Transmission]]

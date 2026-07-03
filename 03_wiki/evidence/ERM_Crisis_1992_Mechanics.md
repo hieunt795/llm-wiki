@@ -91,3 +91,5 @@ This statement encapsulates the **reflexivity principle**: market participants' 
 - [[Basis_Trade_Crisis_2020]]
 - [[Cross_Currency_Rates_Synthetics]]
 - [[FX_Forward_Quoting_Conventions]]
+- [[Exchange_Rate_Determination_Theories]]
+- [[Interest_Rate_Parity]]

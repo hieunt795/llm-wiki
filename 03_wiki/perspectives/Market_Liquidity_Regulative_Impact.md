@@ -65,3 +65,6 @@ Tác động của quy chế không phải lúc nào cũng hiển thị qua Bid-
 - [[Market_Risk_Framework]]
 - [[Private_Credit_Secondary_Market]]
 - [[Autonomous_Factors_and_Liquidity_Supply]]
+- [[Basel_III_Impact_On_Private_Credit]]
+- [[BI_Act_Amendments_2004]]
+- [[Central_Bank_Liquidity_Provision_Mechanics]]
