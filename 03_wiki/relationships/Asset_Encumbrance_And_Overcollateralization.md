@@ -81,3 +81,5 @@ Because OC is structurally completely mathematically funded specifically by more
 - [[Agency_Vs_Principal_Clearing_Models]]
 - [[Asset-Based_Finance_ABF]]
 - [[Asset_Backed_Securities_SPV_Architecture]]
+- [[Bank_Deposit_Types]]
+- [[Credit_View_Transmission_Channels]]

@@ -93,3 +93,4 @@ This statement encapsulates the **reflexivity principle**: market participants' 
 - [[FX_Forward_Quoting_Conventions]]
 - [[Exchange_Rate_Determination_Theories]]
 - [[Interest_Rate_Parity]]
+- [[Marshall_Lerner_Condition]]

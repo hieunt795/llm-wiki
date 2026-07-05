@@ -132,3 +132,5 @@ The mechanism operates through **three explicit bargains**:
 - [[Japan_FX_Intervention_MOF_BOJ_Framework]]
 - [[Operational_Framework_Principles]]
 - [[PBOC_Monetary_Policy_Transmission]]
+- [[Fed_Put_Theory]]
+- [[Transition_Economy_Reform_Framework]]

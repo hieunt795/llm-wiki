@@ -146,3 +146,5 @@ Four principal factors determining the overall incentive structure for exportabl
 - [[BOP_Standard_Classification]]
 - [[Transition_Economy_Reform_Framework]]
 - [[BOP_Identities_and_Current_Account_Analysis]]
+- [[External_Debt_Stocks_and_Flows]]
+- [[Floating_vs_Fixed_Exchange_Rate_Regimes]]

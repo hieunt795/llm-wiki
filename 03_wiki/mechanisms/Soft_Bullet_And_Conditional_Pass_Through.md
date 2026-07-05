@@ -86,3 +86,5 @@ Düring argues that these features are primarily designed to satisfy **Rating Ag
 - [[Yield_Curve_Trading_Strategies]]
 - [[Agency_Vs_Principal_Clearing_Models]]
 - [[Bank_Deposit_Types]]
+- [[Bond_Cashflow_Structural_Typologies]]
+- [[Floating_Rate_Notes_FRN]]

@@ -73,3 +73,5 @@ chapter: 4
 - [[Indonesia_Monetary_Operational_Framework]]
 - [[Indonesia_Monetary_Operations_Quantity_To_Price_Based]]
 - [[Monetary_Policy_Transmission_Mechanism_MPTM]]
+- [[monetary_policy_transparency]]
+- [[PBOC_Monetary_Policy_Transmission]]

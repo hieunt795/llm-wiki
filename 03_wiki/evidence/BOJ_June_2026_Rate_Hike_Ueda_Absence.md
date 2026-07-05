@@ -13,33 +13,30 @@ tags:
 - rate-decision
 - current-events
 - foreign-exchange
-status: active
+status: verified
 confidence: 4
 half_life_years: 1
 expert_lens: "Bank of Japan (Institutional)"
-provenance: "[WEB-2026-06-16: CNBC, FocusEconomics, FXStreet, investingLive]; [WEB-2026-06-10: Japan Times, CNBC, The Standard — Ueda hospitalization]"
+provenance: "[RAW-OFFICIAL: BOJ June 2026 MPM official documents]; [WEB-2026-06-10: Japan Times, CNBC, The Standard — Ueda hospitalization]"
 thesis: "The BOJ raised its policy rate 25bp to 1.00% on June 16, 2026 — its highest since 1995 — with Governor Ueda absent due to hospitalization, but the hike failed to stabilize USD/JPY, which reached fresh 40-year lows within two weeks, confirming that a single data-dependent hike cannot substitute for a materially narrower US-Japan rate differential."
 source_refs:
-- "[WEB-2026-06-16: CNBC — BOJ hikes rates to 1%, highest since 1995]"
-- "[WEB-2026-06-16: investingLive — BOJ set to hit 1%, vote split, bond taper pause]"
-- "[WEB-2026-06-10: Japan Times / CNBC / The Standard — Ueda hospitalised, will miss June meeting]"
-- "[WEB-2026-06-11: Investing.com/Reuters — Japan May PPI +6.3% YoY]"
+- file: "BOJ_June_2026_MPM_Official_Documents.md"
 created: '2026-07-03'
-updated: '2026-07-03'
+updated: '2026-07-05'
 ---
 
 ## Decision
 
 **June 15–16, 2026 BOJ Monetary Policy Meeting:**
-- **Decision:** Policy rate raised 25bp to **1.00%** — highest since 1995, a 31-year high
-- **Vote:** 7-1. Board member **Asada Toichiro** dissented, judging that downside risks to production and employment from the Middle East situation outweighed upside risks to prices [WEB-2026-06-16]
+- **Decision:** Policy rate raised 25bp to **around 1.00%**, effective June 17; complementary deposit facility rate set at **1.00%** and basic loan rate set at **1.25%** [RAW-OFFICIAL:BOJ June 2026 MPM]
+- **Vote:** 7-1. Board member **Asada Toichiro** dissented, judging that downside risks to production and employment from the Middle East situation outweighed upside risks to prices [RAW-OFFICIAL:BOJ June 2026 MPM]
 - **Governor absent:** Kazuo Ueda was hospitalized June 10 for treatment of an infected liver cyst — the first time since the BOJ's current policy-decision arrangement began in 1998 that the governor missed a scheduled meeting [WEB-2026-06-10]
-- **Chairing arrangement:** Deputy Governor **Ryozo Himino** presided over the rate review; Deputy Governor **Shinichi Uchida** held the post-meeting press conference. Ueda submitted a written policy view but did not vote [WEB-2026-06-10]
-- **Bond taper pause (reported, not fully confirmed):** Japanese media reported the BOJ intends to pause its monthly JGB purchase-tapering schedule from April 2027, which would hold the pace of balance-sheet runoff steady rather than continuing to shrink it — a signal read as accommodation toward JGB market conditions [WEB-2026-06-16]
+- **Chairing arrangement:** Deputy Governor **Ryozo Himino** presided over the rate review; Deputy Governor **Shinichi Uchida** held the post-meeting press conference. Ueda was listed as absent in the official voting record [RAW-OFFICIAL:BOJ June 2026 MPM]
+- **JGB purchase plan:** BOJ will reduce planned monthly JGB purchases by about **JPY 200bn per calendar quarter** until January-March 2027, then conduct monthly purchases of about **JPY 2tn** from April 2027 onward; rapid long-rate increases can still trigger increased purchases, fixed-rate operations, or funds-supplying operations [RAW-OFFICIAL:BOJ JGB Purchase Plan]
 
 ## Rationale
 
-[WEB-2026-06-16] The hike was driven by inflation pass-through from the Iran-conflict energy shock, not by a wage-inflation confirmation as the April decision (see [[BOJ_April_2026_Rate_Decision]]) had conditioned on. Deputy Governor Uchida cited rising crude costs feeding into business-to-business transactions, widening the range of items with consumer price increases. This is confirmed by the data: Japan's **producer price index (wholesale inflation) rose 6.3% YoY in May 2026**, exceeding the 5.5% forecast and the fastest pace since March 2023, driven by nonferrous metals, chemicals, and petroleum costs tied to Strait of Hormuz disruption. The yen-denominated import price index surged 25.5% YoY in May — the fastest since November 2022 — meaning imported inflation was compounding through both the oil-price channel and the currency-weakness channel simultaneously.
+[RAW-OFFICIAL:BOJ June 2026 MPM] The hike was driven by inflation pass-through from the Middle East energy shock, not by a wage-inflation confirmation as the April decision (see [[BOJ_April_2026_Rate_Decision]]) had conditioned on. BOJ stated that crude-oil pass-through was progressing at a relatively fast pace in business-to-business transactions and could spread to consumer prices across a wide range of items. [WEB-2026-06-11] This is consistent with May 2026 producer-price reporting: Japan's producer price index rose 6.3% YoY, exceeding the 5.5% forecast and the fastest pace since March 2023, while the yen-denominated import price index surged 25.5% YoY in May.
 
 ## The Hike Did Not Stabilize the Currency
 

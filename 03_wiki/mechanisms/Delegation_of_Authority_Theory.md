@@ -90,3 +90,5 @@ The optimal $\hat{b}$ is strictly less than $b$. This means society should *alwa
 - [[Mean_Variance_Optimisation_Theory]]
 - [[Poole_Curve_Reserve_Demand]]
 - [[Free_Banking_Vs_Central_Banking]]
+- [[Narrow_Banking_Vs_Positive_Money]]
+- [[Rules_Vs_Discretion_Debate]]

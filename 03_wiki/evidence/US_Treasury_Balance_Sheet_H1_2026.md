@@ -176,3 +176,4 @@ updated: '2026-06-29'
 - [[US_CPI_PPI_PCE_H1_2026]]
 - [[Central_Bank_Balance_Sheet_Trilemma]]
 - [[EM_Balance_Sheet_Crisis_Mechanism]]
+- [[Fiscal_Sustainability_Debt_Dynamics]]

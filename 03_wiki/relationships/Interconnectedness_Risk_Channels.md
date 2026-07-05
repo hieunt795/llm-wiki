@@ -83,3 +83,5 @@ Thông qua [[Significant_Risk_Transfer_Structures]], rủi ro được chuyển 
 - [[Margin_Procyclicality]]
 - [[Market_Risk_Framework]]
 - [[Model_Risk_And_Jumps]]
+- [[Risk_Neutral_Portfolios]]
+- [[Sovereign_Debt_Risk_Dynamics]]

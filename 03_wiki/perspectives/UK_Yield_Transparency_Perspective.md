@@ -67,3 +67,5 @@ updated: '2026-04-28'
 - [[Government_Subsidies_Taxonomy]]
 - [[Price_Yield_Inverse_Relationship]]
 - [[Real_Yield]]
+- [[Stock_Flow_Distinction]]
+- [[Tax_Elasticity_and_Buoyancy]]

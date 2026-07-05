@@ -78,3 +78,5 @@ Hiệu ứng cái kéo đạt đỉnh khi **Lượng rút lui của ECB > Lượ
 - [[Joint_Liability_In_Sovereign_Bonds]]
 - [[Sovereign_Currency_Definition]]
 - [[Central_Bank_Liquidity_Support_Programs]]
+- [[Autonomous_Factors_and_Liquidity_Supply]]
+- [[Blue_Bond_Mechanism]]

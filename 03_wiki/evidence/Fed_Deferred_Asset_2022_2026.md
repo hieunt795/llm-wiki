@@ -120,3 +120,4 @@ Nếu Warsh triển khai "bills-only RMP":
 - [[Fed_Put_Theory]]
 - [[Fed_Treasury_Accord_1951_And_Warsh_Proposal]]
 - [[Asset_Backed_Securities_ABS]]
+- [[Asset_Swap_Structure]]

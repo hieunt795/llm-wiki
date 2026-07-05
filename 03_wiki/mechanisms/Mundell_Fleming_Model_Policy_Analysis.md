@@ -99,3 +99,5 @@ The Mundell-Fleming model provides the mathematical proof for the **Monetary Pol
 - [[Commodity_Money]]
 - [[Commodity_Vs_Fiat_Money]]
 - [[Fiat_Money]]
+- [[Financial_Repression_Era]]
+- [[Lex_Monetae]]

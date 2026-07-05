@@ -45,3 +45,5 @@ updated: '2026-05-07'
 - [[Indonesia_Inflation_Targeting_Framework_Legal_Foundation]]
 - [[5y5y_Forward_Breakeven]]
 - [[BI_Inflation_Target_Formulation]]
+- [[Flexible_Inflation_Targeting_Framework]]
+- [[Flexible_ITF_Indonesia]]

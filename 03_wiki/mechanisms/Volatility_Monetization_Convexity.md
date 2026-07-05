@@ -78,3 +78,5 @@ updated: '2026-04-22'
 - [[Binary_Options_Digital]]
 - [[Credit_Default_Swaps_Schofield]]
 - [[Exotic_Options_Schofield]]
+- [[Interest_Rate_Options_Schofield]]
+- [[Interest_Rate_Swap_IRS]]

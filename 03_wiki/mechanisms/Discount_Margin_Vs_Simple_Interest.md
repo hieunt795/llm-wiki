@@ -78,3 +78,5 @@ $$r = \frac{100 - P}{DCF}$$
 - [[Interest_Rate_Option_Models]]
 - [[Interest_Rate_Swap_Engineering]]
 - [[Interest_Rate_Swap_Use_Cases]]
+- [[Interest_Rate_Transmission_Channel]]
+- [[Negative_Interest_Rate_Mechanics]]

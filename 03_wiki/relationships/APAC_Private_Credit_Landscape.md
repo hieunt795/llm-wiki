@@ -74,3 +74,4 @@ Thị trường [[Private_Credit]] tại khu vực Châu Á - Thái Bình Dươn
 - [[Global_Drivers_Of_Private_Credit]]
 - [[Private_Credit_Stress_Transmission]]
 - [[Retailization_of_Private_Credit]]
+- [[US_Vs_Europe_Private_Credit_Dynamics]]

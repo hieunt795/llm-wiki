@@ -76,3 +76,5 @@ The US Federal Reserve under Alan Greenspan (1987-2006) is the prime example of 
 - [[collateral_scarcity_transmission]]
 - [[Debasement_Trade_Strategy]]
 - [[Fiscal_Dominance_Exit_Strategy]]
+- [[Indonesia_Monetary_Operational_Framework]]
+- [[Monetary_Conditions_Index_MCI]]

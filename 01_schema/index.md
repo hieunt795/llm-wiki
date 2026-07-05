@@ -9,7 +9,7 @@ Knowledge infrastructure refactored for atomic retrieval and scalability.
 | Relationships | [Link](index/index_relationships.md) | 29 |
 | Concepts | [Link](index/index_concepts.md) | 153 |
 | Conventions | [Link](index/index_conventions.md) | 18 |
-| Evidence | [Link](index/index_evidence.md) | 27 |
+| Evidence | [Link](index/index_evidence.md) | 28 |
 | Perspectives | [Link](index/index_perspectives.md) | 42 |
 | Contradictions | [Link](index/index_contradictions.md) | 10 |
 | Syntheses | [Link](index/index_syntheses.md) | 3 |

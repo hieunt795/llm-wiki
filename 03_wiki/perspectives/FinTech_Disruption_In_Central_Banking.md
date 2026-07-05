@@ -83,3 +83,5 @@ Central banks must expand their "Vigilance" and develop "Prudential Regulation" 
 - [[Free_Banking_Concept]]
 - [[Macroprudential_Policy_Definition]]
 - [[Merchant_Banking_Origin]]
+- [[Narrow_Banking_Concept]]
+- [[Private_Credit_Data_Gap]]

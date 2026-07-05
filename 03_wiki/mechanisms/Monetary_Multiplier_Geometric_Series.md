@@ -86,3 +86,5 @@ Alexander Düring notes that in modern practice, the theoretical multiplier has 
 - [[Money_Multiplier_IMF_Framework]]
 - [[Monetary_Base_Constraint_Specie]]
 - [[Monetary_Policy_Pendulum]]
+- [[Stiglitz_Monetary_Paradigm_Credit_Matters]]
+- [[OLG_Model_Monetary_Analysis]]

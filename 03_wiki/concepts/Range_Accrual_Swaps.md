@@ -47,3 +47,5 @@ updated: '2026-05-07'
 - [[Binary_Options_Digital]]
 - [[Bond_Futures_Contract_Design]]
 - [[Caps_And_Floors]]
+- [[Exotic_Options_Schofield]]
+- [[Interest_Rate_Options_Schofield]]

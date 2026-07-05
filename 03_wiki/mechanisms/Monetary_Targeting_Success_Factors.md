@@ -76,3 +76,5 @@ While the US and UK failed with monetary targeting due to unstable velocity, Ger
 - [[ITF_Empirical_Performance_Success_Stories]]
 - [[Case_Study_Monetary_Policy_Credibility_in_Indonesia]]
 - [[collateral_scarcity_transmission]]
+- [[Discounting]]
+- [[Flexible_Inflation_Targeting_Framework]]

@@ -68,3 +68,4 @@ Tác động của quy chế không phải lúc nào cũng hiển thị qua Bid-
 - [[Basel_III_Impact_On_Private_Credit]]
 - [[BI_Act_Amendments_2004]]
 - [[Central_Bank_Liquidity_Provision_Mechanics]]
+- [[Credit_Instrument_Market_Risk_PV01_DV01]]

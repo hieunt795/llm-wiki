@@ -82,3 +82,4 @@ Sự chuyển dịch này cho thấy Private Credit không còn là "lựa chọ
 - [[Circular_06_2023_Vietnam_Lending_Restrictions]]
 - [[Hidden_Leverage_and_Liquidity_Mismatch]]
 - [[Inflation_Linked_Bond_Trading_Strategies]]
+- [[Leverage_Layering_in_Private_Credit]]

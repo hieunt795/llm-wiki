@@ -220,3 +220,5 @@ This glossary contains essential terminology and dealing jargon used in the trea
 - [[Central_Bank_Operational_Framework_Design]]
 - [[Exchange_Rate_Determination_Theories]]
 - [[Interest_Rate_Parity]]
+- [[Marshall_Lerner_Condition]]
+- [[Monetary_Policy_Trilemma]]

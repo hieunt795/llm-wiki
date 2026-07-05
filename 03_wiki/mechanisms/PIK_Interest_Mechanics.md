@@ -99,3 +99,5 @@ Interest Coverage Ratio (ICR) < 1.0x
 - [[Direct_Lending]]
 - [[ELTIF_And_AIFMD_Framework]]
 - [[European_Private_Credit_Market]]
+- [[Interest_Rate_Options_Schofield]]
+- [[Interest_Rate_Risk]]

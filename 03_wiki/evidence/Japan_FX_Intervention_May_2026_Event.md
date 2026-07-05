@@ -1,9 +1,10 @@
 ---
-title: Japan FX Intervention May 2026 — $34.5B Yen Support Operation
+title: Japan FX Intervention April-May 2026 — JPY 11.7349tn Yen Support Operation
 aliases:
 - May 2026 FX Intervention Japan
 - MOF Yen Support May 2026
 - 5.4 Trillion Yen Intervention
+- 11.7349 Trillion Yen Intervention
 - Cost of Lost Credibility
 type: evidence
 tags:
@@ -17,17 +18,18 @@ status: reviewed
 confidence: 4
 half_life_years: 0.5
 expert_lens: "Spyros Andreopoulos | Ministry of Finance Japan | Bank of Japan"
-provenance: "[RAW-CLIP: Andreopoulos (2026-05-03) — Fed, ECB, and BoJ: A Matter of Credibility; Bloomberg reporting; official MOF data]"
-thesis: "Japan's $34.5B (¥5.4T) FX intervention on May 1–3, 2026 was not a standard market-stabilization tool but a symptom of institutional credibility breakdown: the Takaichi administration forced a dovish BOJ hold despite hawkish dissent and oil-shock inflation, substituting currency intervention for monetary tightening and revealing structural fiscal dominance over central bank independence."
+provenance: "[RAW-CLIP: Andreopoulos (2026-05-03) — Fed, ECB, and BoJ: A Matter of Credibility; RAW-OFFICIAL: MOF FEIO monthly releases]"
+thesis: "Japan's April-May 2026 FX intervention reached an official JPY 11.7349 trillion because MOF substituted reserve sales for a still-insufficient monetary-policy adjustment, creating a temporary yen squeeze that failed when the US-Japan rate differential stayed wide."
 source_refs:
 - file: "Fed, ECB, and BoJ_ A Matter of Credibility.md"
+- file: "MOF_FEIO_H1_2026_Official_Releases.md"
 created: '2026-05-07'
-updated: '2026-07-03'
+updated: '2026-07-05'
 ---
 
 ## Outcome Confirmed (2026-07-03 update)
 
-[WEB-2026-06-30][WEB-2026-07-01] Total spend for the April 28–May 27, 2026 intervention window was finalized at **¥11.73 trillion (~$72–74B)** — larger than the $34.5B first-tranche estimate in this node, and the largest FX intervention spend on record for Japan. The result matches Scenario B (intervention fails) rather than Scenario A: USD/JPY's initial retreat to ~145 fully reversed, and the pair reached a fresh 40-year low of ~162.6–162.8 by late June/early July — worse than the pre-intervention starting point. The Fed dependency this node flagged resolved against Japan: incoming Chair Kevin Warsh's first FOMC (June 17) held the funds rate at 3.50–3.75% with a hawkish "inflation is a choice" framing and a dot plot showing 9/18 members leaning toward a hike by year-end — the opposite of the rate-cut path Scenario A required to narrow the differential. BOJ did hike 25bp to 1.00% on June 16 (see [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]), but this did not restore currency stability, confirming Katz's structural-misalignment argument [WEB-2026-06] that intervention (and a single rate hike) cannot substitute for a materially narrower rate differential. MOF has since shifted tactics — see [[FX_Intervention_Ambush_Tactic]] — moving from telegraphed intervention toward unannounced operations, an implicit admission that forward guidance on intervention "had been arbitraged away."
+[RAW-OFFICIAL:MOF FEIO] Total spend for the April 28-May 27, 2026 intervention window was finalized at **JPY 11,734.9 billion**; MOF also reported **JPY 0** for January-March 2026, March 30-April 27, and May 28-June 26. [LLM-S] This official figure is larger than the $34.5B first-tranche estimate in this node, and it makes the April-May operation the confirmed H1 intervention episode through the currently published MOF monthly window. The result matches Scenario B (intervention fails) rather than Scenario A: USD/JPY's initial retreat to ~145 fully reversed, and the pair reached a fresh 40-year low of ~162.6–162.8 by late June/early July — worse than the pre-intervention starting point. The Fed dependency this node flagged resolved against Japan: incoming Chair Kevin Warsh's first FOMC (June 17) held the funds rate at 3.50–3.75% with a tightening bias rather than a rate-cut signal — the opposite of the rate-cut path Scenario A required to narrow the differential. BOJ did hike 25bp to 1.00% on June 16 (see [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]), but this did not restore currency stability, confirming Katz's structural-misalignment argument [WEB-2026-06] that intervention and a single rate hike cannot substitute for a materially narrower rate differential. MOF has since shifted tactics — see [[FX_Intervention_Ambush_Tactic]] — moving from telegraphed intervention toward unannounced operations, an implicit admission that forward guidance on intervention had been arbitraged away.
 
 ---
 

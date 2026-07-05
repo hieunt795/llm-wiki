@@ -74,3 +74,4 @@ Indonesia chose **Gradualism** post-2005. The disinflation rate of -0.5% was sli
 - [[Currency_Substitution_Dollarization]]
 - [[Financial_Repression]]
 - [[Fiscal_Dominance]]
+- [[Inflation_Targeting_Economic_Performance_Evaluation]]
