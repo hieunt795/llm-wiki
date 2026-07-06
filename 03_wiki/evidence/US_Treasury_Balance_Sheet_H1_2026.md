@@ -26,7 +26,7 @@ source_refs:
 - file: US_Treasury_H1_2026_Refunding_And_Debt.md
   page: 1
 created: '2026-06-29'
-updated: '2026-06-29'
+updated: '2026-07-06'
 ---
 
 ## Snapshot Nợ Công (Tháng 5/2026)
@@ -153,6 +153,18 @@ updated: '2026-06-29'
 - **2s10s: +31bp** (H.15) / **3m10y: +56bp** / **2s30s: +77bp**
 - Bear steepening: short end neo Fed funds; long end driven bởi ACM term premium +0.73–0.83%
 
+## Cập nhật 06/07/2026 — Bills Share, Q3 Refunding, Buyback Mechanics
+
+*Nguồn: [RAW-OFFICIAL: Treasury_Buyback_Duration_Fresh_H1_2026.md]*
+
+Nghiên cứu độc lập (không tham chiếu số liệu cũ ngoài đối chiếu cuối) xác nhận bills tại **21.7% tổng nợ (30/04/2026)** theo biên bản TBAC 05/05/2026 — gần khớp con số 21.44% (MSPD tháng 5) đã ghi ở trên, chênh lệch nhỏ do khác thời điểm đo (cuối tháng 4 vs tháng 5) và có thể khác cơ sở tính (nợ khả thị vs tổng nợ). WAM 70 tháng (tháng 3/2026) vẫn là điểm công bố mới nhất — không có điểm tháng 4-6 mới hơn.
+
+**TBAC 05/05/2026:** đồng thuận tuyệt đối giữ nguyên quy mô đấu thầu coupon danh nghĩa + FRN "ít nhất vài quý tới"; nhưng dự báo trung vị primary dealer ngụ ý **thiếu hụt tài trợ $1.3T trong FY2027-28** ở mức coupon/bill hiện tại — rủi ro cấu trúc dài hạn, chưa phải áp lực H1 2026.
+
+**Q3 2026 refunding CHƯA công bố** — dự kiến 05/08/2026. Không coi bất kỳ số liệu Q3 nào là đã xác nhận.
+
+**Cơ chế buyback của Treasury** (phân biệt với RMP của Fed — xem [[Treasury_Buyback_Program_Liquidity_Cash_Management]]): hai track — liquidity support (tối đa $38B/quý, off-the-run, ~1 lần/tuần) và cash management (tối đa $25B/quý, bucket 1 tháng-2 năm, canh theo lịch quyết toán thuế giữa tháng 4/6/9/12). Đây là công cụ debt manager làm mượt biến động phát hành/tiền mặt của chính Treasury, không phải bơm reserves như RMP.
+
 ## Evidence / Source Anchors
 
 - Clipping tổng hợp: [RAW-CLIPPING: US_Treasury_H1_2026_Refunding_And_Debt.md]
@@ -177,3 +189,8 @@ updated: '2026-06-29'
 - [[Central_Bank_Balance_Sheet_Trilemma]]
 - [[EM_Balance_Sheet_Crisis_Mechanism]]
 - [[Fiscal_Sustainability_Debt_Dynamics]]
+- [[Gilt_Treasury_Spread_Dynamics]]
+- [[Outright_Purchase_Programmes_And_Balance_Sheet_Expansion]]
+- [[Treasury_Buyback_Program_Liquidity_Cash_Management]]
+- [[Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime]]
+- [[Payment_System_Floor_On_Fed_Balance_Sheet]]

@@ -101,3 +101,5 @@ Interest Coverage Ratio (ICR) < 1.0x
 - [[European_Private_Credit_Market]]
 - [[Interest_Rate_Options_Schofield]]
 - [[Interest_Rate_Risk]]
+- [[Interest_Rate_Swap_IRS]]
+- [[Schuldschein]]

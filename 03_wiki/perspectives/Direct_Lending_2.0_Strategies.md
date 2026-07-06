@@ -83,3 +83,6 @@ Sự chuyển dịch này cho thấy Private Credit không còn là "lựa chọ
 - [[Hidden_Leverage_and_Liquidity_Mismatch]]
 - [[Inflation_Linked_Bond_Trading_Strategies]]
 - [[Leverage_Layering_in_Private_Credit]]
+- [[Liquidity_Reflexivity_in_Private_Credit]]
+- [[Mark-to-Model_Valuation_Risk]]
+- [[NAV_Loans]]

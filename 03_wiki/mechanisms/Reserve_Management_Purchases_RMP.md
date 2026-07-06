@@ -19,7 +19,7 @@ school: ''
 superseded_by: null
 superseded_date: null
 expert_lens: Roberto Perli (NY Fed Desk) | Roc Armenter
-provenance: "[RAW-OFFICIAL: NY Fed Perli speech (2026-03-26)]; [RAW-OFFICIAL: Fed H.4.1 weekly series Jan-Jun 2026]"
+provenance: "[RAW-OFFICIAL: NY Fed Perli speech (2026-03-26)]; [RAW-OFFICIAL: Fed H.4.1 weekly series Jan-Jun 2026]; [RAW-OFFICIAL: Fed_H41_July2026_Balance_Sheet_Update.md]"
 thesis: Reserve Management Purchases (RMP) là cơ chế Fed mua ròng UST với quy mô đủ
   khớp tăng trưởng theo trend của cầu dự trữ (reserve demand), nhằm giữ reserves trên
   ngưỡng ample floor sau khi QT kết thúc (01/12/2025) mà không nới lỏng chính sách —
@@ -29,7 +29,7 @@ thesis: Reserve Management Purchases (RMP) là cơ chế Fed mua ròng UST với
 source_refs:
 - file: Reflections on the Early Days of Reserve Management Purchases.md
 created: '2026-06-27'
-updated: '2026-07-02'
+updated: '2026-07-06'
 ---
 
 # [[Reserve_Management_Purchases_RMP]]
@@ -88,9 +88,15 @@ Khe hở giữa hai nhịp này — đặc biệt khi **ON RRP đã cạn (~$2.3
 
 ---
 
+## 4b. Cập nhật 06/07/2026 — H.4.1 01/07/2026 và câu hỏi mở về pace
+
+Release H.4.1 mới nhất (công bố 02/07, số liệu as-of 01/07/2026) [RAW-OFFICIAL: Fed_H41_July2026_Balance_Sheet_Update.md] cho thấy reserves phục hồi mạnh sau đáy mùa thuế: **$3,077.0B**, tăng $122.6B chỉ trong một tuần so với 24/06 — đưa reserves lên gần đỉnh dải H1 ($3,129.6B, 15/05 & 20/05). TGA cùng lúc giảm còn $807.4B (từ $918.7B), khớp hướng với identity ΔReserves≈RMP−ΔTGA đã xác nhận trước đó.
+
+**Điểm cần đối chiếu, chưa resolve:** dữ liệu vận hành cho chu kỳ RMP kết thúc 13/07/2026 (WebSearch, chưa fetch trực tiếp NY Fed do 403) cho thấy pace ~$10B bill purchases mới + ~$16.5B reinvestment ≈ $26–29B/tháng quy đổi — thấp hơn đáng kể so với trend +$42B/tháng UST net đã CONFIRMED bằng endpoint method (Dec 2025–Jun 2026). Ba khả năng chưa phân biệt được: (a) pace chậm lại thật vào Q3, (b) khác biệt định nghĩa giữa net UST change trên H.4.1 và gross RMP+reinvestment operational sizing theo lịch công bố, hay (c) cần thêm điểm dữ liệu tháng 7-8 để xác nhận xu hướng. Không kết luận sớm cho đến khi có thêm 2-3 điểm H.4.1 tiếp theo.
+
 ## 5. Ranh giới rủi ro (Boundary)
 
-- **Lag risk:** Nếu nhịp phát hành Treasury (vay ~$683B trong 2 quý 1–6/2026) vượt nhịp RMP, reserves có thể thủng floor giữa hai kỳ bơm → SOFR spike trước khi Fed bù.
+- **Lag risk:** Nếu nhịp phát hành Treasury (vay ~$683B trong 2 quý 1–6/2026) vượt nhịp RMP, reserves có thể giảm xuống dưới ngưỡng sàn giữa hai kỳ bơm → SOFR spike trước khi Fed bù.
 - **Calibration risk:** RMP định cỡ theo *dự báo* trend reserve demand. Nếu việc chuyển sang **central clearing** repo làm tăng cấu trúc nhu cầu HQLA/reserves (margin tại CCP), ước lượng "ample floor" cũ ($3,000B) có thể bị dịch lên — RMP undersized. Xem [[Treasury_Central_Clearing_Repo_Netting]]. *(Lưu ý: mốc "deadline 30/06/2026" nêu trước đây chưa có raw source xác nhận — cần ingest văn bản SEC clearing rule.)*
 - **Signaling risk:** RMP dễ bị thị trường hiểu nhầm là "QE quay lại". Fed phải truyền thông rõ intent (kỹ thuật, không stimulus) để tránh nới lỏng financial conditions ngoài ý muốn.
 

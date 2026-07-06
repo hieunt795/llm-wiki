@@ -21,8 +21,9 @@ thesis: "When telegraphed verbal intervention ('bold action' rhetoric) has been 
 source_refs:
 - "[WEB-2026-07-02: Reuters via TFTC — Vice Finance Minister Mimura declines to comment on yen, omits 'bold action' language]"
 - "[WEB-2026-06/07: ING, MUFG — USD/JPY 162 as new intervention threshold]"
+- file: "WEB_Japan_JGB10Y_Fiscal_CarryTrade_H1_2026_2026-07-06.md"
 created: '2026-07-03'
-updated: '2026-07-03'
+updated: '2026-07-06'
 ---
 
 ## The Problem This Tactic Responds To
@@ -52,6 +53,14 @@ Ambush cycle (2026H2 shift):
 
 The tactic does not change the underlying rate differential that drives yen weakness (see [[Japan_FX_Intervention_May_2026_Event]] on why intervention cannot substitute for a narrower differential). It only raises the variance and unpriced-tail-risk cost of carrying a short-yen position, which can slow the pace of depreciation without reversing its direction.
 
+## Escalation to Finance-Minister Level (2026-07-06 update)
+
+[WEB-2026-07-03:Bloomberg] Finance Minister Satsuki Katayama repeated on July 3, 2026 that Japanese authorities are "ready to act on yen at any time as needed," explicitly including during US market holidays when liquidity is thin, and confirmed ongoing direct contact with US authorities — reported since June 22, 2026 to include US Treasury Secretary Bessent — on FX matters.
+
+[WEB-2026-07-05:Eastern Herald] Analysis published July 5, 2026 frames Katayama's consistent refusal to name any specific intervention threshold as deliberate policy rather than mere caution: a confirmed level becomes a level the market can test with known consequences priced in, while an unnamed trigger keeps the possible intervention point itself a variable the market cannot fully price.
+
+[LLM-S] This extends the mechanism beyond Vice Finance Minister Mimura's single July 2 interview: the same withholding-the-signal tactic is now sustained at Finance Minister level and explicitly tied to bilateral coordination with the US Treasury, which raises the credibility of the ambush threat (a coordinated intervention is harder to fade than a unilateral one) without changing the underlying rate-differential problem this tactic cannot fix.
+
 ## Boundary: Why This Is Also a Symptom, Not a Fix
 
 Markets had by late June 2026 begun treating **162** as the new de facto intervention threshold [WEB-2026-06/07: ING, MUFG] — up from the ~155–160 zone referenced in the April–May episode. A rising threshold under a policy that no longer telegraphs itself indicates that resolve, not just tactics, has been repriced downward: PM Takaichi's government has shown limited urgency treating yen weakness as a political emergency, which lowers the practical pressure on MOF to act quickly even under the ambush framework. If ambush intervention is used and still fails to hold a level, the credibility cost compounds faster than under telegraphed intervention, because there is no forward-guidance retreat available — MOF has already spent that tool.
@@ -62,3 +71,4 @@ Markets had by late June 2026 begun treating **162** as the new de facto interve
 - [[Japan_FX_Intervention_May_2026_Event]] — the failed telegraphed intervention this tactic responds to
 - [[BOJ_June_2026_Rate_Hike_Ueda_Absence]] — confirms rate action alone did not restore stability either
 - [[Japan_FX_Intervention_MOF_BOJ_Framework]] — institutional authority (MOF decides, BOJ executes)
+- [[Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026]] — fiscal-side constraint on further BOJ hikes that a rate-only response would need

@@ -20,12 +20,12 @@ school: ''
 superseded_by: null
 superseded_date: null
 expert_lens: Darrell Duffie
-provenance: "[RAW-BOOK: Duffie BPEA 2026 — The Payment System Puts a Floor on the Fed's Balance Sheet]"
+provenance: "[RAW-BOOK: Duffie BPEA 2026 — The Payment System Puts a Floor on the Fed's Balance Sheet]; [RAW-OFFICIAL: Fed_Ample_Reserves_Official_Framework_2026.md — NY Fed Staff Report 1019]"
 thesis: Luận điểm trung tâm của Duffie (BPEA 2026): quy mô tối thiểu bảng cân đối Fed bị **chốt sàn bởi nhu cầu dự trữ của hệ thống thanh toán** — lượng reserves ngân hàng cần để thanh toán đúng hạn cho nhau trong ngày (Fedwire), cộng với reserves để tuân thủ liquidity regulations. Vì GSIB ngại dùng nguồn thanh khoản của Fed (daylight overdraft, Discount Window, SRP) do stigma + chi phí vốn, Fed không thể thu nhỏ bảng cân đối dưới sàn này mà không gây gián đoạn truyền dẫn chính sách (repo spike). Muốn nhỏ hơn → phải GIẢM CẦU reserves trước.
 source_refs:
 - file: Duffie_BPEA_Payments_Liquidity_2026.md
 created: '2026-06-27'
-updated: '2026-07-02'
+updated: '2026-07-06'
 ---
 
 # [[Payment_System_Floor_On_Fed_Balance_Sheet]]
@@ -56,6 +56,14 @@ Ba động lực (Duffie §I.D):
 **Cập nhật thực nghiệm (weekly H.4.1, 23 điểm, 2026-07-02):** Đáy reserves thực tế của H1 2026 là **$2,901.8B (22/04/2026)** [RAW-OFFICIAL: Fed_H41_Weekly_Flow_H1_2026.md] — **thấp hơn ~$100B** so với mốc "~$3,000B" thường được trích dẫn làm sàn ample [WEB-2026-04-11: Andreopoulos]. Đáy này rơi đúng vào mùa quyết toán thuế cá nhân (15/04): hai tuần 08/04→22/04, TGA tăng $310.1B trong khi reserves giảm $214.4B — một thí nghiệm tự nhiên khép kín xác nhận trực tiếp identity ΔReserves≈RMP−ΔTGA (residual "other factors" chỉ +$62.9B). Đối chiếu SOFR–IORB tháng 4/2026: trung bình -11bp, không có tín hiệu stress [RAW-OFFICIAL: SOFR_IORB_Spread_H1_2026.md]. Tức là sàn "binding" thực sự (nơi payment throttling bắt đầu kích hoạt) **vẫn chưa được test** dù đã hấp thụ cú sốc tài khóa lớn nhất H1 — $3,000B nên được coi là ước tính biên trên, không phải ngưỡng kích hoạt chính xác. Cần một cú sốc TGA lớn hơn $310B/2 tuần hoặc trùng FBO cuối quý để xác định sàn thật.
 
 ---
+
+## 2b. Khung định lượng chính thức — NY Fed Staff Report 1019 (cập nhật 06/07/2026)
+
+Nghiên cứu độc lập xác nhận: bản thân FOMC KHÔNG công bố ngưỡng số cụ thể cho "ample" — ngôn ngữ statement 17/06/2026 vẫn chỉ nói "maintaining ample reserves in the banking system", một trạng thái định tính [RAW-OFFICIAL: Fed_Ample_Reserves_Official_Framework_2026.md]. Ngưỡng định lượng gần nhất với nguồn chính thức đến từ nghiên cứu nội bộ NY Fed: **Staff Report No. 1019** (Afonso, Giannone, La Spada, Williams; bản sửa đổi 11/2025) mô hình hóa đường cầu reserves theo ba chế độ — scarce (dốc, lãi suất nhạy với cung), ample (thoải hơn nhưng vẫn dốc xuống, một dải chứ không phải một điểm), abundant (phẳng, lãi suất không phản ứng cung). Ngưỡng được báo cáo: **reserves vượt ~12–13% tổng tài sản ngân hàng** → chế độ abundant. Đây là một mỏ neo khác về bản chất so với mốc "~$3,000B/9% GDP" của Andreopoulos đã dùng trong cluster trước — một cái đo theo tổng tài sản ngân hàng (demand-side, vi mô), cái kia đo theo GDP (vĩ mô) — hai proxy không nhất thiết di chuyển cùng nhau nếu tổng tài sản ngân hàng tăng nhanh hơn hoặc chậm hơn GDP danh nghĩa.
+
+Cập nhật thực nghiệm H.4.1 01/07/2026: reserves phục hồi lên $3,077.0B (từ đáy mùa thuế $2,901.8B), gần đỉnh dải H1 ($3,129.6B) [RAW-OFFICIAL: Fed_H41_July2026_Balance_Sheet_Update.md] — vẫn nằm trong dải "ample" theo cả hai proxy, chưa có tín hiệu tiệm cận scarce.
+
+**Giới hạn của phát hiện này:** con số 12-13% lấy từ search snippet, CHƯA verify trực tiếp với văn bản PDF gốc của SR1019 (newyorkfed.org 403 trên cả WebFetch và curl) — cần một lượt ingest riêng khi truy cập được toàn văn.
 
 ## 3. Menu chính sách để HẠ sàn (giảm cầu reserves)
 
@@ -88,3 +96,4 @@ Duffie đề xuất 4 công cụ cho phép Fed thu nhỏ bảng cân đối mà 
 - [[Reserve_Management_Purchases_RMP]] — Fed bơm reserves theo trend để giữ trên sàn.
 - [[Treasury_General_Account_Mechanism]] — cú sốc TGA rút reserves xuống sàn.
 - [[Demand_for_Central_Bank_Reserves]] — khung cầu reserves (Bindseil).
+- [[Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime]] — mô hình hóa 3 chế độ + ngưỡng định lượng chính thức NY Fed.

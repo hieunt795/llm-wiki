@@ -22403,6 +22403,114 @@
       "id": "Japan_Foreign_Selling_Late_June_2026_Carry_Unwind_Test_thesis",
       "community": 10,
       "norm_label": "When late-quarter foreign selling in Japanese secu"
+    },
+    {
+      "label": "CFTC Japanese Yen Futures COT 2026-06-23",
+      "file_type": "document",
+      "source_file": "02_sources\\official_reports\\CFTC_Japanese_Yen_Futures_COT_2026-06-23.md",
+      "source_location": "L1",
+      "id": "CFTC_Japanese_Yen_Futures_COT_2026-06-23",
+      "community": 20,
+      "norm_label": "CFTC_Japanese_Yen_Futures_COT_2026-06-23"
+    },
+    {
+      "label": "WEB Japan JGB10Y Fiscal CarryTrade H1 2026 2026-07-06",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\WEB_Japan_JGB10Y_Fiscal_CarryTrade_H1_2026_2026-07-06.md",
+      "source_location": "L1",
+      "id": "WEB_Japan_JGB10Y_Fiscal_CarryTrade_H1_2026_2026-07-06",
+      "community": 20,
+      "norm_label": "WEB_Japan_JGB10Y_Fiscal_CarryTrade_H1_2026_2026-07-06"
+    },
+    {
+      "label": "Japan JGB 10Y Yield Fiscal Repricing H1 2026",
+      "file_type": "document",
+      "source_file": "03_wiki\\evidence\\Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026.md",
+      "source_location": "L1",
+      "id": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "community": 10,
+      "norm_label": "Japan JGB 10Y Yield Fiscal Repricing H1 2026"
+    },
+    {
+      "label": "Japan's 10-year JGB yield rose from approximately 2.1% in March 2026 to approximately 2.75-2.8% by early July 2026 because a weak 10-year auction and the Takaichi government's record fiscal-2026 budget priced a fiscal risk premium into long-tenor JGBs, a distinct driver from the BOJ policy-rate path that complicates the BOJ's hike calculus.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\evidence\\Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026.md",
+      "source_location": "L1",
+      "id": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026_thesis",
+      "community": 10,
+      "norm_label": "Japan's 10-year JGB yield rose from approximately "
+    },
+    {
+      "label": "Fed Ample Reserves Official Framework 2026",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\Fed_Ample_Reserves_Official_Framework_2026.md",
+      "source_location": "L1",
+      "id": "Fed_Ample_Reserves_Official_Framework_2026",
+      "community": 20,
+      "norm_label": "Fed_Ample_Reserves_Official_Framework_2026"
+    },
+    {
+      "label": "Fed H41 July2026 Balance Sheet Update",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\Fed_H41_July2026_Balance_Sheet_Update.md",
+      "source_location": "L1",
+      "id": "Fed_H41_July2026_Balance_Sheet_Update",
+      "community": 20,
+      "norm_label": "Fed_H41_July2026_Balance_Sheet_Update"
+    },
+    {
+      "label": "Treasury Buyback Duration Fresh H1 2026",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\Treasury_Buyback_Duration_Fresh_H1_2026.md",
+      "source_location": "L1",
+      "id": "Treasury_Buyback_Duration_Fresh_H1_2026",
+      "community": 20,
+      "norm_label": "Treasury_Buyback_Duration_Fresh_H1_2026"
+    },
+    {
+      "label": "WEB Japan Insurer UST Holdings CapitalFlow 2026-07-06",
+      "file_type": "document",
+      "source_file": "02_sources\\Clipping\\WEB_Japan_Insurer_UST_Holdings_CapitalFlow_2026-07-06.md",
+      "source_location": "L1",
+      "id": "WEB_Japan_Insurer_UST_Holdings_CapitalFlow_2026-07-06",
+      "community": 20,
+      "norm_label": "WEB_Japan_Insurer_UST_Holdings_CapitalFlow_2026-07-06"
+    },
+    {
+      "label": "Reserve Demand Curve \u2014 Scarce, Ample, Abundant Regime (NY Fed Time-Varying Model)",
+      "file_type": "document",
+      "source_file": "03_wiki\\mechanisms\\Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime.md",
+      "source_location": "L1",
+      "id": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "community": 10,
+      "norm_label": "Reserve Demand Curve \u2014 Scarce, Ample, Abundant Regime (NY Fed Time-Varying Model)"
+    },
+    {
+      "label": "NY Fed Staff Report 1019 m\u00f4 h\u00ecnh h\u00f3a \u0111\u01b0\u1eddng c\u1ea7u reserves theo 3 ch\u1ebf \u0111\u1ed9 li\u00ean t\u1ee5c (kh\u00f4ng ph\u1ea3i 3 \u0111i\u1ec3m r\u1eddi r\u1ea1c) d\u1ef1a tr\u00ean \u0111\u1ed9 d\u1ed1c: scarce (d\u1ed1c, l\u00e3i su\u1ea5t nh\u1ea1y cung), ample (tho\u1ea3i h\u01a1n nh\u01b0ng v\u1eabn d\u1ed1c xu\u1ed1ng \u2014 m\u1ed9t d\u1ea3i, kh\u00f4ng ph\u1ea3i m\u1ed9t s\u1ed1), abundant (ph\u1eb3ng, l\u00e3i su\u1ea5t kh\u00f4ng ph\u1ea3n \u1ee9ng cung). Ng\u01b0\u1ee1ng \u0111\u1ecbnh l\u01b0\u1ee3ng \u0111\u01b0\u1ee3c b\u00e1o c\u00e1o: reserves v\u01b0\u1ee3t ~12-13% t\u1ed5ng t\u00e0i s\u1ea3n ng\u00e2n h\u00e0ng \u0111\u01b0a h\u1ec7 th\u1ed1ng v\u00e0o ch\u1ebf \u0111\u1ed9 abundant. \u0110\u00e2y l\u00e0 ng\u01b0\u1ee1ng \u0111\u1ecbnh l\u01b0\u1ee3ng g\u1ea7n nh\u1ea5t v\u1edbi ngu\u1ed3n nghi\u00ean c\u1ee9u ch\u00ednh th\u1ee9c c\u1ee7a Fed, kh\u00e1c v\u1ec1 b\u1ea3n ch\u1ea5t proxy so v\u1edbi c\u00e1c \u01b0\u1edbc t\u00ednh h\u1ecdc thu\u1eadt b\u00ean ngo\u00e0i (Duffie daylight-overdraft, Andreopoulos $3,000B/9% GDP) \u2014 \u0111o theo t\u1ed5ng t\u00e0i s\u1ea3n ng\u00e2n h\u00e0ng thay v\u00ec GDP.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\mechanisms\\Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime.md",
+      "source_location": "L1",
+      "id": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime_thesis",
+      "community": 10,
+      "norm_label": "NY Fed Staff Report 1019 m\u00f4 h\u00ecnh h\u00f3a \u0111\u01b0\u1eddng c\u1ea7u res"
+    },
+    {
+      "label": "Treasury Buyback Program \u2014 Liquidity Support and Cash Management Tracks",
+      "file_type": "document",
+      "source_file": "03_wiki\\mechanisms\\Treasury_Buyback_Program_Liquidity_Cash_Management.md",
+      "source_location": "L1",
+      "id": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "community": 10,
+      "norm_label": "Treasury Buyback Program \u2014 Liquidity Support and Cash Management Tracks"
+    },
+    {
+      "label": "Treasury v\u1eadn h\u00e0nh ch\u01b0\u01a1ng tr\u00ecnh buyback tr\u00ean ch\u00ednh n\u1ee3 \u0111\u00e3 ph\u00e1t h\u00e0nh c\u1ee7a m\u00ecnh qua hai track t\u00e1ch bi\u1ec7t: liquidity support (t\u1ed1i \u0111a $38B/qu\u00fd, off-the-run, ~1 l\u1ea7n/tu\u1ea7n \u2014 cho holders l\u1ed1i tho\u00e1t d\u1ef1 \u0111o\u00e1n \u0111\u01b0\u1ee3c) v\u00e0 cash management (t\u1ed1i \u0111a $25B/qu\u00fd, bucket 1 th\u00e1ng-2 n\u0103m, canh theo l\u1ecbch quy\u1ebft to\u00e1n thu\u1ebf gi\u1eefa th\u00e1ng 4/6/9/12 \u2014 l\u00e0m m\u01b0\u1ee3t bi\u1ebfn \u0111\u1ed9ng s\u1ed1 d\u01b0 ti\u1ec1n m\u1eb7t). \u0110\u00e2y l\u00e0 c\u00f4ng c\u1ee5 c\u1ee7a debt manager (Treasury) l\u00e0m m\u01b0\u1ee3t ph\u00e1t h\u00e0nh/ti\u1ec1n m\u1eb7t c\u1ee7a CH\u00cdNH m\u00ecnh, ho\u00e0n to\u00e0n t\u00e1ch bi\u1ec7t v\u1ec1 c\u01a1 ch\u1ebf v\u00e0 m\u1ee5c \u0111\u00edch v\u1edbi Reserve Management Purchases (RMP) c\u1ee7a Fed \u2014 v\u1ed1n l\u00e0 ng\u00e2n h\u00e0ng trung \u01b0\u01a1ng b\u01a1m reserves m\u1edbi qua mua t\u00e0i s\u1ea3n r\u00f2ng.",
+      "file_type": "rationale",
+      "source_file": "03_wiki\\mechanisms\\Treasury_Buyback_Program_Liquidity_Cash_Management.md",
+      "source_location": "L1",
+      "id": "Treasury_Buyback_Program_Liquidity_Cash_Management_thesis",
+      "community": 10,
+      "norm_label": "Treasury v\u1eadn h\u00e0nh ch\u01b0\u01a1ng tr\u00ecnh buyback tr\u00ean ch\u00ednh "
     }
   ],
   "links": [
@@ -102062,6 +102170,2034 @@
     {
       "source": "Yield_Curve_Hierarchy",
       "target": "Real_Yield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Range_Accrual_Swaps",
+      "target": "Exotic_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Range_Accrual_Swaps",
+      "target": "Interest_Rate_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Selected_Global_Bond_Markets",
+      "target": "Circular_16_2021_Vietnam_Banking_Bond_Rules",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Selected_Global_Bond_Markets",
+      "target": "Curve_Hedged_Bond_Spreads",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Policy_Credibility_Conceptual_Dimensions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Push_and_Pull_Determinants_of_Capital_Flows",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Flexible_Inflation_Targeting_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Flexible_ITF_Indonesia",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "Transition_Economy_Reform_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "Monetarist_Vs_Keynesian_Monetary_Views",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Monetary_Policy_Trilemma",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Money_Market_Instruments_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NG_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NG_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NO_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "NO_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "QA_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "QA_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "RU_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "RU_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "MY_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "NG_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ERM_Crisis_1992_Mechanics",
+      "target": "Marshall_Lerner_Condition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Deferred_Asset_2022_2026",
+      "target": "Asset_Swap_Structure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_CPI_PPI_PCE_H1_2026",
+      "target": "Inflation_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "Fiscal_Sustainability_Debt_Dynamics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Bank_Treasury_Glossary",
+      "target": "Marshall_Lerner_Condition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Bank_Treasury_Glossary",
+      "target": "Monetary_Policy_Trilemma",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Central_Bank_Liquidity_Support_Programs",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "MPTM_Empirical_Evidence_Indonesia",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Corporate_Trade_Credit",
+      "target": "Credit_Default_Swaps_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "External_Debt_Stocks_and_Flows",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "Floating_vs_Fixed_Exchange_Rate_Regimes",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "Monetary_Conditions_Index_MCI",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "Mundell_Fleming_Model_Policy_Analysis",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Margin_Procyclicality",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Market_Depth_Vs_Breadth",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "Narrow_Banking_Vs_Positive_Money",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "Rules_Vs_Discretion_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Interest_Rate_Transmission_Channel",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Negative_Interest_Rate_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Fed_Put_Theory",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Transition_Economy_Reform_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Forward_Yield_Curves",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Zero_Coupon_Yield_Curves",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Conditions_Index_MCI",
+      "target": "Rules_Vs_Discretion_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Conditions_Index_MCI",
+      "target": "LIBOR_And_Term_Benchmark_Fragility",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "Stiglitz_Monetary_Paradigm_Credit_Matters",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "OLG_Model_Monetary_Analysis",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Discounting",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Flexible_Inflation_Targeting_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Mundell_Fleming_Model_Policy_Analysis",
+      "target": "Financial_Repression_Era",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Mundell_Fleming_Model_Policy_Analysis",
+      "target": "Lex_Monetae",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Monetary_Survey_Banking_System_Structure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Sovereign_Debt_Risk_Dynamics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "monetary_policy_transparency",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "PBOC_Monetary_Policy_Transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "Systemic_Risk_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "ABS_Tranching_And_Default_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Outright_Purchase_Programmes_And_Balance_Sheet_Expansion",
+      "target": "BOP_Framework_and_Conventions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PIK_Interest_Mechanics",
+      "target": "Interest_Rate_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PIK_Interest_Mechanics",
+      "target": "Interest_Rate_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Transition_Economy_Reform_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Vasicek_Structural_Curve_Model",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Autonomous_Factors_and_Liquidity_Supply",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Blue_Bond_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Bond_Cashflow_Structural_Typologies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Floating_Rate_Notes_FRN",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "collateral_scarcity_transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "Credit_Spread_Pricing",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Forward_Risk_Basis_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Interest_Rate_Option_Models",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Money_Market_Instruments",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Negative_Convexity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Monetary_Survey_Banking_System_Structure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Transition_Economy_Reform_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Bank_Treasury_Glossary",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Banking_Separation_And_Ring_Fencing",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Interest_Rate_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Interest_Rate_Swap_IRS",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Direct_Lending_2.0_Strategies",
+      "target": "Leverage_Layering_in_Private_Credit",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Range_Accrual_Swaps",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Vanilla_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Narrow_Banking_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Private_Credit_Data_Gap",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Margining",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Margin_Procyclicality",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "Indonesia_Monetary_Operational_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "Monetary_Conditions_Index_MCI",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Market_Liquidity_Regulative_Impact",
+      "target": "Credit_Instrument_Market_Risk_PV01_DV01",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Currency_Substitution_Dollarization",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Financial_Repression",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Macroprudential_Policy_Instruments",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Monetary_Conditions_Index_MCI",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Stock_Flow_Distinction",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Tax_Elasticity_and_Buoyancy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "APAC_Private_Credit_Landscape",
+      "target": "US_Vs_Europe_Private_Credit_Dynamics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Bank_Deposit_Types",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Credit_View_Transmission_Channels",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Credibility_Growth_Trade_off",
+      "target": "Inflation_Targeting_Economic_Performance_Evaluation",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Risk_Neutral_Portfolios",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Sovereign_Debt_Risk_Dynamics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Nonbank_Financial_Intermediation",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Real_Yield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Selected_Global_Bond_Markets",
+      "target": "Decree_08_2023_Vietnam_Bond_Restructuring",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Semiliquid_Fund_Structures",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Semiliquid_Fund_Structures_And_Redemption_Risks",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Forward_ASW_And_Inflation_Swaps",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Headline_vs_Core_Inflation_Targeting",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "Rules_Vs_Discretion_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "The_Case_for_Leaning_Consensus",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Case_Study_Monetary_Policy_Credibility_in_Indonesia",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "collateral_scarcity_transmission",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "QA_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "QA_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "RU_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "RU_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "NO_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "QA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ERM_Crisis_1992_Mechanics",
+      "target": "Optimum_Currency_Area",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Deferred_Asset_2022_2026",
+      "target": "Currency_Substitution_Dollarization",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_Foreign_Selling_Late_June_2026_Carry_Unwind_Test",
+      "target": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "BOJ_June_2026_Rate_Hike_Ueda_Absence",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Japan_FX_Intervention_May_2026_Event",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Japan_Foreign_Selling_Late_June_2026_Carry_Unwind_Test",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Japan_FX_Intervention_MOF_BOJ_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "BoJ_QE_2013_Case_Study",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "FX_Intervention_Ambush_Tactic",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Fiscal_Dominance",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_CPI_PPI_PCE_H1_2026",
+      "target": "US_Treasury_Balance_Sheet_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "Gilt_Treasury_Spread_Dynamics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Bank_Treasury_Glossary",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Autonomous_Factors_In_Central_Bank_Balance_Sheet",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Corporate_Trade_Credit",
+      "target": "Currency_Substitution_Dollarization",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "Currency_Substitution_Dollarization",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "Flow_of_Funds_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "Nostro_Account_Settlement_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "Push_and_Pull_Determinants_of_Capital_Flows",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Model_Risk_And_Jumps",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Mortgage_Prepayment_Drivers",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "IMF_Code_of_Good_Practices_Transparency",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "LIBOR_And_Term_Benchmark_Fragility",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "PIK_Interest_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Symmetric_Interest_Rate_Corridor",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Rules_Vs_Discretion_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "LIBOR_And_Term_Benchmark_Fragility",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FX_Intervention_Ambush_Tactic",
+      "target": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "asset_encumbrance_and_lgd",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Collateral_Scarcity_And_Effective_Term_Funding_Costs",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "ECB_Institutional_Architecture",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "Financial_Deepening",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Headline_vs_Core_Inflation_Targeting",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Indonesia_Monetary_Operational_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Transition_Economy_Reform_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Disintermediation_and_Credit_Crunch_Indonesia",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "Taralac_Facility_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "Unconventional_Monetary_Policy_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "asset_encumbrance_and_lgd",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "Banking_Separation_And_Ring_Fencing",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Outright_Purchase_Programmes_And_Balance_Sheet_Expansion",
+      "target": "BOP_Standard_Classification",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PIK_Interest_Mechanics",
+      "target": "Interest_Rate_Swap_IRS",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "PIK_Interest_Mechanics",
+      "target": "Schuldschein",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Mathematical_Conventions_Of_Interest_Accrual",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Central_Bank_Coordination_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Collective_Action_Clause_CAC",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "ESBies_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Merchant_Banking_Origin",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Risk_Weighted_Assets",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "Exchange_Rate_Transmission_Channel",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "Expectations_Transmission_Channel",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Swap_Market_Risk_DV01_Carry_Rolldown",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Spot_Swap_Relationship",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Rolling_Vs_Fixed_Settlement",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Schuldschein",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Exchange_Rate_Targeting_Weaknesses",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Lean_Vs_Clean_Monetary_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Bank_Money_Creation",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Bank_Money_Creation_Accounting",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Overnight_Index_Swap_OIS",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Range_Accrual_Swaps",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Direct_Lending_2.0_Strategies",
+      "target": "Liquidity_Reflexivity_in_Private_Credit",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Preferred_Habitat_Market_Distortions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Wash_Sale_Rules_Tactics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Central_Bank_Liquidity_Support_Programs",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Main_RTGS_Systems",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Market_Depth_Vs_Breadth",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Mean_Variance_Optimisation_Theory",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "Monetary_Financing_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "Monetary_Policy_Transmission_Mechanism_MPTM",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Market_Liquidity_Regulative_Impact",
+      "target": "Emergency_Liquidity_Assistance_ELA",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Fiscal_Space",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Fiscal_Space_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Monetary_Financing",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Monetary_Financing_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Transition_Economy_Reform_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Yield_Curve_Representations",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "APAC_Private_Credit_Landscape",
+      "target": "Credit_Default_Swaps_CDS",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Definition_Of_Banking_Entity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Exogenous_Risk_LOLR",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Credibility_Growth_Trade_off",
+      "target": "Inflation_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Prepayment_Risk_Tranching_And_PACs",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Business_Development_Company",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Monetarist_Vs_Keynesian_Monetary_Views",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Abstract_Properties_Of_Money",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Short_Selling_Market_Microstructure",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Term_Structure_Bootlacing",
+      "target": "Significant_Risk_Transfer_Structures",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Inflation_Forecast_Targeting_IFT",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Inflation_Fundamentals",
+      "target": "Inflation_Linked_Bond_Trading_Strategies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "Time_Inconsistency_Problem",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ITF_Regime_Classification_Stone_Carare",
+      "target": "Inflation_Target_Formulation",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Endogenous_Risk_LOLR",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Operations_Instruments",
+      "target": "Full_Allotment_OMO_Mechanics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SA_Domain",
+      "target": "SE_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SE_Domain",
+      "target": "SA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "SG_Domain",
+      "target": "SA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TH_Domain",
+      "target": "SA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TR_Domain",
+      "target": "SA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "RU_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "VN_Domain",
+      "target": "SA_Domain",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "ERM_Crisis_1992_Mechanics",
+      "target": "Purchasing_Power_Parity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Deferred_Asset_2022_2026",
+      "target": "Financial_Deepening",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_FX_Intervention_May_2026_Event",
+      "target": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026",
+      "target": "Japan_May_2026_CPI_Report",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "Outright_Purchase_Programmes_And_Balance_Sheet_Expansion",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "US_Treasury_Balance_Sheet_H1_2026",
+      "target": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Bank_Internal_Decision_Engine",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "BI_Act_Amendments_2004",
+      "target": "Bank_Lending_and_Capital_Channels_Perry",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Corporate_Trade_Credit",
+      "target": "European_Private_Credit_Market",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "GDP_Measurement_Problems_Transition",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Crawling_Peg_and_Real_Exchange_Rate",
+      "target": "Government_Subsidies_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "Unit_of_Account_and_Currency_Sovereignty",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Currency_Substitution_Model",
+      "target": "Monetary_Vs_Financial_Trilemma",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Portfolio_Rebalancing_Strategies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Data_Complexity_Measurement_PCA",
+      "target": "Portfolio_Volatility_MultiFactor",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "Monetary_Policy_Lags_Profile",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Delegation_of_Authority_Theory",
+      "target": "Base_Money",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Variation_Margin_Vs_Initial_Margin",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Discount_Margin_Vs_Simple_Interest",
+      "target": "Liquidity_Premium_Vs_Yield_Discount",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Monetary_Policy_Lags_Profile",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Fed_Treasury_Accord_1951_And_Warsh_Proposal",
+      "target": "Central_Bank_Independence_Dimensions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Expectations_Hypothesis_In_Yield_Curves",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "J_Curve_Effect",
+      "target": "Phillips_Curve_Expectations_Augmented",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "Fiscal_Space",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Multiplier_Geometric_Series",
+      "target": "Fiscal_Space_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Inflation_Forecast_Targeting_IFT",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Targeting_Success_Factors",
+      "target": "Inflation_Targeting_Framework_And_Price_Stability",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Exchange_Rate_Targeting_Weaknesses",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Offset_and_Sterilization_Dynamics",
+      "target": "Lean_Vs_Clean_Monetary_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "Flexible_ITF_Post_Crisis_Monetary_Policy_Paradigm",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "One-directional_Standing_Facility_Steering",
+      "target": "Monetary_Policy_Transparency_Future_Paradigm",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "Bank_Risk_Environment",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Originate_To_Distribute_Model",
+      "target": "Basel_III_Output_Floor",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Outright_Purchase_Programmes_And_Balance_Sheet_Expansion",
+      "target": "Poole_Curve_Reserve_Demand",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Payment_System_Floor_On_Fed_Balance_Sheet",
+      "target": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Central_Bank_Independence_Dimensions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Portfolio_Optimization_Lagrangian_Framework",
+      "target": "Central_Bank_Independence_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Payment_System_Floor_On_Fed_Balance_Sheet",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Reserve_Management_Purchases_RMP",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Supply_Driven_Vs_Demand_Driven_Reserves",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Poole_Curve_Reserve_Demand",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "Demand_for_Central_Bank_Reserves",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Reserve_Demand_Curve_Scarce_Ample_Abundant_Regime",
+      "target": "US_Treasury_Balance_Sheet_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Fiscal_Dominance_Exit_Strategy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Scissors_Effect_ECB_Mechanism",
+      "target": "Japan_Debt_Puzzle_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "Systemic_Risk_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Soft_Bullet_And_Conditional_Pass_Through",
+      "target": "ABS_Tranching_And_Default_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "Gilt_Treasury_Spread_Dynamics",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Spread_Taxonomy_And_Transmission",
+      "target": "Inflation_Targeting_Regimes_Taxonomy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Bermudan_Swaptions",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Swap_Rate_Survivorship_Bias",
+      "target": "Portfolio_Rebalancing_Strategies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "Danish_Balance_Principle_And_Mortgage_Delivery",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "TBA_Market_Infrastructure",
+      "target": "ISIN_And_CUSIP_Identification_Architecture",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Monetarist_Vs_Keynesian_Monetary_Views",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Tobin_s_q_Channel",
+      "target": "Rules_Vs_Discretion_Debate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "target": "Treasury_Buyback_Program_Liquidity_Cash_Management_thesis",
+      "label": "has_thesis",
+      "type": "rationale_for"
+    },
+    {
+      "source": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "target": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "target": "Reserve_Management_Purchases_RMP",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "target": "Treasury_Debt_Management_Strategy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "target": "US_Treasury_Balance_Sheet_H1_2026",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Treasury_Buyback_Program_Liquidity_Cash_Management",
+      "target": "Treasury_General_Account_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "Cash_Stub_Rate",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Turn_Premium",
+      "target": "China_Low_Interest_Rate_Rationale",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Vanilla_Options_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Volatility_Monetization_Convexity",
+      "target": "Volatility_Smile_Skew_Surface",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Direct_Lending_2.0_Strategies",
+      "target": "Mark-to-Model_Valuation_Risk",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Business_Development_Company",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Dodd_Frank_And_EMIR_Impact",
+      "target": "Euromarkets",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "RTGS_Systems_Global",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "FinTech_Disruption_In_Central_Banking",
+      "target": "Asset_Fire_Sales_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Model_Risk_And_Jumps",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Japanese_Castle_Wall_Analogy",
+      "target": "Monetary_Analysis_Transition_Economy_Issues",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "monetary_policy_transparency",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Just_Do_It_Monetary_Strategy",
+      "target": "Monetary_Survey_Identity",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Market_Liquidity_Regulative_Impact",
+      "target": "EM_Balance_Sheet_Crisis_Mechanism",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Flow_of_Funds_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "MMT_and_Public_Discourse",
+      "target": "Functional_Finance_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Monetary_Financing_Prohibition_Rationale",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Monetary_Resilience_Tradeoff",
+      "target": "Monetary_Policy_Transmission_Mechanism_MPTM",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Yield_Curve_Sectoral_Analysis",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "UK_Yield_Transparency_Perspective",
+      "target": "Yield_Curve_Trading_Strategies",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "APAC_Private_Credit_Landscape",
+      "target": "Credit_Default_Swaps_Schofield",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Financial_System_Stability_FSS_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Asset_Encumbrance_And_Overcollateralization",
+      "target": "Financial_System_Stability_FSS_Framework",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Credibility_Growth_Trade_off",
+      "target": "International_Reserve_Adequacy",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Credit_View_Transmission_Channels",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Interconnectedness_Risk_Channels",
+      "target": "Financial_System_Stability_FSS_Concept",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Base_Money",
+      "label": "links_to",
+      "type": "reference"
+    },
+    {
+      "source": "Macro_Financial_Linkages",
+      "target": "Central_Bank_Definition",
       "label": "links_to",
       "type": "reference"
     }

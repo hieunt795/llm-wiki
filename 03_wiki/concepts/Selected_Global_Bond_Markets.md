@@ -48,3 +48,4 @@ updated: '2026-04-22'
 - [[Bond_Valuation_Principles]]
 - [[Circular_16_2021_Vietnam_Banking_Bond_Rules]]
 - [[Curve_Hedged_Bond_Spreads]]
+- [[Decree_08_2023_Vietnam_Bond_Restructuring]]

@@ -235,3 +235,4 @@ Oil shock (Middle East war)
 - [[BOJ_June_2026_Rate_Hike_Ueda_Absence]]
 - [[FX_Intervention_Ambush_Tactic]]
 - [[Japan_May_2026_CPI_Report]]
+- [[Japan_JGB_10Y_Yield_Fiscal_Repricing_H1_2026]]

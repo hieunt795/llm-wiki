@@ -79,3 +79,6 @@ Because terms of payment operate outside strict regulatory banking parameters, m
 - [[BOP_Standard_Classification]]
 - [[Commodities]]
 - [[Credit_Default_Swaps_Schofield]]
+- [[Currency_Substitution_Dollarization]]
+- [[European_Private_Credit_Market]]
+- [[Financial_Repression]]

@@ -94,3 +94,6 @@ This statement encapsulates the **reflexivity principle**: market participants' 
 - [[Exchange_Rate_Determination_Theories]]
 - [[Interest_Rate_Parity]]
 - [[Marshall_Lerner_Condition]]
+- [[Optimum_Currency_Area]]
+- [[Purchasing_Power_Parity]]
+- [[Argentine_Peso_Collapse]]
